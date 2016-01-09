@@ -8775,3 +8775,100 @@ It's highly recommended that you fix the library with 'execstack -c <libfile>', 
 [15:33:16 INFO]: srevid lost connection: Disconnected
 [15:33:16 INFO]: srevid left the game.
 [15:34:04 INFO]: devil_biker has just earned the achievement [Cow Tipper]
+[15:36:11 INFO]: devil_biker was killed by Witch using magic
+[15:36:51 INFO]: [NoSpawnChunks] Unloading chunks...
+[15:36:51 INFO]: [NoSpawnChunks] Unloaded 184 chunks. Took 681 ms.
+[15:48:17 INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[15:48:18 INFO]: srevid[/192.222.201.105:51474] logged in with entity id 36986 at ([J]-240.7186260114891, 56.0, 188.34362673108774)
+[15:48:31 INFO]: <srevid> rebonjour :)
+[15:48:40 INFO]: <devil_biker> recoucou
+[15:51:53 INFO]: [NoSpawnChunks] Unloading chunks...
+[15:51:54 INFO]: [NoSpawnChunks] Unloaded 148 chunks. Took 466 ms.
+[15:53:14 INFO]: <devil_biker> dans quelle partie de votre monde je pourrais construire ma maison
+[15:54:29 INFO]: <srevid> euh... on a pas vraiment de zone réservé... trouve toi un petit coin ;)
+[15:54:47 INFO]: <devil_biker> ok merci
+[15:56:12 INFO]: <srevid> si tu as besoin de ressources, y a des coffres dans la maison principale où y en a plein
+[15:56:42 INFO]: devil_biker has just earned the achievement [Monster Hunter]
+[15:57:17 INFO]: <devil_biker> ok merci beaucoup
+[16:01:03 INFO]: UUID of player TiPoulet is 5bfeaf1f-c328-4c78-b30d-bda7fdafb049
+[16:01:03 INFO]: TiPoulet[/70.82.243.105:50084] logged in with entity id 44358 at ([J]-193.2200855160999, 75.0, 298.8062130647362)
+[16:01:21 INFO]: UUID of player Spy00 is 9d5dfa3b-f839-4761-8a34-80d123ac6e92
+[16:01:21 INFO]: Spy00[/70.82.243.105:47833] logged in with entity id 44402 at ([J]-192.66702823156734, 75.0, 294.9514501570927)
+[16:01:39 INFO]: <Spy00> salut
+[16:01:42 INFO]: <srevid> hello
+[16:02:35 INFO]: <Spy00> devil_biker ??
+[16:02:46 INFO]: <devil_biker> c'est Olivier
+[16:02:53 INFO]: <Spy00> ahh salut!
+[16:03:27 INFO]: srevid lost connection: Disconnected
+[16:03:27 INFO]: srevid left the game.
+[16:03:35 INFO]: <devil_biker> TiPoulet = Marie?
+[16:03:48 INFO]: <Spy00> oui
+[16:03:52 INFO]: <Spy00> spy - m-a
+[16:04:10 INFO]: <devil_biker> coucou M-A
+[16:06:00 INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[16:06:00 INFO]: srevid[/192.222.201.105:51496] logged in with entity id 45997 at ([J]-353.300000011921, 8.0, 135.30000001192093)
+[16:06:57 INFO]: [NoSpawnChunks] Unloading chunks...
+[16:06:57 INFO]: [NoSpawnChunks] Unloaded 63 chunks. Took 212 ms.
+[16:06:58 INFO]: [NoSpawnChunks] Freed 211 mb!
+[16:07:26 INFO]: <srevid> nous sommes en train de faire la migration du serveur vers le nouveau serveur de simon
+[16:07:45 INFO]: <srevid> on fera un backup du jeu en derniere minute
+[16:07:53 INFO]: <Spy00> ahh c'est pour ca la nouvelle capacité de 7 paersonnes?
+[16:08:14 INFO]: <srevid> ca c'est moi qui ai modifié mon serveur pour accepter 7
+[16:08:44 INFO]: <srevid> on fait vite des test de performance pis ca devrait être bon pour aller dessus
+[16:09:12 INFO]: <srevid> on vous tiens au courant ;)
+[16:09:26 INFO]: <Spy00> besoin d'aide ??
+[16:09:55 INFO]: <srevid> non merci, il tourne déjà
+[16:10:11 INFO]: srevid lost connection: Disconnected
+[16:10:11 INFO]: srevid left the game.
+[16:16:07 INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
+[16:16:07 INFO]: gripette[/192.222.201.105:51524] logged in with entity id 53070 at ([J]-236.1810697347272, 65.0, 355.1122860043996)
+[16:16:18 INFO]: gripette lost connection: Disconnected
+[16:16:18 INFO]: gripette left the game.
+[16:21:34 INFO]: devil_biker has just earned the achievement [Hot Topic]
+[16:21:46 INFO]: devil_biker has just earned the achievement [Getting an Upgrade]
+[16:21:48 INFO]: <Spy00> tu fais quoi oli?
+[16:22:03 INFO]: [NoSpawnChunks] Unloading chunks...
+[16:22:03 INFO]: [NoSpawnChunks] Unloaded 115 chunks. Took 374 ms.
+[16:22:05 INFO]: [NoSpawnChunks] Freed 151 mb!
+[16:22:09 INFO]: <devil_biker> une maison en terre :p
+[16:22:26 INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[16:22:26 INFO]: srevid[/192.222.201.105:51669] logged in with entity id 55249 at ([J]-353.300000011921, 8.0, 135.30000001192093)
+[16:22:31 INFO]: <Spy00> dans notre petit vilage?
+[16:22:36 INFO]: <srevid> attention attention
+[16:22:51 INFO]: <srevid> dans 15min le serveur sera disponible
+[16:23:12 INFO]: <srevid> on fait un backup maintenant
+[16:23:25 INFO]: <Spy00> on va rester pris ou on est?
+[16:23:31 INFO]: <srevid> donc tout ce que je vous faites dans le futur sera oublie
+[16:23:43 INFO]: <srevid> oui si vous ne bougez pas
+[16:24:19 INFO]: <Spy00> shit je suis perdu dans une caverne quelque part :P
+[16:24:46 INFO]: <srevid> tu veux que je te teleporte ?
+[16:25:10 INFO]: srevid issued server command: /tp -266.553, 66, 289.192
+[16:25:10 INFO]: [srevid: '-266.553,' is not a valid number]
+[16:25:21 INFO]: srevid issued server command: /tp -266.553 66 289.192
+[16:25:21 INFO]: [srevid: Teleported srevid to -266.553, 66.0, 289.192]
+[16:25:33 INFO]: <Spy00> ca donne rien vu que tu fais le backup :P
+[16:25:41 INFO]: <srevid> bah je leais pas encore fait
+[16:25:51 INFO]: <srevid> je te teleporte pis je fais le backup
+[16:26:14 INFO]: <srevid> je fais je fais pas ?
+[16:26:28 INFO]: <Spy00> ok go
+[16:26:36 INFO]: <Spy00> ca va éviter le trajet de train
+[16:26:41 INFO]: srevid issued server command: /tp Spy00 -266.553 66 289.192
+[16:26:41 INFO]: [srevid: Teleported Spy00 to -266.553, 66.0, 289.192]
+[16:26:46 INFO]: <Spy00> marie-eve aussi
+[16:26:49 INFO]: <TiPoulet> moi aussi !!!! je suis au village
+[16:26:50 INFO]: <srevid> ok
+[16:26:52 INFO]: <Spy00> merci!!
+[16:26:57 INFO]: <TiPoulet> :)
+[16:27:04 INFO]: srevid issued server command: /tp TiPoulet -266.553 66 289.192
+[16:27:04 INFO]: [srevid: Teleported TiPoulet to -266.553, 66.0, 289.192]
+[16:27:08 INFO]: <srevid> voila
+[16:27:11 INFO]: <srevid> oli ?
+[16:27:19 INFO]: <TiPoulet> yéh !!
+[16:27:42 INFO]: <devil_biker> oui?
+[16:27:59 INFO]: <srevid> je te teleporte dans la maison ?
+[16:28:06 INFO]: <srevid> pour etre safe avant le backup
+[16:28:16 INFO]: <devil_biker> ok
+[16:28:30 INFO]: srevid issued server command: /tp devil_biker -266.553 66 289.192
+[16:28:30 INFO]: [srevid: Teleported devil_biker to -266.553, 66.0, 289.192]
+[16:28:50 INFO]: <srevid> je lance le backup
+[16:28:55 INFO]: <Spy00> ok parfait
