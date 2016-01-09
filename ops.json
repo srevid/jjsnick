@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "141a01db-1d8e-4389-a298-d815a28ac8fc",
+    "name": "snickk",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "780bc463-95d4-4da0-99b7-eae34cf5f555",
+    "name": "gripette",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "665f4672-28c0-41c8-a808-b8713b58bf72",
+    "name": "srevid",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
