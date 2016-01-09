@@ -8496,3 +8496,9 @@ It's highly recommended that you fix the library with 'execstack -c <libfile>', 
 [12:35:10 INFO]: [NoSpawnChunks] Unloading chunks...
 [12:35:10 INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 7 ms.
 [12:35:11 INFO]: [NoSpawnChunks] Freed 60 mb!
+[12:50:10 INFO]: [NoSpawnChunks] Unloading chunks...
+[12:50:10 INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 28 ms.
+[12:50:11 INFO]: [NoSpawnChunks] Freed 98 mb!
+[13:05:10 INFO]: [NoSpawnChunks] Unloading chunks...
+[13:05:10 INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[13:05:11 INFO]: [NoSpawnChunks] Freed 43 mb!
