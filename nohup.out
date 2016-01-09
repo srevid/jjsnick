@@ -8502,3 +8502,276 @@ It's highly recommended that you fix the library with 'execstack -c <libfile>', 
 [13:05:10 INFO]: [NoSpawnChunks] Unloading chunks...
 [13:05:10 INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
 [13:05:11 INFO]: [NoSpawnChunks] Freed 43 mb!
+[13:15:34 INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[13:15:35 INFO]: srevid[/192.222.201.105:50880] logged in with entity id 1883410 at ([J]-336.23112373368775, 47.0, 134.46341502265088)
+[13:16:25 INFO]: srevid lost connection: Disconnected
+[13:16:25 INFO]: srevid left the game.
+[13:20:12 INFO]: Stopping server
+[mLoading libraries, please wait...
+[13:20:55 INFO]: Starting minecraft server version 1.8.8
+[13:20:55 ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_60-ea]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_60-ea]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246) ~[?:1.8.0_60-ea]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265) ~[?:1.8.0_60-ea]
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:248) ~[spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:3183) ~[spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2333) ~[spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2269) ~[spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2257) ~[spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
+	at net.minecraft.server.v1_8_R3.DedicatedServer$2.run(DedicatedServer.java:81) [spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
+[13:20:55 INFO]: Loading properties
+[13:20:55 INFO]: Default game type: SURVIVAL
+[13:20:57 INFO]: This server is running CraftBukkit version git-Spigot-fdc1440-53fac9f (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[13:20:57 INFO]: Server Ping Player Sample Count: 12
+[13:20:57 INFO]: Using 4 threads for Netty based IO
+[13:20:57 INFO]: Debug logging is disabled
+[13:20:58 INFO]: Generating keypair
+[13:20:59 INFO]: Starting Minecraft server on *:25565
+Java HotSpot(TM) Client VM warning: You have loaded library /tmp/libnetty-transport-native-epoll7135317593350624056.so which might have disabled stack guard. The VM will try to fix the stack guard now.
+It's highly recommended that you fix the library with 'execstack -c <libfile>', or link it with '-z noexecstack'.
+[13:21:00 INFO]: Using default channel type
+[13:21:00 INFO]: Set PluginClassLoader as parallel capable
+[13:21:00 INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0 (Build 142)
+[13:21:00 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[13:21:01 INFO]: Preparing level "J"
+[13:21:01 INFO]: -------- World Settings For [J] --------
+[13:21:01 INFO]: Mob Spawn Range: 4
+[13:21:01 INFO]: Anti X-Ray: false
+[13:21:01 INFO]: 	Engine Mode: 1
+[13:21:01 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:21:01 INFO]: 	Replace Blocks: [1, 5]
+[13:21:01 INFO]: Nerfing mobs spawned from spawners: false
+[13:21:01 INFO]: Cactus Growth Modifier: 100%
+[13:21:01 INFO]: Cane Growth Modifier: 100%
+[13:21:01 INFO]: Melon Growth Modifier: 100%
+[13:21:01 INFO]: Mushroom Growth Modifier: 100%
+[13:21:01 INFO]: Pumpkin Growth Modifier: 100%
+[13:21:01 INFO]: Sapling Growth Modifier: 100%
+[13:21:01 INFO]: Wheat Growth Modifier: 100%
+[13:21:01 INFO]: NetherWart Growth Modifier: 100%
+[13:21:01 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:21:01 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:21:01 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:21:01 INFO]: Random Lighting Updates: false
+[13:21:01 INFO]: Structure Info Saving: true
+[13:21:01 INFO]: Sending up to 10 chunks per packet
+[13:21:01 INFO]: Max Entity Collisions: 8
+[13:21:01 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:21:01 INFO]: Max TNT Explosions: 100
+[13:21:01 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:21:01 INFO]: Zombie Aggressive Towards Villager: true
+[13:21:01 INFO]: Chunks to Grow per Tick: 450
+[13:21:01 INFO]: Clear tick list: false
+[13:21:01 INFO]: Experience Merge Radius: 3.0
+[13:21:01 INFO]: Item Despawn Rate: 6000
+[13:21:01 INFO]: Item Merge Radius: 2.5
+[13:21:01 INFO]: Arrow Despawn Rate: 1200
+[13:21:01 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:21:01 INFO]: View Distance: 4
+[13:21:01 INFO]: -------- World Settings For [J_nether] --------
+[13:21:01 INFO]: Mob Spawn Range: 4
+[13:21:01 INFO]: Anti X-Ray: false
+[13:21:01 INFO]: 	Engine Mode: 1
+[13:21:01 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:21:01 INFO]: 	Replace Blocks: [1, 5]
+[13:21:01 INFO]: Nerfing mobs spawned from spawners: false
+[13:21:01 INFO]: Cactus Growth Modifier: 100%
+[13:21:01 INFO]: Cane Growth Modifier: 100%
+[13:21:01 INFO]: Melon Growth Modifier: 100%
+[13:21:01 INFO]: Mushroom Growth Modifier: 100%
+[13:21:01 INFO]: Pumpkin Growth Modifier: 100%
+[13:21:01 INFO]: Sapling Growth Modifier: 100%
+[13:21:01 INFO]: Wheat Growth Modifier: 100%
+[13:21:01 INFO]: NetherWart Growth Modifier: 100%
+[13:21:01 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:21:01 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:21:01 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:21:01 INFO]: Random Lighting Updates: false
+[13:21:01 INFO]: Structure Info Saving: true
+[13:21:01 INFO]: Sending up to 10 chunks per packet
+[13:21:01 INFO]: Max Entity Collisions: 8
+[13:21:01 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:21:01 INFO]: Max TNT Explosions: 100
+[13:21:01 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:21:01 INFO]: Zombie Aggressive Towards Villager: true
+[13:21:01 INFO]: Chunks to Grow per Tick: 450
+[13:21:01 INFO]: Clear tick list: false
+[13:21:01 INFO]: Experience Merge Radius: 3.0
+[13:21:01 INFO]: Item Despawn Rate: 6000
+[13:21:01 INFO]: Item Merge Radius: 2.5
+[13:21:01 INFO]: Arrow Despawn Rate: 1200
+[13:21:01 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:21:01 INFO]: View Distance: 4
+[13:21:01 INFO]: -------- World Settings For [J_the_end] --------
+[13:21:01 INFO]: Mob Spawn Range: 4
+[13:21:01 INFO]: Anti X-Ray: false
+[13:21:01 INFO]: 	Engine Mode: 1
+[13:21:01 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:21:01 INFO]: 	Replace Blocks: [1, 5]
+[13:21:01 INFO]: Nerfing mobs spawned from spawners: false
+[13:21:01 INFO]: Cactus Growth Modifier: 100%
+[13:21:01 INFO]: Cane Growth Modifier: 100%
+[13:21:01 INFO]: Melon Growth Modifier: 100%
+[13:21:01 INFO]: Mushroom Growth Modifier: 100%
+[13:21:01 INFO]: Pumpkin Growth Modifier: 100%
+[13:21:01 INFO]: Sapling Growth Modifier: 100%
+[13:21:01 INFO]: Wheat Growth Modifier: 100%
+[13:21:01 INFO]: NetherWart Growth Modifier: 100%
+[13:21:01 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:21:01 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:21:01 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:21:01 INFO]: Random Lighting Updates: false
+[13:21:01 INFO]: Structure Info Saving: true
+[13:21:01 INFO]: Sending up to 10 chunks per packet
+[13:21:01 INFO]: Max Entity Collisions: 8
+[13:21:01 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:21:01 INFO]: Max TNT Explosions: 100
+[13:21:01 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:21:01 INFO]: Zombie Aggressive Towards Villager: true
+[13:21:01 INFO]: Chunks to Grow per Tick: 450
+[13:21:01 INFO]: Clear tick list: false
+[13:21:01 INFO]: Experience Merge Radius: 3.0
+[13:21:01 INFO]: Item Despawn Rate: 6000
+[13:21:01 INFO]: Item Merge Radius: 2.5
+[13:21:01 INFO]: Arrow Despawn Rate: 1200
+[13:21:01 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:21:01 INFO]: View Distance: 4
+[13:21:02 INFO]: Preparing start region for level 0 (Seed: 7936026946858735291)
+[13:21:03 INFO]: Preparing spawn area: 0%
+[13:21:04 INFO]: Preparing spawn area: 9%
+[13:21:05 INFO]: Preparing spawn area: 18%
+[13:21:06 INFO]: Preparing spawn area: 26%
+[13:21:07 INFO]: Preparing spawn area: 34%
+[13:21:08 INFO]: Preparing spawn area: 42%
+[13:21:09 INFO]: Preparing spawn area: 50%
+[13:21:10 INFO]: Preparing spawn area: 57%
+[13:21:11 INFO]: Preparing spawn area: 63%
+[13:21:12 INFO]: Preparing spawn area: 71%
+[13:21:13 INFO]: Preparing spawn area: 79%
+[13:21:14 INFO]: Preparing spawn area: 87%
+[13:21:15 INFO]: Preparing spawn area: 96%
+[13:21:15 INFO]: Preparing start region for level 1 (Seed: 7936026946858735291)
+[13:21:16 INFO]: Preparing spawn area: 9%
+[13:21:17 INFO]: Preparing spawn area: 19%
+[13:21:18 INFO]: Preparing spawn area: 23%
+[13:21:19 INFO]: Preparing spawn area: 32%
+[13:21:21 INFO]: Preparing spawn area: 41%
+[13:21:22 INFO]: Preparing spawn area: 52%
+[13:21:23 INFO]: Preparing spawn area: 58%
+[13:21:24 INFO]: Preparing spawn area: 64%
+[13:21:25 INFO]: Preparing spawn area: 75%
+[13:21:26 INFO]: Preparing spawn area: 85%
+[13:21:27 INFO]: Preparing spawn area: 95%
+[13:21:27 INFO]: Preparing start region for level 2 (Seed: 7936026946858735291)
+[13:21:28 INFO]: [NoSpawnChunks] Enabling NoSpawnChunks v2.0 (Build 142)
+[13:21:28 INFO]: [NoSpawnChunks] NoSpawnChunks v2.0 (Build 142) has been enabled. Took 56 ms.
+[13:21:29 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:21:29 INFO]: Done (28.192s)! For help, type "help" or "?"
+[13:21:33 INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[13:21:34 INFO]: srevid[/192.222.201.105:50930] logged in with entity id 711 at ([J]-360.96296923660077, 48.0, 144.43333182253423)
+[13:21:34 INFO]: [NoSpawnChunks] Unloading chunks...
+[13:21:36 INFO]: [NoSpawnChunks] Unloaded 1,169 chunks. Took 1,766 ms.
+[13:21:37 INFO]: [NoSpawnChunks] Freed 130 mb!
+[13:26:47 INFO]: srevid lost connection: Disconnected
+[13:26:47 INFO]: srevid left the game.
+[13:36:38 INFO]: [NoSpawnChunks] Unloading chunks...
+[13:36:38 INFO]: [NoSpawnChunks] Unloaded 54 chunks. Took 216 ms.
+[13:36:39 INFO]: [NoSpawnChunks] Freed 168 mb!
+[13:51:38 INFO]: [NoSpawnChunks] Unloading chunks...
+[13:51:38 INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[13:51:39 INFO]: [NoSpawnChunks] Freed 39 mb!
+[14:06:38 INFO]: [NoSpawnChunks] Unloading chunks...
+[14:06:38 INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
+[14:06:39 INFO]: [NoSpawnChunks] Freed 17 mb!
+[14:21:38 INFO]: [NoSpawnChunks] Unloading chunks...
+[14:21:38 INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[14:21:39 INFO]: [NoSpawnChunks] Freed 18 mb!
+[14:36:38 INFO]: [NoSpawnChunks] Unloading chunks...
+[14:36:38 INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[14:36:39 INFO]: [NoSpawnChunks] Freed 17 mb!
+[14:41:00 INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[14:41:00 INFO]: srevid[/192.222.201.105:51045] logged in with entity id 1312 at ([J]-335.73686661264475, 47.0, 135.3125862110609)
+[14:50:27 INFO]: UUID of player devil_biker is 85c51cb3-e66f-4ef3-8e82-7da7a758ceb4
+[14:50:27 INFO]: devil_biker[/173.179.217.109:49265] logged in with entity id 2701 at ([J]-247.5, -1.0, 260.5)
+[14:50:33 INFO]: devil_biker fell out of the world
+[14:50:41 INFO]: devil_biker has just earned the achievement [Taking Inventory]
+[14:50:44 INFO]: <srevid> oli ?
+[14:51:01 INFO]: <devil_biker> OUI
+[14:51:08 INFO]: <srevid> hehe c'est jerome
+[14:51:21 INFO]: <srevid> bienvenue dans notre monde :)
+[14:51:39 INFO]: <devil_biker> merci
+[14:51:40 INFO]: [NoSpawnChunks] Unloading chunks...
+[14:51:40 INFO]: [NoSpawnChunks] Unloaded 4 chunks. Took 17 ms.
+[14:51:41 INFO]: [NoSpawnChunks] Freed 16 mb!
+[14:52:16 INFO]: <srevid> je te laisse explorer le village et autre endroit
+[14:52:24 INFO]: <srevid> si tu as des questions n'hésite pas ;))
+[14:53:54 INFO]: <devil_biker> je vais essayer de faire le tour sans tomber dans le néant :p
+[14:54:13 INFO]: <srevid> t'es tombé dans le vide ?
+[14:54:42 INFO]: <devil_biker> oui au depart
+[14:54:50 INFO]: <srevid> O_o
+[14:55:08 INFO]: <srevid> le serveur fait parfois de drole de chose
+[14:55:53 INFO]: <srevid> il tourne sur un Raspberry Pie dans mon salon, c'est pas une énorme machine donc les lags sont coura
+[14:55:56 INFO]: <srevid> courant
+[14:56:12 INFO]: <srevid> mais ca va changer, on va migrer sur un serveur plus robuste bientot
+[14:57:02 INFO]: <devil_biker> c'est good ça
+[14:57:35 WARN]: srevid moved wrongly!
+[15:03:20 INFO]: devil_biker was slain by Enderman
+[15:03:40 WARN]: devil_biker moved wrongly!
+[15:03:41 WARN]: devil_biker moved wrongly!
+[15:03:41 WARN]: devil_biker moved wrongly!
+[15:06:43 INFO]: [NoSpawnChunks] Unloading chunks...
+[15:06:44 INFO]: [NoSpawnChunks] Unloaded 146 chunks. Took 566 ms.
+[15:06:45 INFO]: [NoSpawnChunks] Freed 6 mb!
+[15:08:01 WARN]: devil_biker moved wrongly!
+[15:08:03 WARN]: devil_biker moved wrongly!
+[15:10:11 WARN]: devil_biker moved wrongly!
+[15:10:11 WARN]: devil_biker moved wrongly!
+[15:10:13 WARN]: devil_biker moved wrongly!
+[15:11:22 INFO]: <devil_biker> je suis pris dans une grande pièce qui a des citrouille
+[15:11:35 INFO]: <devil_biker> au plancher
+[15:11:45 WARN]: devil_biker moved wrongly!
+[15:11:46 INFO]: <srevid> dans une cave ?
+[15:11:52 INFO]: <devil_biker> oui
+[15:12:04 INFO]: <srevid> j arrive
+[15:12:14 WARN]: devil_biker moved wrongly!
+[15:12:59 WARN]: devil_biker moved wrongly!
+[15:13:03 WARN]: devil_biker moved wrongly!
+[15:13:15 INFO]: <srevid> right click sur la porte ?
+[15:13:34 INFO]: <srevid> ca marche pas chez toi ?
+[15:14:16 INFO]: <devil_biker> cest sa que je fais mais les porte ne veulent pas me laisser passer
+[15:14:20 WARN]: devil_biker moved wrongly!
+[15:14:46 INFO]: <devil_biker> jai passé
+[15:15:23 INFO]: <srevid> donc t arrive pas a passer la porte une fois ouverte
+[15:15:32 INFO]: <srevid> ou quelle reste bloquer a fermer ?
+[15:15:57 INFO]: <devil_biker> une fois ouverte je ne suis pas capable de passer
+[15:16:14 INFO]: <srevid> Oo cest bizarre ca
+[15:16:30 INFO]: <devil_biker> oui
+[15:20:32 INFO]: devil_biker has just earned the achievement [Getting Wood]
+[15:21:41 INFO]: devil_biker has just earned the achievement [Benchmarking]
+[15:21:47 INFO]: [NoSpawnChunks] Unloading chunks...
+[15:21:47 INFO]: [NoSpawnChunks] Unloaded 96 chunks. Took 304 ms.
+[15:21:48 INFO]: [NoSpawnChunks] Freed 147 mb!
+[15:22:10 INFO]: devil_biker has just earned the achievement [Time to Strike!]
+[15:22:16 INFO]: devil_biker has just earned the achievement [Time to Farm!]
+[15:22:21 INFO]: devil_biker has just earned the achievement [Time to Mine!]
+[15:31:03 INFO]: srevid lost connection: Disconnected
+[15:31:03 INFO]: srevid left the game.
+[15:31:07 INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[15:31:07 INFO]: srevid[/192.222.201.105:51235] logged in with entity id 25690 at ([J]-240.7186260114891, 56.0, 188.34362673108774)
+[15:31:12 INFO]: srevid lost connection: Disconnected
+[15:31:12 INFO]: srevid left the game.
+[15:31:32 INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[15:31:32 INFO]: srevid[/192.222.201.105:51239] logged in with entity id 25865 at ([J]-240.7186260114891, 56.0, 188.34362673108774)
+[15:32:24 INFO]: <srevid> yop oli
+[15:32:43 INFO]: <srevid> je quitte
+[15:32:49 INFO]: <srevid> passe une bonne journee
+[15:33:05 INFO]: <devil_biker> toi aussi passe une belle journée
+[15:33:11 INFO]: <devil_biker> a plus
+[15:33:16 INFO]: srevid lost connection: Disconnected
+[15:33:16 INFO]: srevid left the game.
+[15:34:04 INFO]: devil_biker has just earned the achievement [Cow Tipper]

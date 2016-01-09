@@ -58,6 +58,27 @@ messages:
 world-settings:
   default:
     verbose: true
+    mob-spawn-range: 4
+    anti-xray:
+      enabled: false
+      engine-mode: 1
+      hide-blocks:
+      - 14
+      - 15
+      - 16
+      - 21
+      - 48
+      - 49
+      - 54
+      - 56
+      - 73
+      - 74
+      - 82
+      - 129
+      - 130
+      replace-blocks:
+      - 1
+      - 5
     nerf-spawner-mobs: false
     growth:
       cactus-modifier: 100
@@ -82,39 +103,6 @@ world-settings:
       hopper-transfer: 8
       hopper-check: 8
     hopper-amount: 1
-    mob-spawn-range: 4
-    anti-xray:
-      enabled: false
-      engine-mode: 1
-      hide-blocks:
-      - 14
-      - 15
-      - 16
-      - 21
-      - 48
-      - 49
-      - 54
-      - 56
-      - 73
-      - 74
-      - 82
-      - 129
-      - 130
-      replace-blocks:
-      - 1
-      - 5
-    zombie-aggressive-towards-villager: true
-    chunks-per-tick: 450
-    clear-tick-list: false
-    merge-radius:
-      exp: 3.0
-      item: 2.5
-    arrow-despawn-rate: 1200
-    item-despawn-rate: 6000
-    enable-zombie-pigmen-portal-spawns: true
-    wither-spawn-sound-radius: 0
-    view-distance: 4
-    hanging-tick-frequency: 100
     random-light-updates: false
     save-structure-info: true
     max-bulk-chunks: 10
@@ -131,3 +119,15 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
+    zombie-aggressive-towards-villager: true
+    chunks-per-tick: 450
+    clear-tick-list: false
+    merge-radius:
+      exp: 3.0
+      item: 2.5
+    item-despawn-rate: 6000
+    arrow-despawn-rate: 1200
+    enable-zombie-pigmen-portal-spawns: true
+    wither-spawn-sound-radius: 0
+    view-distance: 4
+    hanging-tick-frequency: 100
