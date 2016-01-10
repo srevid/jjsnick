@@ -1,362 +1,143 @@
-[13:20:55] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[13:20:55] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Bad file descriptor
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_60-ea]
-	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_60-ea]
-	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246) ~[?:1.8.0_60-ea]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:265) ~[?:1.8.0_60-ea]
-	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:248) ~[spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
-	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
-	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:3183) ~[spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2333) ~[spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2269) ~[spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2257) ~[spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
-	at net.minecraft.server.v1_8_R3.DedicatedServer$2.run(DedicatedServer.java:81) [spigot-1.8.8.jar:git-Spigot-fdc1440-53fac9f]
-[13:20:55] [Server thread/INFO]: Loading properties
-[13:20:55] [Server thread/INFO]: Default game type: SURVIVAL
-[13:20:57] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-fdc1440-53fac9f (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[13:20:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[13:20:57] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:20:57] [Server thread/INFO]: Debug logging is disabled
-[13:20:58] [Server thread/INFO]: Generating keypair
-[13:20:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:21:00] [Server thread/INFO]: Using default channel type
-[13:21:00] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[13:21:00] [Server thread/INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0 (Build 142)
-[13:21:00] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[13:21:01] [Server thread/INFO]: Preparing level "J"
-[13:21:01] [Server thread/INFO]: -------- World Settings For [J] --------
-[13:21:01] [Server thread/INFO]: Mob Spawn Range: 4
-[13:21:01] [Server thread/INFO]: Anti X-Ray: false
-[13:21:01] [Server thread/INFO]: 	Engine Mode: 1
-[13:21:01] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[13:21:01] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[13:21:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:21:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[13:21:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:21:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[13:21:01] [Server thread/INFO]: Random Lighting Updates: false
-[13:21:01] [Server thread/INFO]: Structure Info Saving: true
-[13:21:01] [Server thread/INFO]: Sending up to 10 chunks per packet
-[13:21:01] [Server thread/INFO]: Max Entity Collisions: 8
-[13:21:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[13:21:01] [Server thread/INFO]: Max TNT Explosions: 100
-[13:21:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:21:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:21:01] [Server thread/INFO]: Chunks to Grow per Tick: 450
-[13:21:01] [Server thread/INFO]: Clear tick list: false
-[13:21:01] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:21:01] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:21:01] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:21:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[13:21:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:21:01] [Server thread/INFO]: View Distance: 4
-[13:21:01] [Server thread/INFO]: -------- World Settings For [J_nether] --------
-[13:21:01] [Server thread/INFO]: Mob Spawn Range: 4
-[13:21:01] [Server thread/INFO]: Anti X-Ray: false
-[13:21:01] [Server thread/INFO]: 	Engine Mode: 1
-[13:21:01] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[13:21:01] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[13:21:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:21:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[13:21:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:21:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[13:21:01] [Server thread/INFO]: Random Lighting Updates: false
-[13:21:01] [Server thread/INFO]: Structure Info Saving: true
-[13:21:01] [Server thread/INFO]: Sending up to 10 chunks per packet
-[13:21:01] [Server thread/INFO]: Max Entity Collisions: 8
-[13:21:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[13:21:01] [Server thread/INFO]: Max TNT Explosions: 100
-[13:21:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:21:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:21:01] [Server thread/INFO]: Chunks to Grow per Tick: 450
-[13:21:01] [Server thread/INFO]: Clear tick list: false
-[13:21:01] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:21:01] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:21:01] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:21:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[13:21:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:21:01] [Server thread/INFO]: View Distance: 4
-[13:21:01] [Server thread/INFO]: -------- World Settings For [J_the_end] --------
-[13:21:01] [Server thread/INFO]: Mob Spawn Range: 4
-[13:21:01] [Server thread/INFO]: Anti X-Ray: false
-[13:21:01] [Server thread/INFO]: 	Engine Mode: 1
-[13:21:01] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[13:21:01] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[13:21:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:21:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:21:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[13:21:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:21:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[13:21:01] [Server thread/INFO]: Random Lighting Updates: false
-[13:21:01] [Server thread/INFO]: Structure Info Saving: true
-[13:21:01] [Server thread/INFO]: Sending up to 10 chunks per packet
-[13:21:01] [Server thread/INFO]: Max Entity Collisions: 8
-[13:21:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[13:21:01] [Server thread/INFO]: Max TNT Explosions: 100
-[13:21:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:21:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:21:01] [Server thread/INFO]: Chunks to Grow per Tick: 450
-[13:21:01] [Server thread/INFO]: Clear tick list: false
-[13:21:01] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:21:01] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:21:01] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:21:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[13:21:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:21:01] [Server thread/INFO]: View Distance: 4
-[13:21:02] [Server thread/INFO]: Preparing start region for level 0 (Seed: 7936026946858735291)
-[13:21:03] [Server thread/INFO]: Preparing spawn area: 0%
-[13:21:04] [Server thread/INFO]: Preparing spawn area: 9%
-[13:21:05] [Server thread/INFO]: Preparing spawn area: 18%
-[13:21:06] [Server thread/INFO]: Preparing spawn area: 26%
-[13:21:07] [Server thread/INFO]: Preparing spawn area: 34%
-[13:21:08] [Server thread/INFO]: Preparing spawn area: 42%
-[13:21:09] [Server thread/INFO]: Preparing spawn area: 50%
-[13:21:10] [Server thread/INFO]: Preparing spawn area: 57%
-[13:21:11] [Server thread/INFO]: Preparing spawn area: 63%
-[13:21:12] [Server thread/INFO]: Preparing spawn area: 71%
-[13:21:13] [Server thread/INFO]: Preparing spawn area: 79%
-[13:21:14] [Server thread/INFO]: Preparing spawn area: 87%
-[13:21:15] [Server thread/INFO]: Preparing spawn area: 96%
-[13:21:15] [Server thread/INFO]: Preparing start region for level 1 (Seed: 7936026946858735291)
-[13:21:16] [Server thread/INFO]: Preparing spawn area: 9%
-[13:21:17] [Server thread/INFO]: Preparing spawn area: 19%
-[13:21:18] [Server thread/INFO]: Preparing spawn area: 23%
-[13:21:19] [Server thread/INFO]: Preparing spawn area: 32%
-[13:21:21] [Server thread/INFO]: Preparing spawn area: 41%
-[13:21:22] [Server thread/INFO]: Preparing spawn area: 52%
-[13:21:23] [Server thread/INFO]: Preparing spawn area: 58%
-[13:21:24] [Server thread/INFO]: Preparing spawn area: 64%
-[13:21:25] [Server thread/INFO]: Preparing spawn area: 75%
-[13:21:26] [Server thread/INFO]: Preparing spawn area: 85%
-[13:21:27] [Server thread/INFO]: Preparing spawn area: 95%
-[13:21:27] [Server thread/INFO]: Preparing start region for level 2 (Seed: 7936026946858735291)
-[13:21:28] [Server thread/INFO]: [NoSpawnChunks] Enabling NoSpawnChunks v2.0 (Build 142)
-[13:21:28] [Server thread/INFO]: [NoSpawnChunks] NoSpawnChunks v2.0 (Build 142) has been enabled. Took 56 ms.
-[13:21:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:21:29] [Server thread/INFO]: Done (28.192s)! For help, type "help" or "?"
-[13:21:33] [User Authenticator #1/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
-[13:21:34] [Server thread/INFO]: srevid[/192.222.201.105:50930] logged in with entity id 711 at ([J]-360.96296923660077, 48.0, 144.43333182253423)
-[13:21:34] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[13:21:36] [Server thread/INFO]: [NoSpawnChunks] Unloaded 1,169 chunks. Took 1,766 ms.
-[13:21:37] [Server thread/INFO]: [NoSpawnChunks] Freed 130 mb!
-[13:26:47] [Server thread/INFO]: srevid lost connection: Disconnected
-[13:26:47] [Server thread/INFO]: srevid left the game.
-[13:36:38] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[13:36:38] [Server thread/INFO]: [NoSpawnChunks] Unloaded 54 chunks. Took 216 ms.
-[13:36:39] [Server thread/INFO]: [NoSpawnChunks] Freed 168 mb!
-[13:51:38] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[13:51:38] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[13:51:39] [Server thread/INFO]: [NoSpawnChunks] Freed 39 mb!
-[14:06:38] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[14:06:38] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
-[14:06:39] [Server thread/INFO]: [NoSpawnChunks] Freed 17 mb!
-[14:21:38] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[14:21:38] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[14:21:39] [Server thread/INFO]: [NoSpawnChunks] Freed 18 mb!
-[14:36:38] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[14:36:38] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[14:36:39] [Server thread/INFO]: [NoSpawnChunks] Freed 17 mb!
-[14:41:00] [User Authenticator #2/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
-[14:41:00] [Server thread/INFO]: srevid[/192.222.201.105:51045] logged in with entity id 1312 at ([J]-335.73686661264475, 47.0, 135.3125862110609)
-[14:50:27] [User Authenticator #3/INFO]: UUID of player devil_biker is 85c51cb3-e66f-4ef3-8e82-7da7a758ceb4
-[14:50:27] [Server thread/INFO]: devil_biker[/173.179.217.109:49265] logged in with entity id 2701 at ([J]-247.5, -1.0, 260.5)
-[14:50:33] [Server thread/INFO]: devil_biker fell out of the world
-[14:50:41] [Server thread/INFO]: devil_biker has just earned the achievement [Taking Inventory]
-[14:50:44] [Async Chat Thread - #0/INFO]: <srevid> oli ?
-[14:51:01] [Async Chat Thread - #0/INFO]: <devil_biker> OUI
-[14:51:08] [Async Chat Thread - #0/INFO]: <srevid> hehe c'est jerome
-[14:51:21] [Async Chat Thread - #0/INFO]: <srevid> bienvenue dans notre monde :)
-[14:51:39] [Async Chat Thread - #0/INFO]: <devil_biker> merci
-[14:51:40] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[14:51:40] [Server thread/INFO]: [NoSpawnChunks] Unloaded 4 chunks. Took 17 ms.
-[14:51:41] [Server thread/INFO]: [NoSpawnChunks] Freed 16 mb!
-[14:52:16] [Async Chat Thread - #0/INFO]: <srevid> je te laisse explorer le village et autre endroit
-[14:52:24] [Async Chat Thread - #0/INFO]: <srevid> si tu as des questions n'hésite pas ;))
-[14:53:54] [Async Chat Thread - #1/INFO]: <devil_biker> je vais essayer de faire le tour sans tomber dans le néant :p
-[14:54:13] [Async Chat Thread - #1/INFO]: <srevid> t'es tombé dans le vide ?
-[14:54:42] [Async Chat Thread - #1/INFO]: <devil_biker> oui au depart
-[14:54:50] [Async Chat Thread - #1/INFO]: <srevid> O_o
-[14:55:08] [Async Chat Thread - #1/INFO]: <srevid> le serveur fait parfois de drole de chose
-[14:55:53] [Async Chat Thread - #1/INFO]: <srevid> il tourne sur un Raspberry Pie dans mon salon, c'est pas une énorme machine donc les lags sont coura
-[14:55:56] [Async Chat Thread - #1/INFO]: <srevid> courant
-[14:56:12] [Async Chat Thread - #1/INFO]: <srevid> mais ca va changer, on va migrer sur un serveur plus robuste bientot
-[14:57:02] [Async Chat Thread - #1/INFO]: <devil_biker> c'est good ça
-[14:57:35] [Server thread/WARN]: srevid moved wrongly!
-[15:03:20] [Server thread/INFO]: devil_biker was slain by Enderman
-[15:03:40] [Server thread/WARN]: devil_biker moved wrongly!
-[15:03:41] [Server thread/WARN]: devil_biker moved wrongly!
-[15:03:41] [Server thread/WARN]: devil_biker moved wrongly!
-[15:06:43] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[15:06:44] [Server thread/INFO]: [NoSpawnChunks] Unloaded 146 chunks. Took 566 ms.
-[15:06:45] [Server thread/INFO]: [NoSpawnChunks] Freed 6 mb!
-[15:08:01] [Server thread/WARN]: devil_biker moved wrongly!
-[15:08:03] [Server thread/WARN]: devil_biker moved wrongly!
-[15:10:11] [Server thread/WARN]: devil_biker moved wrongly!
-[15:10:11] [Server thread/WARN]: devil_biker moved wrongly!
-[15:10:13] [Server thread/WARN]: devil_biker moved wrongly!
-[15:11:22] [Async Chat Thread - #2/INFO]: <devil_biker> je suis pris dans une grande pièce qui a des citrouille
-[15:11:35] [Async Chat Thread - #2/INFO]: <devil_biker> au plancher
-[15:11:45] [Server thread/WARN]: devil_biker moved wrongly!
-[15:11:46] [Async Chat Thread - #2/INFO]: <srevid> dans une cave ?
-[15:11:52] [Async Chat Thread - #2/INFO]: <devil_biker> oui
-[15:12:04] [Async Chat Thread - #2/INFO]: <srevid> j arrive
-[15:12:14] [Server thread/WARN]: devil_biker moved wrongly!
-[15:12:59] [Server thread/WARN]: devil_biker moved wrongly!
-[15:13:03] [Server thread/WARN]: devil_biker moved wrongly!
-[15:13:15] [Async Chat Thread - #3/INFO]: <srevid> right click sur la porte ?
-[15:13:34] [Async Chat Thread - #3/INFO]: <srevid> ca marche pas chez toi ?
-[15:14:16] [Async Chat Thread - #3/INFO]: <devil_biker> cest sa que je fais mais les porte ne veulent pas me laisser passer
-[15:14:20] [Server thread/WARN]: devil_biker moved wrongly!
-[15:14:46] [Async Chat Thread - #3/INFO]: <devil_biker> jai passé
-[15:15:23] [Async Chat Thread - #3/INFO]: <srevid> donc t arrive pas a passer la porte une fois ouverte
-[15:15:32] [Async Chat Thread - #3/INFO]: <srevid> ou quelle reste bloquer a fermer ?
-[15:15:57] [Async Chat Thread - #3/INFO]: <devil_biker> une fois ouverte je ne suis pas capable de passer
-[15:16:14] [Async Chat Thread - #3/INFO]: <srevid> Oo cest bizarre ca
-[15:16:30] [Async Chat Thread - #3/INFO]: <devil_biker> oui
-[15:20:32] [Server thread/INFO]: devil_biker has just earned the achievement [Getting Wood]
-[15:21:41] [Server thread/INFO]: devil_biker has just earned the achievement [Benchmarking]
-[15:21:47] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[15:21:47] [Server thread/INFO]: [NoSpawnChunks] Unloaded 96 chunks. Took 304 ms.
-[15:21:48] [Server thread/INFO]: [NoSpawnChunks] Freed 147 mb!
-[15:22:10] [Server thread/INFO]: devil_biker has just earned the achievement [Time to Strike!]
-[15:22:16] [Server thread/INFO]: devil_biker has just earned the achievement [Time to Farm!]
-[15:22:21] [Server thread/INFO]: devil_biker has just earned the achievement [Time to Mine!]
-[15:31:03] [Server thread/INFO]: srevid lost connection: Disconnected
-[15:31:03] [Server thread/INFO]: srevid left the game.
-[15:31:07] [User Authenticator #4/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
-[15:31:07] [Server thread/INFO]: srevid[/192.222.201.105:51235] logged in with entity id 25690 at ([J]-240.7186260114891, 56.0, 188.34362673108774)
-[15:31:12] [Server thread/INFO]: srevid lost connection: Disconnected
-[15:31:12] [Server thread/INFO]: srevid left the game.
-[15:31:32] [User Authenticator #5/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
-[15:31:32] [Server thread/INFO]: srevid[/192.222.201.105:51239] logged in with entity id 25865 at ([J]-240.7186260114891, 56.0, 188.34362673108774)
-[15:32:24] [Async Chat Thread - #4/INFO]: <srevid> yop oli
-[15:32:43] [Async Chat Thread - #4/INFO]: <srevid> je quitte
-[15:32:49] [Async Chat Thread - #4/INFO]: <srevid> passe une bonne journee
-[15:33:05] [Async Chat Thread - #4/INFO]: <devil_biker> toi aussi passe une belle journée
-[15:33:11] [Async Chat Thread - #4/INFO]: <devil_biker> a plus
-[15:33:16] [Server thread/INFO]: srevid lost connection: Disconnected
-[15:33:16] [Server thread/INFO]: srevid left the game.
-[15:34:04] [Server thread/INFO]: devil_biker has just earned the achievement [Cow Tipper]
-[15:36:11] [Server thread/INFO]: devil_biker was killed by Witch using magic
-[15:36:51] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[15:36:51] [Server thread/INFO]: [NoSpawnChunks] Unloaded 184 chunks. Took 681 ms.
-[15:48:17] [User Authenticator #6/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
-[15:48:18] [Server thread/INFO]: srevid[/192.222.201.105:51474] logged in with entity id 36986 at ([J]-240.7186260114891, 56.0, 188.34362673108774)
-[15:48:31] [Async Chat Thread - #5/INFO]: <srevid> rebonjour :)
-[15:48:40] [Async Chat Thread - #5/INFO]: <devil_biker> recoucou
-[15:51:53] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[15:51:54] [Server thread/INFO]: [NoSpawnChunks] Unloaded 148 chunks. Took 466 ms.
-[15:53:14] [Async Chat Thread - #6/INFO]: <devil_biker> dans quelle partie de votre monde je pourrais construire ma maison
-[15:54:29] [Async Chat Thread - #7/INFO]: <srevid> euh... on a pas vraiment de zone réservé... trouve toi un petit coin ;)
-[15:54:47] [Async Chat Thread - #7/INFO]: <devil_biker> ok merci
-[15:56:12] [Async Chat Thread - #8/INFO]: <srevid> si tu as besoin de ressources, y a des coffres dans la maison principale où y en a plein
-[15:56:42] [Server thread/INFO]: devil_biker has just earned the achievement [Monster Hunter]
-[15:57:17] [Async Chat Thread - #9/INFO]: <devil_biker> ok merci beaucoup
-[16:01:03] [User Authenticator #7/INFO]: UUID of player TiPoulet is 5bfeaf1f-c328-4c78-b30d-bda7fdafb049
-[16:01:03] [Server thread/INFO]: TiPoulet[/70.82.243.105:50084] logged in with entity id 44358 at ([J]-193.2200855160999, 75.0, 298.8062130647362)
-[16:01:21] [User Authenticator #8/INFO]: UUID of player Spy00 is 9d5dfa3b-f839-4761-8a34-80d123ac6e92
-[16:01:21] [Server thread/INFO]: Spy00[/70.82.243.105:47833] logged in with entity id 44402 at ([J]-192.66702823156734, 75.0, 294.9514501570927)
-[16:01:39] [Async Chat Thread - #10/INFO]: <Spy00> salut
-[16:01:42] [Async Chat Thread - #10/INFO]: <srevid> hello
-[16:02:35] [Async Chat Thread - #10/INFO]: <Spy00> devil_biker ??
-[16:02:46] [Async Chat Thread - #10/INFO]: <devil_biker> c'est Olivier
-[16:02:53] [Async Chat Thread - #10/INFO]: <Spy00> ahh salut!
-[16:03:27] [Server thread/INFO]: srevid lost connection: Disconnected
-[16:03:27] [Server thread/INFO]: srevid left the game.
-[16:03:35] [Async Chat Thread - #10/INFO]: <devil_biker> TiPoulet = Marie?
-[16:03:48] [Async Chat Thread - #10/INFO]: <Spy00> oui
-[16:03:52] [Async Chat Thread - #10/INFO]: <Spy00> spy - m-a
-[16:04:10] [Async Chat Thread - #10/INFO]: <devil_biker> coucou M-A
-[16:06:00] [User Authenticator #9/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
-[16:06:00] [Server thread/INFO]: srevid[/192.222.201.105:51496] logged in with entity id 45997 at ([J]-353.300000011921, 8.0, 135.30000001192093)
-[16:06:57] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[16:06:57] [Server thread/INFO]: [NoSpawnChunks] Unloaded 63 chunks. Took 212 ms.
-[16:06:58] [Server thread/INFO]: [NoSpawnChunks] Freed 211 mb!
-[16:07:26] [Async Chat Thread - #11/INFO]: <srevid> nous sommes en train de faire la migration du serveur vers le nouveau serveur de simon
-[16:07:45] [Async Chat Thread - #11/INFO]: <srevid> on fera un backup du jeu en derniere minute
-[16:07:53] [Async Chat Thread - #11/INFO]: <Spy00> ahh c'est pour ca la nouvelle capacité de 7 paersonnes?
-[16:08:14] [Async Chat Thread - #11/INFO]: <srevid> ca c'est moi qui ai modifié mon serveur pour accepter 7
-[16:08:44] [Async Chat Thread - #11/INFO]: <srevid> on fait vite des test de performance pis ca devrait être bon pour aller dessus
-[16:09:12] [Async Chat Thread - #11/INFO]: <srevid> on vous tiens au courant ;)
-[16:09:26] [Async Chat Thread - #11/INFO]: <Spy00> besoin d'aide ??
-[16:09:55] [Async Chat Thread - #11/INFO]: <srevid> non merci, il tourne déjà
-[16:10:11] [Server thread/INFO]: srevid lost connection: Disconnected
-[16:10:11] [Server thread/INFO]: srevid left the game.
-[16:16:07] [User Authenticator #10/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
-[16:16:07] [Server thread/INFO]: gripette[/192.222.201.105:51524] logged in with entity id 53070 at ([J]-236.1810697347272, 65.0, 355.1122860043996)
-[16:16:18] [Server thread/INFO]: gripette lost connection: Disconnected
-[16:16:18] [Server thread/INFO]: gripette left the game.
-[16:21:34] [Server thread/INFO]: devil_biker has just earned the achievement [Hot Topic]
-[16:21:46] [Server thread/INFO]: devil_biker has just earned the achievement [Getting an Upgrade]
-[16:21:48] [Async Chat Thread - #12/INFO]: <Spy00> tu fais quoi oli?
-[16:22:03] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[16:22:03] [Server thread/INFO]: [NoSpawnChunks] Unloaded 115 chunks. Took 374 ms.
-[16:22:05] [Server thread/INFO]: [NoSpawnChunks] Freed 151 mb!
-[16:22:09] [Async Chat Thread - #12/INFO]: <devil_biker> une maison en terre :p
-[16:22:26] [User Authenticator #11/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
-[16:22:26] [Server thread/INFO]: srevid[/192.222.201.105:51669] logged in with entity id 55249 at ([J]-353.300000011921, 8.0, 135.30000001192093)
-[16:22:31] [Async Chat Thread - #12/INFO]: <Spy00> dans notre petit vilage?
-[16:22:36] [Async Chat Thread - #12/INFO]: <srevid> attention attention
-[16:22:51] [Async Chat Thread - #12/INFO]: <srevid> dans 15min le serveur sera disponible
-[16:23:12] [Async Chat Thread - #12/INFO]: <srevid> on fait un backup maintenant
-[16:23:25] [Async Chat Thread - #12/INFO]: <Spy00> on va rester pris ou on est?
-[16:23:31] [Async Chat Thread - #12/INFO]: <srevid> donc tout ce que je vous faites dans le futur sera oublie
-[16:23:43] [Async Chat Thread - #12/INFO]: <srevid> oui si vous ne bougez pas
-[16:24:19] [Async Chat Thread - #12/INFO]: <Spy00> shit je suis perdu dans une caverne quelque part :P
-[16:24:46] [Async Chat Thread - #12/INFO]: <srevid> tu veux que je te teleporte ?
-[16:25:10] [Server thread/INFO]: srevid issued server command: /tp -266.553, 66, 289.192
-[16:25:10] [Server thread/INFO]: [srevid: '-266.553,' is not a valid number]
-[16:25:21] [Server thread/INFO]: srevid issued server command: /tp -266.553 66 289.192
-[16:25:21] [Server thread/INFO]: [srevid: Teleported srevid to -266.553, 66.0, 289.192]
-[16:25:33] [Async Chat Thread - #12/INFO]: <Spy00> ca donne rien vu que tu fais le backup :P
-[16:25:41] [Async Chat Thread - #12/INFO]: <srevid> bah je leais pas encore fait
-[16:25:51] [Async Chat Thread - #12/INFO]: <srevid> je te teleporte pis je fais le backup
-[16:26:14] [Async Chat Thread - #12/INFO]: <srevid> je fais je fais pas ?
-[16:26:28] [Async Chat Thread - #12/INFO]: <Spy00> ok go
-[16:26:36] [Async Chat Thread - #12/INFO]: <Spy00> ca va éviter le trajet de train
-[16:26:41] [Server thread/INFO]: srevid issued server command: /tp Spy00 -266.553 66 289.192
-[16:26:41] [Server thread/INFO]: [srevid: Teleported Spy00 to -266.553, 66.0, 289.192]
-[16:26:46] [Async Chat Thread - #12/INFO]: <Spy00> marie-eve aussi
-[16:26:49] [Async Chat Thread - #12/INFO]: <TiPoulet> moi aussi !!!! je suis au village
-[16:26:50] [Async Chat Thread - #12/INFO]: <srevid> ok
-[16:26:52] [Async Chat Thread - #12/INFO]: <Spy00> merci!!
-[16:26:57] [Async Chat Thread - #12/INFO]: <TiPoulet> :)
-[16:27:04] [Server thread/INFO]: srevid issued server command: /tp TiPoulet -266.553 66 289.192
-[16:27:04] [Server thread/INFO]: [srevid: Teleported TiPoulet to -266.553, 66.0, 289.192]
-[16:27:08] [Async Chat Thread - #12/INFO]: <srevid> voila
-[16:27:11] [Async Chat Thread - #12/INFO]: <srevid> oli ?
-[16:27:19] [Async Chat Thread - #12/INFO]: <TiPoulet> yéh !!
-[16:27:42] [Async Chat Thread - #12/INFO]: <devil_biker> oui?
-[16:27:59] [Async Chat Thread - #12/INFO]: <srevid> je te teleporte dans la maison ?
-[16:28:06] [Async Chat Thread - #12/INFO]: <srevid> pour etre safe avant le backup
-[16:28:16] [Async Chat Thread - #12/INFO]: <devil_biker> ok
-[16:28:30] [Server thread/INFO]: srevid issued server command: /tp devil_biker -266.553 66 289.192
-[16:28:30] [Server thread/INFO]: [srevid: Teleported devil_biker to -266.553, 66.0, 289.192]
-[16:28:50] [Async Chat Thread - #12/INFO]: <srevid> je lance le backup
-[16:28:55] [Async Chat Thread - #12/INFO]: <Spy00> ok parfait
+[23:33:08] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[23:33:08] [Server thread/INFO]: Loading properties
+[23:33:08] [Server thread/INFO]: Default game type: SURVIVAL
+[23:33:08] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-fdc1440-53fac9f (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[23:33:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:33:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:33:08] [Server thread/INFO]: Debug logging is disabled
+[23:33:08] [Server thread/INFO]: Generating keypair
+[23:33:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:33:09] [Server thread/INFO]: Using epoll channel type
+[23:33:09] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[23:33:09] [Server thread/INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0 (Build 142)
+[23:33:09] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[23:33:09] [Server thread/INFO]: Preparing level "J"
+[23:33:09] [Server thread/INFO]: -------- World Settings For [J] --------
+[23:33:09] [Server thread/INFO]: Mob Spawn Range: 4
+[23:33:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:33:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:33:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:33:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:33:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:33:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:33:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:33:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:33:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:33:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:33:09] [Server thread/INFO]: Anti X-Ray: false
+[23:33:09] [Server thread/INFO]: 	Engine Mode: 1
+[23:33:09] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[23:33:09] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[23:33:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:33:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[23:33:09] [Server thread/INFO]: Random Lighting Updates: false
+[23:33:09] [Server thread/INFO]: Structure Info Saving: true
+[23:33:09] [Server thread/INFO]: Sending up to 10 chunks per packet
+[23:33:09] [Server thread/INFO]: Max Entity Collisions: 8
+[23:33:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[23:33:09] [Server thread/INFO]: Max TNT Explosions: 100
+[23:33:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:33:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:33:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:33:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:33:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:33:09] [Server thread/INFO]: View Distance: 4
+[23:33:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:33:09] [Server thread/INFO]: Chunks to Grow per Tick: 450
+[23:33:09] [Server thread/INFO]: Clear tick list: false
+[23:33:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:33:10] [Server thread/INFO]: -------- World Settings For [J_nether] --------
+[23:33:10] [Server thread/INFO]: Mob Spawn Range: 4
+[23:33:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:33:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:33:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:33:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:33:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:33:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:33:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:33:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:33:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:33:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:33:10] [Server thread/INFO]: Anti X-Ray: false
+[23:33:10] [Server thread/INFO]: 	Engine Mode: 1
+[23:33:10] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[23:33:10] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[23:33:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:33:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[23:33:10] [Server thread/INFO]: Random Lighting Updates: false
+[23:33:10] [Server thread/INFO]: Structure Info Saving: true
+[23:33:10] [Server thread/INFO]: Sending up to 10 chunks per packet
+[23:33:10] [Server thread/INFO]: Max Entity Collisions: 8
+[23:33:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[23:33:10] [Server thread/INFO]: Max TNT Explosions: 100
+[23:33:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:33:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:33:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:33:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:33:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:33:10] [Server thread/INFO]: View Distance: 4
+[23:33:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:33:10] [Server thread/INFO]: Chunks to Grow per Tick: 450
+[23:33:10] [Server thread/INFO]: Clear tick list: false
+[23:33:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:33:10] [Server thread/INFO]: -------- World Settings For [J_the_end] --------
+[23:33:10] [Server thread/INFO]: Mob Spawn Range: 4
+[23:33:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:33:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:33:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:33:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:33:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:33:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:33:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:33:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:33:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:33:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:33:10] [Server thread/INFO]: Anti X-Ray: false
+[23:33:10] [Server thread/INFO]: 	Engine Mode: 1
+[23:33:10] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[23:33:10] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[23:33:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:33:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[23:33:10] [Server thread/INFO]: Random Lighting Updates: false
+[23:33:10] [Server thread/INFO]: Structure Info Saving: true
+[23:33:10] [Server thread/INFO]: Sending up to 10 chunks per packet
+[23:33:10] [Server thread/INFO]: Max Entity Collisions: 8
+[23:33:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[23:33:10] [Server thread/INFO]: Max TNT Explosions: 100
+[23:33:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:33:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:33:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:33:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:33:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:33:10] [Server thread/INFO]: View Distance: 4
+[23:33:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:33:10] [Server thread/INFO]: Chunks to Grow per Tick: 450
+[23:33:10] [Server thread/INFO]: Clear tick list: false
+[23:33:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:33:10] [Server thread/INFO]: Preparing start region for level 0 (Seed: 7936026946858735291)
+[23:33:11] [Server thread/INFO]: Preparing spawn area: 4%
+[23:33:12] [Server thread/INFO]: Preparing spawn area: 33%
+[23:33:14] [Server thread/INFO]: Preparing spawn area: 52%
+[23:33:15] [Server thread/INFO]: Preparing spawn area: 52%
+[23:33:17] [Server thread/INFO]: Preparing spawn area: 71%
+[23:33:17] [Server thread/INFO]: Preparing start region for level 1 (Seed: 7936026946858735291)
+[23:33:18] [Server thread/INFO]: Preparing spawn area: 23%
+[23:33:19] [Server thread/INFO]: Preparing spawn area: 29%
+[23:33:20] [Server thread/INFO]: Preparing spawn area: 45%
+[23:33:21] [User Authenticator #1/INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
+[23:33:21] [Server thread/INFO]: Preparing spawn area: 84%
+[23:33:22] [Server thread/INFO]: Preparing start region for level 2 (Seed: 7936026946858735291)
+[23:33:23] [Server thread/INFO]: Preparing spawn area: 34%
+[23:33:24] [Server thread/INFO]: Preparing spawn area: 67%
+[23:33:24] [Server thread/INFO]: [NoSpawnChunks] Enabling NoSpawnChunks v2.0 (Build 142)
+[23:33:24] [Server thread/INFO]: [NoSpawnChunks] NoSpawnChunks v2.0 (Build 142) has been enabled. Took 22 ms.
+[23:33:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:33:24] [Server thread/INFO]: Done (14.707s)! For help, type "help" or "?"
+[23:33:24] [User Authenticator #2/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[23:33:24] [Server thread/INFO]: snickk[/192.222.201.105:4565] logged in with entity id 712 at ([J]-203.35553365870615, 87.0, 287.5702921489947)
+[23:33:24] [Server thread/INFO]: srevid[/192.222.201.105:53567] logged in with entity id 713 at ([J]-348.66695965485235, 45.0, 114.12050584096389)
+[23:33:27] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[23:33:31] [Server thread/INFO]: [NoSpawnChunks] Unloaded 1,722 chunks. Took 3,831 ms.
+[23:33:31] [Server thread/INFO]: [NoSpawnChunks] Freed 164 mb!
+[23:39:40] [User Authenticator #3/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
+[23:39:41] [Server thread/INFO]: gripette[/192.222.201.105:52577] logged in with entity id 1790 at ([J]-262.3274299420236, 69.0625, 287.3675303145036)
