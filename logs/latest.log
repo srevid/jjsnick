@@ -138,3 +138,34 @@
 [16:29:32] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [16:29:37] [Server thread/INFO]: [NoSpawnChunks] Unloaded 1,522 chunks. Took 5,050 ms.
 [16:29:38] [Server thread/INFO]: [NoSpawnChunks] Freed 97 mb!
+[16:32:48] [User Authenticator #1/INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
+[16:32:48] [Server thread/INFO]: snickk[/184.162.168.30:6042] logged in with entity id 708 at ([J]-220.4259815829227, 78.0, 306.63793077169674)
+[16:34:27] [User Authenticator #2/INFO]: UUID of player Spy00 is 9d5dfa3b-f839-4761-8a34-80d123ac6e92
+[16:34:27] [Server thread/INFO]: Spy00[/70.82.243.105:38391] logged in with entity id 1819 at ([J]-194.372726252184, 75.0, 301.30709544568913)
+[16:34:43] [Async Chat Thread - #0/INFO]: <Spy00> salut[m
+[16:34:49] [Async Chat Thread - #0/INFO]: <snickk> salut[m
+[16:34:54] [Async Chat Thread - #0/INFO]: <snickk> le server était planté :([m
+[16:34:57] [Async Chat Thread - #0/INFO]: <Spy00> il y a eu du troubles avec le serveur?[m
+[16:35:21] [Async Chat Thread - #0/INFO]: <snickk> ouais je sais pas trop. va falloir je modifie un script pour quil restart tout seul[m
+[16:35:40] [Async Chat Thread - #0/INFO]: <snickk> cest fargile ces serveurs la[m
+[16:35:44] [Async Chat Thread - #0/INFO]: <snickk> fragile*[m
+[16:35:46] [Server thread/INFO]: Spy00 lost connection: Disconnected
+[16:35:46] [Server thread/INFO]: Spy00 left the game.
+[16:36:03] [Server thread/INFO]: snickk lost connection: Disconnected
+[16:36:03] [Server thread/INFO]: snickk left the game.
+[16:42:22] [User Authenticator #3/INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
+[16:42:22] [Server thread/INFO]: snickk[/184.162.168.30:6165] logged in with entity id 2298 at ([J]-223.37109839655417, 85.5, 302.8086552942271)
+[16:43:16] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world J...
+[16:43:16] [Server thread/INFO]: [NoSpawnChunks] Unloaded 299 chunks. Took 109 ms.
+[16:44:46] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[16:44:46] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[16:44:46] [Server thread/INFO]: [NoSpawnChunks] Freed 201 mb!
+[16:45:06] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world J_nether...
+[16:45:06] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[16:50:24] [Server thread/INFO]: snickk lost connection: Disconnected
+[16:50:24] [Server thread/INFO]: snickk left the game.
+[16:55:02] [User Authenticator #4/INFO]: UUID of player Spy00 is 9d5dfa3b-f839-4761-8a34-80d123ac6e92
+[16:55:02] [Server thread/INFO]: Spy00[/70.82.243.105:38424] logged in with entity id 6695 at ([J]-191.67829807895163, 75.0, 298.4507063596527)
+[16:59:49] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[16:59:49] [Server thread/INFO]: [NoSpawnChunks] Unloaded 169 chunks. Took 55 ms.
+[16:59:50] [Server thread/INFO]: [NoSpawnChunks] Freed 100 mb!
