@@ -326,3 +326,37 @@
 [12:25:51] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [12:25:51] [Server thread/INFO]: [NoSpawnChunks] Unloaded 51 chunks. Took 25 ms.
 [12:25:51] [Server thread/INFO]: [NoSpawnChunks] Freed 211 mb!
+[12:39:59] [Server thread/INFO]: srevid lost connection: Disconnected
+[12:39:59] [Server thread/INFO]: srevid left the game.
+[12:41:18] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[12:41:18] [Server thread/INFO]: [NoSpawnChunks] Unloaded 130 chunks. Took 51 ms.
+[12:42:08] [Server thread/INFO]: Spy00 lost connection: Timed out
+[12:42:08] [Server thread/INFO]: Spy00 left the game.
+[12:42:14] [User Authenticator #12/INFO]: UUID of player Spy00 is 9d5dfa3b-f839-4761-8a34-80d123ac6e92
+[12:42:14] [Server thread/INFO]: Spy00[/70.82.243.105:37663] logged in with entity id 125433 at ([J]-189.6532050608246, 75.0, 300.01975394616545)
+[12:43:15] [Async Chat Thread - #9/INFO]: <gripette> m-a, jai vu que tas fait un enchantement table, pour ton info, le pouvoir des enchantements augmente[m
+[12:43:16] [Server thread/INFO]: Spy00 lost connection: Timed out
+[12:43:16] [Server thread/INFO]: Spy00 left the game.
+[12:43:27] [Async Chat Thread - #9/INFO]: <gripette> quand t'as tes bibliotheques autour[m
+[12:43:46] [User Authenticator #13/INFO]: UUID of player Spy00 is 9d5dfa3b-f839-4761-8a34-80d123ac6e92
+[12:43:46] [Server thread/INFO]: Spy00[/70.82.243.105:37676] logged in with entity id 126913 at ([J]-193.92984741184725, 75.0, 301.4599690750789)
+[12:43:49] [Async Chat Thread - #9/INFO]: <gripette> quand t'as tes bibliotheques autour[m
+[12:44:03] [Async Chat Thread - #9/INFO]: <TiPoulet> ah ok merci pour l'info ! on va se mettre là-dessus ![m
+[12:44:31] [Server thread/INFO]: Spy00 lost connection: Disconnected
+[12:44:31] [Server thread/INFO]: Spy00 left the game.
+[12:46:40] [Server thread/WARN]: emma_s moved wrongly!
+[12:47:05] [Server thread/INFO]: gripette lost connection: Disconnected
+[12:47:05] [Server thread/INFO]: gripette left the game.
+[12:47:25] [Server thread/INFO]: TiPoulet lost connection: Disconnected
+[12:47:25] [Server thread/INFO]: TiPoulet left the game.
+[12:49:34] [Server thread/WARN]: emma_s moved wrongly!
+[12:50:42] [Server thread/WARN]: emma_s moved wrongly!
+[12:54:44] [Server thread/INFO]: emma_s lost connection: Disconnected
+[12:54:44] [Server thread/INFO]: emma_s left the game.
+[12:55:33] [User Authenticator #14/INFO]: UUID of player emma_s is 324fbef9-eef6-4169-90cd-1f0c1ce3d9d1
+[12:55:33] [Server thread/INFO]: emma_s[/192.222.201.105:53595] logged in with entity id 130388 at ([J]-194.80937133101926, 75.0, 260.7380950238209)
+[12:56:14] [Server thread/INFO]: emma_s lost connection: Disconnected
+[12:56:14] [Server thread/INFO]: emma_s left the game.
+[12:56:59] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[12:56:59] [Server thread/INFO]: [NoSpawnChunks] Unloaded 57 chunks. Took 35 ms.
+[12:57:00] [Server thread/INFO]: [NoSpawnChunks] Freed 168 mb!
