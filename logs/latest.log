@@ -127,3 +127,17 @@
 [03:27:31] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [03:27:35] [Server thread/INFO]: [NoSpawnChunks] Unloaded 1,875 chunks. Took 4,060 ms.
 [03:27:35] [Server thread/INFO]: [NoSpawnChunks] Freed 88 mb!
+[03:30:07] [User Authenticator #1/INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
+[03:30:08] [Server thread/INFO]: snickk[/198.48.196.61:5289] logged in with entity id 633 at ([J]-255.99006576243602, 68.0, 287.5296833893517)
+[03:34:31] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world J...
+[03:34:31] [Server thread/INFO]: [NoSpawnChunks] Unloaded 120 chunks. Took 77 ms.
+[03:34:51] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world J_nether...
+[03:34:51] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[03:37:12] [Server thread/INFO]: snickk lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[03:37:12] [Server thread/INFO]: snickk left the game.
+[03:42:37] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[03:42:38] [Server thread/INFO]: [NoSpawnChunks] Unloaded 202 chunks. Took 94 ms.
+[03:42:38] [Server thread/INFO]: [NoSpawnChunks] Freed 225 mb!
+[03:57:39] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[03:57:39] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
+[03:57:39] [Server thread/INFO]: [NoSpawnChunks] Freed 55 mb!
