@@ -242,3 +242,22 @@
 [10:21:09] [Server thread/INFO]: [NoSpawnChunks] Freed 179 mb!
 [10:25:11] [Server thread/INFO]: emma_s fell from a high place
 [10:30:00] [Server thread/INFO]: emma_s has just earned the achievement [Time to Strike!]
+[10:36:48] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[10:36:48] [Server thread/INFO]: [NoSpawnChunks] Unloaded 76 chunks. Took 22 ms.
+[10:36:49] [Server thread/INFO]: [NoSpawnChunks] Freed 45 mb!
+[10:50:31] [User Authenticator #8/INFO]: UUID of player TiPoulet is 5bfeaf1f-c328-4c78-b30d-bda7fdafb049
+[10:50:31] [Server thread/INFO]: TiPoulet[/70.82.243.105:50435] logged in with entity id 50700 at ([J]-191.81349457946484, 75.0, 298.0602957509809)
+[10:52:23] [Async Chat Thread - #0/INFO]: <emma_s> bonjour marie-eve[m
+[10:52:36] [Async Chat Thread - #0/INFO]: <TiPoulet> bon matin emma ! :)[m
+[10:52:38] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[10:52:38] [Server thread/INFO]: [NoSpawnChunks] Unloaded 42 chunks. Took 82 ms.
+[10:52:40] [Server thread/INFO]: [NoSpawnChunks] Freed 84 mb!
+[10:52:49] [Async Chat Thread - #0/INFO]: <srevid> allo marie eve[m
+[10:53:04] [Server thread/WARN]: srevid moved wrongly!
+[10:56:58] [Async Chat Thread - #1/INFO]: <TiPoulet> vous faites quoi ce matin ?[m
+[10:57:15] [Async Chat Thread - #1/INFO]: <srevid> moi je suis en train de miner dans les differentes mines[m
+[10:57:38] [Async Chat Thread - #1/INFO]: <srevid> c est plate mais jaime trouver des ressources :p[m
+[10:58:25] [Async Chat Thread - #1/INFO]: <srevid> emma je sais jamais ce quelle fait :p[m
+[10:59:05] [Async Chat Thread - #1/INFO]: <TiPoulet> hehe souvent elle vient me voir quand je suis là, mais je ne sais pas ce qu'elle fait non plus ![m
+[10:59:14] [Async Chat Thread - #1/INFO]: <TiPoulet> tant qu'elle s'amuse ![m
+[10:59:19] [Async Chat Thread - #1/INFO]: <srevid> ouep :)[m
