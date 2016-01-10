@@ -193,3 +193,6 @@
 [07:58:47] [Server thread/INFO]: [NoSpawnChunks] Unloaded 19 chunks. Took 16 ms.
 [07:59:27] [Server thread/INFO]: gripette lost connection: Disconnected
 [07:59:27] [Server thread/INFO]: gripette left the game.
+[08:00:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@190329ad[id=<null>,name=gripette,properties={},legacy=false] (/192.222.201.105:53061) lost connection: Disconnected
+[08:14:28] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[08:14:28] [Server thread/INFO]: [NoSpawnChunks] Unloaded 72 chunks. Took 28 ms.
