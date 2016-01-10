@@ -196,3 +196,9 @@
 [08:00:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@190329ad[id=<null>,name=gripette,properties={},legacy=false] (/192.222.201.105:53061) lost connection: Disconnected
 [08:14:28] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [08:14:28] [Server thread/INFO]: [NoSpawnChunks] Unloaded 72 chunks. Took 28 ms.
+[08:30:08] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[08:30:08] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[08:30:09] [Server thread/INFO]: [NoSpawnChunks] Freed 36 mb!
+[08:45:48] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[08:45:48] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[08:45:48] [Server thread/INFO]: [NoSpawnChunks] Freed 14 mb!
