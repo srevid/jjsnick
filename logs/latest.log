@@ -215,3 +215,19 @@
 [09:17:04] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [09:17:04] [Server thread/INFO]: [NoSpawnChunks] Unloaded 2 chunks. Took 1 ms.
 [09:17:05] [Server thread/INFO]: [NoSpawnChunks] Freed 118 mb!
+[09:32:41] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[09:32:41] [Server thread/INFO]: [NoSpawnChunks] Unloaded 66 chunks. Took 30 ms.
+[09:32:42] [Server thread/INFO]: [NoSpawnChunks] Freed 66 mb!
+[09:42:49] [User Authenticator #7/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[09:42:51] [Server thread/INFO]: srevid[/192.222.201.105:49401] logged in with entity id 21911 at ([J]-267.2819214425827, 65.0, 285.8357362089634)
+[09:48:36] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[09:48:37] [Server thread/INFO]: [NoSpawnChunks] Unloaded 23 chunks. Took 13 ms.
+[09:48:37] [Server thread/INFO]: [NoSpawnChunks] Freed 84 mb!
+[09:52:28] [Server thread/WARN]: emma_s moved wrongly!
+[09:58:22] [Server thread/WARN]: srevid moved wrongly!
+[09:58:22] [Server thread/WARN]: srevid moved wrongly!
+[09:58:22] [Server thread/WARN]: srevid moved wrongly!
+[09:58:57] [Server thread/WARN]: srevid moved wrongly!
+[09:58:57] [Server thread/WARN]: srevid moved wrongly!
+[09:58:57] [Server thread/WARN]: srevid moved wrongly!
+[09:59:27] [Server thread/WARN]: srevid moved wrongly!
