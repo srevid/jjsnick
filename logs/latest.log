@@ -141,3 +141,9 @@
 [03:57:39] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [03:57:39] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
 [03:57:39] [Server thread/INFO]: [NoSpawnChunks] Freed 55 mb!
+[04:12:40] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[04:12:40] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[04:12:40] [Server thread/INFO]: [NoSpawnChunks] Freed 15 mb!
+[04:27:41] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[04:27:41] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[04:27:41] [Server thread/INFO]: [NoSpawnChunks] Freed 14 mb!
