@@ -385,3 +385,28 @@
 [14:45:04] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [14:45:04] [Server thread/INFO]: [NoSpawnChunks] Unloaded 141 chunks. Took 55 ms.
 [14:53:35] [Server thread/INFO]: devil_biker has just earned the achievement [Enchanter]
+[15:00:06] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[15:00:06] [Server thread/INFO]: [NoSpawnChunks] Unloaded 118 chunks. Took 30 ms.
+[15:00:06] [Server thread/INFO]: [NoSpawnChunks] Freed 175 mb!
+[15:02:50] [User Authenticator #16/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[15:02:50] [Server thread/INFO]: srevid[/192.222.201.105:49731] logged in with entity id 187032 at ([J]-335.30000001192116, 47.0, 134.6801687233772)
+[15:06:34] [User Authenticator #17/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
+[15:06:34] [Server thread/INFO]: gripette[/192.222.201.105:54124] logged in with entity id 188612 at ([J]-187.10558982793816, 66.0, 280.1664610791374)
+[15:06:40] [Server thread/INFO]: srevid lost connection: Disconnected
+[15:06:40] [Server thread/INFO]: srevid left the game.
+[15:06:51] [Async Chat Thread - #11/INFO]: <snickk> hey, tu vides pas mes vidanges assez souvent ;P[m
+[15:07:04] [Async Chat Thread - #11/INFO]: <gripette> lol[m
+[15:10:07] [User Authenticator #18/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[15:10:07] [Server thread/INFO]: srevid[/192.222.201.105:49739] logged in with entity id 192501 at ([J]-340.6850379211828, 25.0, 93.72164244784148)
+[15:12:46] [Server thread/INFO]: gripette lost connection: Disconnected
+[15:12:46] [Server thread/INFO]: gripette left the game.
+[15:13:18] [User Authenticator #19/INFO]: UUID of player emma_s is 324fbef9-eef6-4169-90cd-1f0c1ce3d9d1
+[15:13:21] [Server thread/INFO]: emma_s[/192.222.201.105:54150] logged in with entity id 195662 at ([J]-194.30000001192093, 75.0, 259.30000001192093)
+[15:14:45] [Server thread/INFO]: emma_s lost connection: Disconnected
+[15:14:45] [Server thread/INFO]: emma_s left the game.
+[15:15:17] [User Authenticator #20/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
+[15:15:17] [Server thread/INFO]: gripette[/192.222.201.105:54177] logged in with entity id 196714 at ([J]-236.08539854703665, 71.0, 301.05063152957973)
+[15:15:41] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[15:15:41] [Server thread/INFO]: [NoSpawnChunks] Unloaded 89 chunks. Took 53 ms.
+[15:15:42] [Server thread/INFO]: [NoSpawnChunks] Freed 178 mb!
+[15:29:19] [Server thread/WARN]: devil_biker moved wrongly!
