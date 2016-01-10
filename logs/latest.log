@@ -1,700 +1,140 @@
-[03:27:22] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[03:27:22] [Server thread/INFO]: Loading properties
-[03:27:22] [Server thread/INFO]: Default game type: SURVIVAL
-[03:27:22] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-fdc1440-53fac9f (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[03:27:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:27:22] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:27:22] [Server thread/INFO]: Debug logging is disabled
-[03:27:22] [Server thread/INFO]: Generating keypair
-[03:27:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:27:23] [Server thread/INFO]: Using epoll channel type
-[03:27:23] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[03:27:23] [Server thread/INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0 (Build 142)
-[03:27:23] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[03:27:23] [Server thread/INFO]: Preparing level "J"
-[03:27:23] [Server thread/INFO]: -------- World Settings For [J] --------
-[03:27:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Cane Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Melon Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[03:27:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[03:27:23] [Server thread/INFO]: Mob Spawn Range: 4
-[03:27:23] [Server thread/INFO]: Anti X-Ray: false
-[03:27:23] [Server thread/INFO]: 	Engine Mode: 1
-[03:27:23] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[03:27:23] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[03:27:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[03:27:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[03:27:23] [Server thread/INFO]: Random Lighting Updates: false
-[03:27:23] [Server thread/INFO]: Structure Info Saving: true
-[03:27:23] [Server thread/INFO]: Sending up to 10 chunks per packet
-[03:27:23] [Server thread/INFO]: Max Entity Collisions: 8
-[03:27:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[03:27:23] [Server thread/INFO]: Max TNT Explosions: 100
-[03:27:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[03:27:23] [Server thread/INFO]: Item Despawn Rate: 6000
-[03:27:23] [Server thread/INFO]: Item Merge Radius: 2.5
-[03:27:23] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[03:27:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[03:27:23] [Server thread/INFO]: View Distance: 4
-[03:27:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[03:27:23] [Server thread/INFO]: Chunks to Grow per Tick: 450
-[03:27:23] [Server thread/INFO]: Clear tick list: false
-[03:27:23] [Server thread/INFO]: Experience Merge Radius: 3.0
-[03:27:23] [Server thread/INFO]: -------- World Settings For [J_nether] --------
-[03:27:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Cane Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Melon Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[03:27:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[03:27:23] [Server thread/INFO]: Mob Spawn Range: 4
-[03:27:23] [Server thread/INFO]: Anti X-Ray: false
-[03:27:23] [Server thread/INFO]: 	Engine Mode: 1
-[03:27:23] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[03:27:23] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[03:27:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[03:27:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[03:27:23] [Server thread/INFO]: Random Lighting Updates: false
-[03:27:23] [Server thread/INFO]: Structure Info Saving: true
-[03:27:23] [Server thread/INFO]: Sending up to 10 chunks per packet
-[03:27:23] [Server thread/INFO]: Max Entity Collisions: 8
-[03:27:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[03:27:23] [Server thread/INFO]: Max TNT Explosions: 100
-[03:27:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[03:27:23] [Server thread/INFO]: Item Despawn Rate: 6000
-[03:27:23] [Server thread/INFO]: Item Merge Radius: 2.5
-[03:27:23] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[03:27:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[03:27:23] [Server thread/INFO]: View Distance: 4
-[03:27:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[03:27:23] [Server thread/INFO]: Chunks to Grow per Tick: 450
-[03:27:23] [Server thread/INFO]: Clear tick list: false
-[03:27:23] [Server thread/INFO]: Experience Merge Radius: 3.0
-[03:27:23] [Server thread/INFO]: -------- World Settings For [J_the_end] --------
-[03:27:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Cane Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Melon Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[03:27:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[03:27:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[03:27:23] [Server thread/INFO]: Mob Spawn Range: 4
-[03:27:23] [Server thread/INFO]: Anti X-Ray: false
-[03:27:23] [Server thread/INFO]: 	Engine Mode: 1
-[03:27:23] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[03:27:23] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[03:27:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[03:27:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[03:27:23] [Server thread/INFO]: Random Lighting Updates: false
-[03:27:23] [Server thread/INFO]: Structure Info Saving: true
-[03:27:23] [Server thread/INFO]: Sending up to 10 chunks per packet
-[03:27:23] [Server thread/INFO]: Max Entity Collisions: 8
-[03:27:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[03:27:23] [Server thread/INFO]: Max TNT Explosions: 100
-[03:27:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[03:27:23] [Server thread/INFO]: Item Despawn Rate: 6000
-[03:27:23] [Server thread/INFO]: Item Merge Radius: 2.5
-[03:27:23] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[03:27:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[03:27:23] [Server thread/INFO]: View Distance: 4
-[03:27:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[03:27:23] [Server thread/INFO]: Chunks to Grow per Tick: 450
-[03:27:23] [Server thread/INFO]: Clear tick list: false
-[03:27:23] [Server thread/INFO]: Experience Merge Radius: 3.0
-[03:27:23] [Server thread/INFO]: Preparing start region for level 0 (Seed: 7936026946858735291)
-[03:27:24] [Server thread/INFO]: Preparing spawn area: 14%
-[03:27:25] [Server thread/INFO]: Preparing spawn area: 51%
-[03:27:26] [Server thread/INFO]: Preparing start region for level 1 (Seed: 7936026946858735291)
-[03:27:27] [Server thread/INFO]: Preparing spawn area: 80%
-[03:27:28] [Server thread/INFO]: Preparing start region for level 2 (Seed: 7936026946858735291)
-[03:27:28] [Server thread/INFO]: [NoSpawnChunks] Enabling NoSpawnChunks v2.0 (Build 142)
-[03:27:28] [Server thread/INFO]: [NoSpawnChunks] NoSpawnChunks v2.0 (Build 142) has been enabled. Took 15 ms.
-[03:27:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:27:28] [Server thread/INFO]: Done (4.869s)! For help, type "help" or "?"
-[03:27:31] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[03:27:35] [Server thread/INFO]: [NoSpawnChunks] Unloaded 1,875 chunks. Took 4,060 ms.
-[03:27:35] [Server thread/INFO]: [NoSpawnChunks] Freed 88 mb!
-[03:30:07] [User Authenticator #1/INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
-[03:30:08] [Server thread/INFO]: snickk[/198.48.196.61:5289] logged in with entity id 633 at ([J]-255.99006576243602, 68.0, 287.5296833893517)
-[03:34:31] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world J...
-[03:34:31] [Server thread/INFO]: [NoSpawnChunks] Unloaded 120 chunks. Took 77 ms.
-[03:34:51] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world J_nether...
-[03:34:51] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
-[03:37:12] [Server thread/INFO]: snickk lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
-[03:37:12] [Server thread/INFO]: snickk left the game.
-[03:42:37] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[03:42:38] [Server thread/INFO]: [NoSpawnChunks] Unloaded 202 chunks. Took 94 ms.
-[03:42:38] [Server thread/INFO]: [NoSpawnChunks] Freed 225 mb!
-[03:57:39] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[03:57:39] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
-[03:57:39] [Server thread/INFO]: [NoSpawnChunks] Freed 55 mb!
-[04:12:40] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[04:12:40] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[04:12:40] [Server thread/INFO]: [NoSpawnChunks] Freed 15 mb!
-[04:27:41] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[04:27:41] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
-[04:27:41] [Server thread/INFO]: [NoSpawnChunks] Freed 14 mb!
-[04:42:42] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[04:42:42] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
-[04:42:42] [Server thread/INFO]: [NoSpawnChunks] Freed 14 mb!
-[04:57:43] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[04:57:43] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[04:57:43] [Server thread/INFO]: [NoSpawnChunks] Freed 14 mb!
-[05:12:44] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[05:12:44] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[05:12:44] [Server thread/INFO]: [NoSpawnChunks] Freed 14 mb!
-[05:28:19] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[05:28:19] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 143 ms.
-[05:28:23] [Server thread/INFO]: [NoSpawnChunks] Freed 14 mb!
-[05:43:40] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[05:43:40] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[05:43:40] [Server thread/INFO]: [NoSpawnChunks] Freed 14 mb!
-[05:58:57] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[05:58:57] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 5 ms.
-[05:58:59] [Server thread/INFO]: [NoSpawnChunks] Freed 14 mb!
-[06:14:16] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[06:14:16] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 4 ms.
-[06:14:16] [Server thread/INFO]: [NoSpawnChunks] Freed 14 mb!
-[06:30:03] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[06:30:03] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[06:30:04] [Server thread/INFO]: [NoSpawnChunks] Freed 14 mb!
-[06:45:20] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[06:45:20] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 6 ms.
-[06:45:23] [Server thread/INFO]: [NoSpawnChunks] Freed 14 mb!
-[07:11:07] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[07:11:07] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 9 ms.
-[07:11:07] [Server thread/INFO]: [NoSpawnChunks] Freed 15 mb!
-[07:26:42] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[07:26:42] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[07:26:42] [Server thread/INFO]: [NoSpawnChunks] Freed 14 mb!
-[07:36:18] [User Authenticator #2/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
-[07:36:19] [Server thread/INFO]: gripette[/192.222.201.105:53010] logged in with entity id 5341 at ([J]-233.89358387269942, 68.0, 265.42405454889087)
-[07:36:26] [Server thread/INFO]: gripette lost connection: Disconnected
-[07:36:26] [Server thread/INFO]: gripette left the game.
-[07:37:12] [User Authenticator #3/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
-[07:37:12] [Server thread/INFO]: gripette[/192.222.201.105:53023] logged in with entity id 5419 at ([J]-233.89358387269942, 68.0, 265.42405454889087)
-[07:43:07] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[07:43:07] [Server thread/INFO]: [NoSpawnChunks] Unloaded 81 chunks. Took 187 ms.
-[07:43:11] [Server thread/INFO]: [NoSpawnChunks] Freed 82 mb!
-[07:58:47] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[07:58:47] [Server thread/INFO]: [NoSpawnChunks] Unloaded 19 chunks. Took 16 ms.
-[07:59:27] [Server thread/INFO]: gripette lost connection: Disconnected
-[07:59:27] [Server thread/INFO]: gripette left the game.
-[08:00:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@190329ad[id=<null>,name=gripette,properties={},legacy=false] (/192.222.201.105:53061) lost connection: Disconnected
-[08:14:28] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[08:14:28] [Server thread/INFO]: [NoSpawnChunks] Unloaded 72 chunks. Took 28 ms.
-[08:30:08] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[08:30:08] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[08:30:09] [Server thread/INFO]: [NoSpawnChunks] Freed 36 mb!
-[08:45:48] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[08:45:48] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[08:45:48] [Server thread/INFO]: [NoSpawnChunks] Freed 14 mb!
-[09:01:28] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[09:01:28] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[09:01:28] [Server thread/INFO]: [NoSpawnChunks] Freed 14 mb!
-[09:13:23] [User Authenticator #4/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
-[09:13:24] [Server thread/INFO]: gripette[/192.222.201.105:53189] logged in with entity id 11647 at ([J]-233.30541534667054, 76.0, 322.30000001192093)
-[09:13:35] [Server thread/INFO]: gripette lost connection: Disconnected
-[09:13:35] [Server thread/INFO]: gripette left the game.
-[09:14:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a009a1f[id=<null>,name=emma_s,properties={},legacy=false] (/192.222.201.105:53212) lost connection: Disconnected
-[09:14:48] [User Authenticator #6/INFO]: UUID of player emma_s is 324fbef9-eef6-4169-90cd-1f0c1ce3d9d1
-[09:14:48] [Server thread/INFO]: emma_s[/192.222.201.105:53218] logged in with entity id 11773 at ([J]-231.88122570804128, 71.0, 321.2728602013845)
-[09:17:04] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[09:17:04] [Server thread/INFO]: [NoSpawnChunks] Unloaded 2 chunks. Took 1 ms.
-[09:17:05] [Server thread/INFO]: [NoSpawnChunks] Freed 118 mb!
-[09:32:41] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[09:32:41] [Server thread/INFO]: [NoSpawnChunks] Unloaded 66 chunks. Took 30 ms.
-[09:32:42] [Server thread/INFO]: [NoSpawnChunks] Freed 66 mb!
-[09:42:49] [User Authenticator #7/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
-[09:42:51] [Server thread/INFO]: srevid[/192.222.201.105:49401] logged in with entity id 21911 at ([J]-267.2819214425827, 65.0, 285.8357362089634)
-[09:48:36] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[09:48:37] [Server thread/INFO]: [NoSpawnChunks] Unloaded 23 chunks. Took 13 ms.
-[09:48:37] [Server thread/INFO]: [NoSpawnChunks] Freed 84 mb!
-[09:52:28] [Server thread/WARN]: emma_s moved wrongly!
-[09:58:22] [Server thread/WARN]: srevid moved wrongly!
-[09:58:22] [Server thread/WARN]: srevid moved wrongly!
-[09:58:22] [Server thread/WARN]: srevid moved wrongly!
-[09:58:57] [Server thread/WARN]: srevid moved wrongly!
-[09:58:57] [Server thread/WARN]: srevid moved wrongly!
-[09:58:57] [Server thread/WARN]: srevid moved wrongly!
-[09:59:27] [Server thread/WARN]: srevid moved wrongly!
-[10:04:47] [Server thread/WARN]: srevid moved wrongly!
-[10:04:47] [Server thread/WARN]: srevid moved wrongly!
-[10:04:47] [Server thread/WARN]: srevid moved wrongly!
-[10:04:56] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[10:04:56] [Server thread/INFO]: [NoSpawnChunks] Unloaded 171 chunks. Took 84 ms.
-[10:10:53] [Server thread/INFO]: emma_s was shot by Skeleton
-[10:21:09] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[10:21:09] [Server thread/INFO]: [NoSpawnChunks] Unloaded 143 chunks. Took 42 ms.
-[10:21:09] [Server thread/INFO]: [NoSpawnChunks] Freed 179 mb!
-[10:25:11] [Server thread/INFO]: emma_s fell from a high place
-[10:30:00] [Server thread/INFO]: emma_s has just earned the achievement [Time to Strike!]
-[10:36:48] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[10:36:48] [Server thread/INFO]: [NoSpawnChunks] Unloaded 76 chunks. Took 22 ms.
-[10:36:49] [Server thread/INFO]: [NoSpawnChunks] Freed 45 mb!
-[10:50:31] [User Authenticator #8/INFO]: UUID of player TiPoulet is 5bfeaf1f-c328-4c78-b30d-bda7fdafb049
-[10:50:31] [Server thread/INFO]: TiPoulet[/70.82.243.105:50435] logged in with entity id 50700 at ([J]-191.81349457946484, 75.0, 298.0602957509809)
-[10:52:23] [Async Chat Thread - #0/INFO]: <emma_s> bonjour marie-eve[m
-[10:52:36] [Async Chat Thread - #0/INFO]: <TiPoulet> bon matin emma ! :)[m
-[10:52:38] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[10:52:38] [Server thread/INFO]: [NoSpawnChunks] Unloaded 42 chunks. Took 82 ms.
-[10:52:40] [Server thread/INFO]: [NoSpawnChunks] Freed 84 mb!
-[10:52:49] [Async Chat Thread - #0/INFO]: <srevid> allo marie eve[m
-[10:53:04] [Server thread/WARN]: srevid moved wrongly!
-[10:56:58] [Async Chat Thread - #1/INFO]: <TiPoulet> vous faites quoi ce matin ?[m
-[10:57:15] [Async Chat Thread - #1/INFO]: <srevid> moi je suis en train de miner dans les differentes mines[m
-[10:57:38] [Async Chat Thread - #1/INFO]: <srevid> c est plate mais jaime trouver des ressources :p[m
-[10:58:25] [Async Chat Thread - #1/INFO]: <srevid> emma je sais jamais ce quelle fait :p[m
-[10:59:05] [Async Chat Thread - #1/INFO]: <TiPoulet> hehe souvent elle vient me voir quand je suis là, mais je ne sais pas ce qu'elle fait non plus ![m
-[10:59:14] [Async Chat Thread - #1/INFO]: <TiPoulet> tant qu'elle s'amuse ![m
-[10:59:19] [Async Chat Thread - #1/INFO]: <srevid> ouep :)[m
-[11:00:27] [Async Chat Thread - #2/INFO]: <TiPoulet> trouve-tu quelque chose de bien dans les mines ? on essaie de trouver du iron en grosse quantité[m
-[11:00:33] [Async Chat Thread - #2/INFO]: <TiPoulet> et c'est assez limité[m
-[11:00:41] [Async Chat Thread - #2/INFO]: <TiPoulet> as-tu un truc ?[m
-[11:00:43] [Async Chat Thread - #2/INFO]: <TiPoulet> :P[m
-[11:01:02] [Async Chat Thread - #2/INFO]: <srevid> pour le iron cest pas mal aléatoire, mais il y en a autant que du charbon[m
-[11:01:15] [User Authenticator #9/INFO]: UUID of player Spy00 is 9d5dfa3b-f839-4761-8a34-80d123ac6e92
-[11:01:16] [Server thread/INFO]: Spy00[/70.82.243.105:59038] logged in with entity id 59309 at ([J]-193.17173783852823, 75.0, 299.75767415726835)
-[11:01:34] [Async Chat Thread - #2/INFO]: <srevid> sinon quand tu vas au level 11, la ou il y a plein de lave, y a du diamond[m
-[11:01:38] [Async Chat Thread - #2/INFO]: <srevid> et redstone[m
-[11:01:53] [Async Chat Thread - #2/INFO]: <srevid> mais faut eviter de se faire bruler par la lave[m
-[11:02:02] [Async Chat Thread - #2/INFO]: <TiPoulet> redstone on en a pas mal, diamond on en a trouvé mais pas beaucoup[m
-[11:02:03] [Async Chat Thread - #2/INFO]: <srevid> c est le cote un peu stressant que j'aime bien :p[m
-[11:02:13] [Async Chat Thread - #2/INFO]: <srevid> c est vraiment rare le diamond[m
-[11:02:23] [Async Chat Thread - #2/INFO]: <srevid> mais ca fait de bonnes armes et outils[m
-[11:02:53] [Async Chat Thread - #2/INFO]: <TiPoulet> hehe oui stressant mets-en ! on est tombé quelque fois sur des mares de lave derrière nos murs[m
-[11:02:57] [Async Chat Thread - #2/INFO]: <TiPoulet> à la mine[m
-[11:03:18] [Async Chat Thread - #2/INFO]: <srevid> ou quand tu creuse le plafond et que ca te tombe dessus :p[m
-[11:03:34] [Async Chat Thread - #2/INFO]: <TiPoulet> aussi !!![m
-[11:04:45] [Async Chat Thread - #3/INFO]: <srevid> je creuse aussi pour me faire de lexperience[m
-[11:04:58] [Async Chat Thread - #3/INFO]: <srevid> avec le charbon et le redstone on en gagne pas mal[m
-[11:07:51] [Server thread/INFO]: TiPoulet has just earned the achievement [Repopulation]
-[11:08:13] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[11:08:13] [Server thread/INFO]: [NoSpawnChunks] Unloaded 75 chunks. Took 43 ms.
-[11:08:13] [Server thread/INFO]: [NoSpawnChunks] Freed 148 mb!
-[11:24:04] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[11:24:04] [Server thread/INFO]: [NoSpawnChunks] Unloaded 65 chunks. Took 52 ms.
-[11:24:05] [Server thread/INFO]: [NoSpawnChunks] Freed 120 mb!
-[11:25:27] [Server thread/INFO]: emma_s has just earned the achievement [Monster Hunter]
-[11:27:28] [Async Chat Thread - #4/INFO]: <TiPoulet> attention emma, il y a de la lave ici ![m
-[11:39:36] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[11:39:36] [Server thread/INFO]: [NoSpawnChunks] Unloaded 36 chunks. Took 21 ms.
-[11:40:03] [Async Chat Thread - #5/INFO]: <srevid> marie eve attention[m
-[11:40:17] [Async Chat Thread - #5/INFO]: <srevid> emma veut te dire quil y a un creeper dans ta salle de jeu[m
-[11:40:41] [Async Chat Thread - #5/INFO]: <TiPoulet> je ne le vois pas encore et je ne l'entends pas non plus ![m
-[11:40:51] [Async Chat Thread - #5/INFO]: <srevid> il a disparu il parait...[m
-[11:41:02] [Async Chat Thread - #5/INFO]: <TiPoulet> dac ! merci emma ![m
-[11:44:51] [User Authenticator #10/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
-[11:44:51] [Server thread/INFO]: gripette[/192.222.201.105:49272] logged in with entity id 86634 at ([J]-233.30541534667054, 76.0, 322.30000001192093)
-[11:45:22] [Async Chat Thread - #6/INFO]: <srevid> zoe est dans la place !![m
-[11:45:46] [Async Chat Thread - #6/INFO]: <Spy00> allo zoé![m
-[11:46:06] [Async Chat Thread - #6/INFO]: <gripette> zoe: allo a tous![m
-[11:53:03] [Async Chat Thread - #7/INFO]: <srevid> emma demande , marie eve et marc andre où vous êtes ?[m
-[11:53:18] [Async Chat Thread - #7/INFO]: <TiPoulet> on est dans notre mine, sous notre maison[m
-[11:53:37] [Async Chat Thread - #7/INFO]: <Spy00> a la meme place ou Emma et moi on était tantot[m
-[11:55:08] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[11:55:09] [Server thread/INFO]: [NoSpawnChunks] Unloaded 92 chunks. Took 57 ms.
-[11:55:09] [Server thread/INFO]: [NoSpawnChunks] Freed 168 mb!
-[12:00:22] [User Authenticator #11/INFO]: UUID of player devil_biker is 85c51cb3-e66f-4ef3-8e82-7da7a758ceb4
-[12:00:22] [Server thread/INFO]: devil_biker[/173.179.217.109:54347] logged in with entity id 93792 at ([J]-197.27951365466356, 75.0, 261.88139685754015)
-[12:04:53] [Server thread/WARN]: emma_s moved wrongly!
-[12:07:39] [Server thread/INFO]: Spy00 issued server command: /enchant Spy00 34 3
-[12:07:39] [Server thread/INFO]: [Spy00: Enchanting succeeded]
-[12:08:52] [Server thread/INFO]: Spy00 issued server command: /enchant Spy00 32 3
-[12:08:52] [Server thread/INFO]: [Spy00: Enchanting succeeded]
-[12:10:34] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[12:10:34] [Server thread/INFO]: [NoSpawnChunks] Unloaded 67 chunks. Took 25 ms.
-[12:11:40] [Async Chat Thread - #8/INFO]: <emma_s> attend[m
-[12:11:50] [Async Chat Thread - #8/INFO]: <Spy00> c'est du diamand[m
-[12:11:53] [Async Chat Thread - #8/INFO]: <emma_s> on va le miner ave cun pick qui a l'enchantement fortune[m
-[12:12:08] [Async Chat Thread - #8/INFO]: <emma_s> je vais le chercher (ca en drop plus)[m
-[12:12:11] [Async Chat Thread - #8/INFO]: <Spy00> ok![m
-[12:24:46] [Server thread/INFO]: TiPoulet has just earned the achievement [Diamonds to you!]
-[12:25:51] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[12:25:51] [Server thread/INFO]: [NoSpawnChunks] Unloaded 51 chunks. Took 25 ms.
-[12:25:51] [Server thread/INFO]: [NoSpawnChunks] Freed 211 mb!
-[12:39:59] [Server thread/INFO]: srevid lost connection: Disconnected
-[12:39:59] [Server thread/INFO]: srevid left the game.
-[12:41:18] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[12:41:18] [Server thread/INFO]: [NoSpawnChunks] Unloaded 130 chunks. Took 51 ms.
-[12:42:08] [Server thread/INFO]: Spy00 lost connection: Timed out
-[12:42:08] [Server thread/INFO]: Spy00 left the game.
-[12:42:14] [User Authenticator #12/INFO]: UUID of player Spy00 is 9d5dfa3b-f839-4761-8a34-80d123ac6e92
-[12:42:14] [Server thread/INFO]: Spy00[/70.82.243.105:37663] logged in with entity id 125433 at ([J]-189.6532050608246, 75.0, 300.01975394616545)
-[12:43:15] [Async Chat Thread - #9/INFO]: <gripette> m-a, jai vu que tas fait un enchantement table, pour ton info, le pouvoir des enchantements augmente[m
-[12:43:16] [Server thread/INFO]: Spy00 lost connection: Timed out
-[12:43:16] [Server thread/INFO]: Spy00 left the game.
-[12:43:27] [Async Chat Thread - #9/INFO]: <gripette> quand t'as tes bibliotheques autour[m
-[12:43:46] [User Authenticator #13/INFO]: UUID of player Spy00 is 9d5dfa3b-f839-4761-8a34-80d123ac6e92
-[12:43:46] [Server thread/INFO]: Spy00[/70.82.243.105:37676] logged in with entity id 126913 at ([J]-193.92984741184725, 75.0, 301.4599690750789)
-[12:43:49] [Async Chat Thread - #9/INFO]: <gripette> quand t'as tes bibliotheques autour[m
-[12:44:03] [Async Chat Thread - #9/INFO]: <TiPoulet> ah ok merci pour l'info ! on va se mettre là-dessus ![m
-[12:44:31] [Server thread/INFO]: Spy00 lost connection: Disconnected
-[12:44:31] [Server thread/INFO]: Spy00 left the game.
-[12:46:40] [Server thread/WARN]: emma_s moved wrongly!
-[12:47:05] [Server thread/INFO]: gripette lost connection: Disconnected
-[12:47:05] [Server thread/INFO]: gripette left the game.
-[12:47:25] [Server thread/INFO]: TiPoulet lost connection: Disconnected
-[12:47:25] [Server thread/INFO]: TiPoulet left the game.
-[12:49:34] [Server thread/WARN]: emma_s moved wrongly!
-[12:50:42] [Server thread/WARN]: emma_s moved wrongly!
-[12:54:44] [Server thread/INFO]: emma_s lost connection: Disconnected
-[12:54:44] [Server thread/INFO]: emma_s left the game.
-[12:55:33] [User Authenticator #14/INFO]: UUID of player emma_s is 324fbef9-eef6-4169-90cd-1f0c1ce3d9d1
-[12:55:33] [Server thread/INFO]: emma_s[/192.222.201.105:53595] logged in with entity id 130388 at ([J]-194.80937133101926, 75.0, 260.7380950238209)
-[12:56:14] [Server thread/INFO]: emma_s lost connection: Disconnected
-[12:56:14] [Server thread/INFO]: emma_s left the game.
-[12:56:59] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[12:56:59] [Server thread/INFO]: [NoSpawnChunks] Unloaded 57 chunks. Took 35 ms.
-[12:57:00] [Server thread/INFO]: [NoSpawnChunks] Freed 168 mb!
-[13:12:33] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[13:12:33] [Server thread/INFO]: [NoSpawnChunks] Unloaded 102 chunks. Took 39 ms.
-[13:28:06] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[13:28:06] [Server thread/INFO]: [NoSpawnChunks] Unloaded 129 chunks. Took 63 ms.
-[13:28:07] [Server thread/INFO]: [NoSpawnChunks] Freed 91 mb!
-[13:32:39] [Server thread/INFO]: devil_biker fell from a high place
-[13:43:38] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[13:43:38] [Server thread/INFO]: [NoSpawnChunks] Unloaded 153 chunks. Took 74 ms.
-[13:43:39] [Server thread/INFO]: [NoSpawnChunks] Freed 121 mb!
-[13:59:36] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[13:59:36] [Server thread/INFO]: [NoSpawnChunks] Unloaded 122 chunks. Took 71 ms.
-[13:59:36] [Server thread/INFO]: [NoSpawnChunks] Freed 154 mb!
-[14:14:58] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[14:14:58] [Server thread/INFO]: [NoSpawnChunks] Unloaded 158 chunks. Took 50 ms.
-[14:14:59] [Server thread/INFO]: [NoSpawnChunks] Freed 127 mb!
-[14:30:00] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[14:30:00] [Server thread/INFO]: [NoSpawnChunks] Unloaded 45 chunks. Took 14 ms.
-[14:30:01] [Server thread/INFO]: [NoSpawnChunks] Freed 84 mb!
-[14:34:19] [User Authenticator #15/INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
-[14:34:21] [Server thread/INFO]: snickk[/198.48.196.61:50211] logged in with entity id 170269 at ([J]-222.26243680915533, 78.0, 305.8043238295229)
-[14:34:29] [Async Chat Thread - #10/INFO]: <snickk> salut![m
-[14:34:38] [Async Chat Thread - #10/INFO]: <devil_biker> allo[m
-[14:45:04] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[14:45:04] [Server thread/INFO]: [NoSpawnChunks] Unloaded 141 chunks. Took 55 ms.
-[14:53:35] [Server thread/INFO]: devil_biker has just earned the achievement [Enchanter]
-[15:00:06] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[15:00:06] [Server thread/INFO]: [NoSpawnChunks] Unloaded 118 chunks. Took 30 ms.
-[15:00:06] [Server thread/INFO]: [NoSpawnChunks] Freed 175 mb!
-[15:02:50] [User Authenticator #16/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
-[15:02:50] [Server thread/INFO]: srevid[/192.222.201.105:49731] logged in with entity id 187032 at ([J]-335.30000001192116, 47.0, 134.6801687233772)
-[15:06:34] [User Authenticator #17/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
-[15:06:34] [Server thread/INFO]: gripette[/192.222.201.105:54124] logged in with entity id 188612 at ([J]-187.10558982793816, 66.0, 280.1664610791374)
-[15:06:40] [Server thread/INFO]: srevid lost connection: Disconnected
-[15:06:40] [Server thread/INFO]: srevid left the game.
-[15:06:51] [Async Chat Thread - #11/INFO]: <snickk> hey, tu vides pas mes vidanges assez souvent ;P[m
-[15:07:04] [Async Chat Thread - #11/INFO]: <gripette> lol[m
-[15:10:07] [User Authenticator #18/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
-[15:10:07] [Server thread/INFO]: srevid[/192.222.201.105:49739] logged in with entity id 192501 at ([J]-340.6850379211828, 25.0, 93.72164244784148)
-[15:12:46] [Server thread/INFO]: gripette lost connection: Disconnected
-[15:12:46] [Server thread/INFO]: gripette left the game.
-[15:13:18] [User Authenticator #19/INFO]: UUID of player emma_s is 324fbef9-eef6-4169-90cd-1f0c1ce3d9d1
-[15:13:21] [Server thread/INFO]: emma_s[/192.222.201.105:54150] logged in with entity id 195662 at ([J]-194.30000001192093, 75.0, 259.30000001192093)
-[15:14:45] [Server thread/INFO]: emma_s lost connection: Disconnected
-[15:14:45] [Server thread/INFO]: emma_s left the game.
-[15:15:17] [User Authenticator #20/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
-[15:15:17] [Server thread/INFO]: gripette[/192.222.201.105:54177] logged in with entity id 196714 at ([J]-236.08539854703665, 71.0, 301.05063152957973)
-[15:15:41] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[15:15:41] [Server thread/INFO]: [NoSpawnChunks] Unloaded 89 chunks. Took 53 ms.
-[15:15:42] [Server thread/INFO]: [NoSpawnChunks] Freed 178 mb!
-[15:29:19] [Server thread/WARN]: devil_biker moved wrongly!
-[15:30:44] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[15:30:44] [Server thread/INFO]: [NoSpawnChunks] Unloaded 115 chunks. Took 23 ms.
-[15:30:44] [Server thread/INFO]: [NoSpawnChunks] Freed 42 mb!
-[15:34:44] [Server thread/INFO]: snickk lost connection: Disconnected
-[15:34:44] [Server thread/INFO]: snickk left the game.
-[15:40:54] [Server thread/WARN]: gripette moved wrongly!
-[15:45:50] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[15:45:50] [Server thread/INFO]: [NoSpawnChunks] Unloaded 82 chunks. Took 30 ms.
-[15:45:50] [Server thread/INFO]: [NoSpawnChunks] Freed 238 mb!
-[15:51:41] [User Authenticator #21/INFO]: UUID of player TiPoulet is 5bfeaf1f-c328-4c78-b30d-bda7fdafb049
-[15:51:41] [Server thread/INFO]: TiPoulet[/70.82.243.105:51460] logged in with entity id 223630 at ([J]-189.58133626687348, 75.0, 301.37712446910103)
-[15:52:36] [Server thread/INFO]: gripette lost connection: Disconnected
-[15:52:38] [Server thread/INFO]: gripette left the game.
-[15:52:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@5a1e7431[id=<null>,name=srevid,properties={},legacy=false] (/192.222.201.105:49988) lost connection: Disconnected
-[15:52:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@764a2b21[id=<null>,name=devil_biker,properties={},legacy=false] (/173.179.217.109:55458) lost connection: Disconnected
-[15:52:40] [Server thread/INFO]: devil_biker lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
-[15:52:41] [Server thread/INFO]: devil_biker left the game.
-[15:52:43] [User Authenticator #22/INFO]: UUID of player TiPoulet is 5bfeaf1f-c328-4c78-b30d-bda7fdafb049
-[15:52:44] [Server thread/INFO]: TiPoulet lost connection: You logged in from another location
-[15:52:44] [Server thread/INFO]: TiPoulet left the game.
-[15:52:52] [User Authenticator #24/INFO]: UUID of player devil_biker is 85c51cb3-e66f-4ef3-8e82-7da7a758ceb4
-[15:52:52] [Server thread/INFO]: TiPoulet[/70.82.243.105:51463] logged in with entity id 224293 at ([J]-189.58133626687348, 75.0, 301.37712446910103)
-[15:52:53] [Server thread/INFO]: devil_biker[/173.179.217.109:55461] logged in with entity id 224294 at ([J]-140.62595336915575, 11.0, 305.300000011921)
-[15:52:53] [Server thread/WARN]: handleDisconnection() called twice
-[15:52:53] [Server thread/INFO]: devil_biker lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
-[15:52:53] [Server thread/INFO]: devil_biker left the game.
-[15:52:54] [User Authenticator #25/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
-[15:52:54] [Server thread/INFO]: gripette[/192.222.201.105:54236] logged in with entity id 224303 at ([J]-242.29783013927891, 55.76636799395752, 187.15189937849942)
-[15:53:00] [Server thread/INFO]: srevid lost connection: Timed out
-[15:53:00] [Server thread/INFO]: srevid left the game.
-[15:53:00] [User Authenticator #26/INFO]: UUID of player Spy00 is 9d5dfa3b-f839-4761-8a34-80d123ac6e92
-[15:53:00] [Server thread/INFO]: Spy00[/70.82.243.105:38299] logged in with entity id 225137 at ([J]-194.93323205471376, 75.0, 299.8625976174552)
-[15:53:06] [User Authenticator #27/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
-[15:53:06] [Server thread/INFO]: srevid[/192.222.201.105:50005] logged in with entity id 225879 at ([J]-347.4840948982749, 16.0, 185.1074533678492)
-[15:53:12] [User Authenticator #28/INFO]: UUID of player devil_biker is 85c51cb3-e66f-4ef3-8e82-7da7a758ceb4
-[15:53:12] [Server thread/INFO]: devil_biker[/173.179.217.109:55499] logged in with entity id 225987 at ([J]-140.62595336915575, 11.0, 305.300000011921)
-[15:54:54] [Spigot Watchdog Thread/ERROR]: The server has stopped responding!
-[15:54:54] [Spigot Watchdog Thread/ERROR]: Please report this to http://www.spigotmc.org/
-[15:54:54] [Spigot Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
-[15:54:54] [Spigot Watchdog Thread/ERROR]: Spigot version: git-Spigot-fdc1440-53fac9f (MC: 1.8.8)
-[15:54:54] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:54:54] [Spigot Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Spigot!):
-[15:54:55] [Server thread/INFO]: TiPoulet lost connection: Disconnected
-[15:54:56] [Server thread/INFO]: TiPoulet left the game.
-[15:54:56] [Server thread/INFO]: gripette lost connection: Disconnected
-[15:54:56] [Server thread/INFO]: gripette left the game.
-[15:54:56] [Server thread/INFO]: Spy00 lost connection: Disconnected
-[15:54:56] [Server thread/INFO]: Spy00 left the game.
-[15:54:56] [Server thread/INFO]: srevid lost connection: Disconnected
-[15:54:56] [Server thread/INFO]: srevid left the game.
-[15:54:56] [Server thread/INFO]: devil_biker lost connection: Disconnected
-[15:54:56] [Server thread/INFO]: devil_biker left the game.
-[15:54:57] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:54:57] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 	PID: 17 | Suspended: false | Native: false | State: RUNNABLE
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.PathfinderGoalSelector.b(PathfinderGoalSelector.java:106)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.PathfinderGoalSelector.a(PathfinderGoalSelector.java:68)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.EntityInsentient.doTick(EntityInsentient.java:473)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.EntityLiving.m(EntityLiving.java:1625)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.EntityInsentient.m(EntityInsentient.java:338)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.EntityMonster.m(EntityMonster.java:20)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1486)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.EntityInsentient.t_(EntityInsentient.java:193)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.EntityMonster.t_(EntityMonster.java:24)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.EntitySpider.t_(EntitySpider.java:36)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1607)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.World.g(World.java:1582)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1425)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:597)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:785)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:653)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:556)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:745)
-[15:54:57] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:54:57] [Spigot Watchdog Thread/ERROR]: Entire Thread Dump:
-[15:54:59] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: process reaper
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 337 | Suspended: false | Native: false | State: TIMED_WAITING
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1066)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:745)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #3
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 29 | Suspended: false | Native: false | State: RUNNABLE
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:194)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:219)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:745)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Chunk I/O Executor Thread-1
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: false | State: WAITING
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1067)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:745)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #2
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 28 | Suspended: false | Native: false | State: RUNNABLE
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:194)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:219)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:745)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #1
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 27 | Suspended: false | Native: false | State: RUNNABLE
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:194)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:219)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:745)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: File IO Thread
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 31 | Suspended: false | Native: false | State: RUNNABLE
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.util.zip.Deflater.deflate(Deflater.java:442)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.zip.Deflater.deflateBytes(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.zip.Deflater.deflate(Deflater.java:442)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.zip.Deflater.deflate(Deflater.java:364)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.zip.DeflaterOutputStream.deflate(DeflaterOutputStream.java:251)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.zip.DeflaterOutputStream.write(DeflaterOutputStream.java:211)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.zip.DeflaterOutputStream.write(DeflaterOutputStream.java:188)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.io.DataOutputStream.writeInt(DataOutputStream.java:200)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.NBTTagIntArray.write(NBTTagIntArray.java:22)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.NBTTagCompound.a(SourceFile:391)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.NBTTagCompound.write(SourceFile:52)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.NBTTagCompound.a(SourceFile:391)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.NBTTagCompound.write(SourceFile:52)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:70)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:63)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.ChunkRegionLoader.b(ChunkRegionLoader.java:179)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.ChunkRegionLoader.c(ChunkRegionLoader.java:161)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.FileIOThread.c(SourceFile:37)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.FileIOThread.run(SourceFile:30)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:745)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #0
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:194)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:219)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:745)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Metrics Thread
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 24 | Suspended: false | Native: false | State: TIMED_WAITING
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Timer.java:552)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Timer.java:505)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Watchdog Thread
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 23 | Suspended: false | Native: false | State: RUNNABLE
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		sun.management.ThreadImpl.dumpThreads0(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:446)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		org.spigotmc.WatchdogThread.run(WatchdogThread.java:76)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Server console handler
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 20 | Suspended: false | Native: true | State: RUNNABLE
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.BufferedInputStream.read(BufferedInputStream.java:265)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.io.FileInputStream.readBytes(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.io.FileInputStream.read(FileInputStream.java:255)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read(BufferedInputStream.java:265)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.DedicatedServer$2.run(DedicatedServer.java:79)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-5
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 21 | Suspended: false | Native: false | State: RUNNABLE
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.PrintStream.flush(PrintStream.java:338)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.PrintStream.flush(PrintStream.java:338)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.cs.StreamEncoder.flush(StreamEncoder.java:141)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.io.FileOutputStream.writeBytes(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.io.FileOutputStream.write(FileOutputStream.java:326)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.io.PrintStream.flush(PrintStream.java:338)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.io.FilterOutputStream.flush(FilterOutputStream.java:140)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.io.PrintStream.flush(PrintStream.java:338)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		sun.nio.cs.StreamEncoder.implFlush(StreamEncoder.java:297)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		sun.nio.cs.StreamEncoder.flush(StreamEncoder.java:141)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.io.OutputStreamWriter.flush(OutputStreamWriter.java:229)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.flush(ConsoleReader.java:976)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_8_R3.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:42)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:745)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: DestroyJavaVM
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: false | State: RUNNABLE
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 17 | Suspended: false | Native: false | State: RUNNABLE
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		Locked on:net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.eventFdWrite(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.wakeup(EpollEventLoop.java:119)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor.execute(SingleThreadEventExecutor.java:735)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.safeExecute(AbstractChannelHandlerContext.java:884)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.flush(AbstractChannelHandlerContext.java:680)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.DefaultChannelPipeline.flush(DefaultChannelPipeline.java:838)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannel.flush(AbstractChannel.java:188)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:234)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:813)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:653)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:556)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:745)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Server Infinisleeper
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 18 | Suspended: false | Native: false | State: TIMED_WAITING
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_8_R3.DedicatedServer$1.run(DedicatedServer.java:54)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: NonBlockingInputStreamThread
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 15 | Suspended: false | Native: false | State: WAITING
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.run(NonBlockingInputStream.java:278)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:745)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Snooper Timer
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 13 | Suspended: false | Native: false | State: TIMED_WAITING
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Timer.java:552)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Timer.java:505)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Signal Dispatcher
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 5 | Suspended: false | Native: false | State: RUNNABLE
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Finalizer
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 3 | Suspended: false | Native: false | State: WAITING
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:209)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Reference Handler
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	PID: 2 | Suspended: false | Native: false | State: WAITING
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Object.java:502)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.Reference$ReferenceHandler.run(Reference.java:157)
-[15:55:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[15:55:00] [Spigot Watchdog Thread/INFO]: Startup script './start.sh' does not exist! Stopping server.
-[15:55:00] [User Authenticator #29/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
-[15:55:01] [Server thread/INFO]: gripette[/192.222.201.105:54242] logged in with entity id 226067 at ([J]-255.83533460534366, 47.0, 129.64559070371794)
-[15:55:01] [Thread-4/INFO]: Stopping server
+[16:29:03] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[16:29:03] [Server thread/INFO]: Loading properties
+[16:29:03] [Server thread/INFO]: Default game type: SURVIVAL
+[16:29:04] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-fdc1440-53fac9f (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[16:29:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:29:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:29:05] [Server thread/INFO]: Debug logging is disabled
+[16:29:06] [Server thread/INFO]: Generating keypair
+[16:29:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:29:08] [Server thread/INFO]: Using epoll channel type
+[16:29:10] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[16:29:10] [Server thread/INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0 (Build 142)
+[16:29:10] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[16:29:10] [Server thread/INFO]: Preparing level "J"
+[16:29:10] [Server thread/INFO]: -------- World Settings For [J] --------
+[16:29:10] [Server thread/INFO]: Mob Spawn Range: 4
+[16:29:10] [Server thread/INFO]: Anti X-Ray: false
+[16:29:10] [Server thread/INFO]: 	Engine Mode: 1
+[16:29:10] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[16:29:10] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[16:29:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:29:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:29:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:29:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:29:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:29:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:29:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:29:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:29:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:29:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:29:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:29:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:29:10] [Server thread/INFO]: Random Lighting Updates: false
+[16:29:10] [Server thread/INFO]: Structure Info Saving: true
+[16:29:10] [Server thread/INFO]: Sending up to 10 chunks per packet
+[16:29:10] [Server thread/INFO]: Max Entity Collisions: 8
+[16:29:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:29:10] [Server thread/INFO]: Max TNT Explosions: 100
+[16:29:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:29:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:29:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:29:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:29:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:29:10] [Server thread/INFO]: View Distance: 4
+[16:29:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:29:10] [Server thread/INFO]: Chunks to Grow per Tick: 450
+[16:29:10] [Server thread/INFO]: Clear tick list: false
+[16:29:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:29:11] [Server thread/INFO]: -------- World Settings For [J_nether] --------
+[16:29:11] [Server thread/INFO]: Mob Spawn Range: 4
+[16:29:11] [Server thread/INFO]: Anti X-Ray: false
+[16:29:11] [Server thread/INFO]: 	Engine Mode: 1
+[16:29:11] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[16:29:11] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[16:29:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:29:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:29:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:29:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:29:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:29:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:29:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:29:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:29:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:29:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:29:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:29:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:29:11] [Server thread/INFO]: Random Lighting Updates: false
+[16:29:11] [Server thread/INFO]: Structure Info Saving: true
+[16:29:11] [Server thread/INFO]: Sending up to 10 chunks per packet
+[16:29:11] [Server thread/INFO]: Max Entity Collisions: 8
+[16:29:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:29:11] [Server thread/INFO]: Max TNT Explosions: 100
+[16:29:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:29:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:29:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:29:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:29:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:29:11] [Server thread/INFO]: View Distance: 4
+[16:29:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:29:11] [Server thread/INFO]: Chunks to Grow per Tick: 450
+[16:29:11] [Server thread/INFO]: Clear tick list: false
+[16:29:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:29:11] [Server thread/INFO]: -------- World Settings For [J_the_end] --------
+[16:29:11] [Server thread/INFO]: Mob Spawn Range: 4
+[16:29:11] [Server thread/INFO]: Anti X-Ray: false
+[16:29:11] [Server thread/INFO]: 	Engine Mode: 1
+[16:29:11] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[16:29:11] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[16:29:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:29:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:29:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:29:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:29:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:29:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:29:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:29:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:29:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:29:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:29:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:29:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:29:11] [Server thread/INFO]: Random Lighting Updates: false
+[16:29:11] [Server thread/INFO]: Structure Info Saving: true
+[16:29:11] [Server thread/INFO]: Sending up to 10 chunks per packet
+[16:29:11] [Server thread/INFO]: Max Entity Collisions: 8
+[16:29:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:29:11] [Server thread/INFO]: Max TNT Explosions: 100
+[16:29:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:29:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:29:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:29:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:29:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:29:11] [Server thread/INFO]: View Distance: 4
+[16:29:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:29:11] [Server thread/INFO]: Chunks to Grow per Tick: 450
+[16:29:11] [Server thread/INFO]: Clear tick list: false
+[16:29:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:29:11] [Server thread/INFO]: Preparing start region for level 0 (Seed: 7936026946858735291)
+[16:29:12] [Server thread/INFO]: Preparing spawn area: 0%
+[16:29:13] [Server thread/INFO]: Preparing spawn area: 4%
+[16:29:14] [Server thread/INFO]: Preparing spawn area: 6%
+[16:29:15] [Server thread/INFO]: Preparing spawn area: 33%
+[16:29:16] [Server thread/INFO]: Preparing spawn area: 59%
+[16:29:17] [Server thread/INFO]: Preparing start region for level 1 (Seed: 7936026946858735291)
+[16:29:18] [Server thread/INFO]: Preparing spawn area: 5%
+[16:29:20] [Server thread/INFO]: Preparing spawn area: 60%
+[16:29:21] [Server thread/INFO]: Preparing spawn area: 84%
+[16:29:22] [Server thread/INFO]: Preparing spawn area: 94%
+[16:29:22] [Server thread/INFO]: Preparing start region for level 2 (Seed: 7936026946858735291)
+[16:29:23] [Server thread/INFO]: Preparing spawn area: 5%
+[16:29:24] [Server thread/INFO]: Preparing spawn area: 13%
+[16:29:25] [Server thread/INFO]: Preparing spawn area: 25%
+[16:29:26] [Server thread/INFO]: Preparing spawn area: 39%
+[16:29:28] [Server thread/INFO]: Preparing spawn area: 68%
+[16:29:28] [Server thread/INFO]: [NoSpawnChunks] Enabling NoSpawnChunks v2.0 (Build 142)
+[16:29:29] [Server thread/INFO]: [NoSpawnChunks] NoSpawnChunks v2.0 (Build 142) has been enabled. Took 242 ms.
+[16:29:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:29:29] [Server thread/INFO]: Done (18.807s)! For help, type "help" or "?"
+[16:29:32] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[16:29:37] [Server thread/INFO]: [NoSpawnChunks] Unloaded 1,522 chunks. Took 5,050 ms.
+[16:29:38] [Server thread/INFO]: [NoSpawnChunks] Freed 97 mb!
