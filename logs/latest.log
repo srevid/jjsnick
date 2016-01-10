@@ -308,3 +308,21 @@
 [11:55:08] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [11:55:09] [Server thread/INFO]: [NoSpawnChunks] Unloaded 92 chunks. Took 57 ms.
 [11:55:09] [Server thread/INFO]: [NoSpawnChunks] Freed 168 mb!
+[12:00:22] [User Authenticator #11/INFO]: UUID of player devil_biker is 85c51cb3-e66f-4ef3-8e82-7da7a758ceb4
+[12:00:22] [Server thread/INFO]: devil_biker[/173.179.217.109:54347] logged in with entity id 93792 at ([J]-197.27951365466356, 75.0, 261.88139685754015)
+[12:04:53] [Server thread/WARN]: emma_s moved wrongly!
+[12:07:39] [Server thread/INFO]: Spy00 issued server command: /enchant Spy00 34 3
+[12:07:39] [Server thread/INFO]: [Spy00: Enchanting succeeded]
+[12:08:52] [Server thread/INFO]: Spy00 issued server command: /enchant Spy00 32 3
+[12:08:52] [Server thread/INFO]: [Spy00: Enchanting succeeded]
+[12:10:34] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[12:10:34] [Server thread/INFO]: [NoSpawnChunks] Unloaded 67 chunks. Took 25 ms.
+[12:11:40] [Async Chat Thread - #8/INFO]: <emma_s> attend[m
+[12:11:50] [Async Chat Thread - #8/INFO]: <Spy00> c'est du diamand[m
+[12:11:53] [Async Chat Thread - #8/INFO]: <emma_s> on va le miner ave cun pick qui a l'enchantement fortune[m
+[12:12:08] [Async Chat Thread - #8/INFO]: <emma_s> je vais le chercher (ca en drop plus)[m
+[12:12:11] [Async Chat Thread - #8/INFO]: <Spy00> ok![m
+[12:24:46] [Server thread/INFO]: TiPoulet has just earned the achievement [Diamonds to you!]
+[12:25:51] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[12:25:51] [Server thread/INFO]: [NoSpawnChunks] Unloaded 51 chunks. Took 25 ms.
+[12:25:51] [Server thread/INFO]: [NoSpawnChunks] Freed 211 mb!
