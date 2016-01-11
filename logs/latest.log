@@ -49,3 +49,8 @@
 [02:17:55] [Server thread/INFO]: [NoSpawnChunks] Freed 74 mb!
 [02:25:29] [Server thread/INFO]: snickk lost connection: Disconnected
 [02:25:29] [Server thread/INFO]: snickk left the game.
+[02:32:57] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[02:32:58] [Server thread/INFO]: [NoSpawnChunks] Unloaded 90 chunks. Took 43 ms.
+[02:47:59] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[02:47:59] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[02:47:59] [Server thread/INFO]: [NoSpawnChunks] Freed 35 mb!
