@@ -320,3 +320,12 @@
 [20:55:13] [Server thread/WARN]: TiPoulet moved wrongly!
 [20:55:13] [Server thread/WARN]: TiPoulet moved wrongly!
 [20:55:13] [Server thread/WARN]: TiPoulet moved wrongly!
+[21:00:48] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[21:00:48] [Server thread/INFO]: [NoSpawnChunks] Unloaded 46 chunks. Took 27 ms.
+[21:00:49] [Server thread/INFO]: [NoSpawnChunks] Freed 67 mb!
+[21:15:53] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[21:15:53] [Server thread/INFO]: [NoSpawnChunks] Unloaded 28 chunks. Took 13 ms.
+[21:15:53] [Server thread/INFO]: [NoSpawnChunks] Freed 44 mb!
+[21:22:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@490d2a40[id=<null>,name=Spy00,properties={},legacy=false] (/70.82.243.105:38447) lost connection: Disconnected
+[21:23:04] [User Authenticator #13/INFO]: UUID of player Spy00 is 9d5dfa3b-f839-4761-8a34-80d123ac6e92
+[21:23:04] [Server thread/INFO]: Spy00[/70.82.243.105:38462] logged in with entity id 140548 at ([J]-194.38820957229208, 75.0, 300.27789969206)
