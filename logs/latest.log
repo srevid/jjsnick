@@ -41,3 +41,11 @@
 [01:57:01] [Server thread/INFO]: snickk left the game.
 [01:57:01] [Server thread/INFO]: snickk[/198.48.196.61:57824] logged in with entity id 229343 at ([J]-225.8185717419809, 78.0, 328.8604159773746)
 [01:57:01] [Server thread/WARN]: handleDisconnection() called twice
+[02:02:48] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[02:02:48] [Server thread/INFO]: [NoSpawnChunks] Unloaded 18 chunks. Took 8 ms.
+[02:02:48] [Server thread/INFO]: [NoSpawnChunks] Freed 15 mb!
+[02:17:54] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[02:17:54] [Server thread/INFO]: [NoSpawnChunks] Unloaded 9 chunks. Took 4 ms.
+[02:17:55] [Server thread/INFO]: [NoSpawnChunks] Freed 74 mb!
+[02:25:29] [Server thread/INFO]: snickk lost connection: Disconnected
+[02:25:29] [Server thread/INFO]: snickk left the game.
