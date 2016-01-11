@@ -337,3 +337,13 @@
 [21:46:29] [Server thread/INFO]: [NoSpawnChunks] Freed 129 mb!
 [21:52:54] [Server thread/INFO]: Spy00 issued server command: /enchant Spy00 35 3
 [21:52:55] [Server thread/INFO]: [Spy00: Enchanting succeeded]
+[22:01:33] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[22:01:33] [Server thread/INFO]: [NoSpawnChunks] Unloaded 76 chunks. Took 33 ms.
+[22:01:33] [Server thread/INFO]: [NoSpawnChunks] Freed 50 mb!
+[22:09:28] [Server thread/INFO]: Spy00 lost connection: Disconnected
+[22:09:28] [Server thread/INFO]: Spy00 left the game.
+[22:10:53] [Server thread/INFO]: TiPoulet lost connection: Disconnected
+[22:10:53] [Server thread/INFO]: TiPoulet left the game.
+[22:16:35] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[22:16:35] [Server thread/INFO]: [NoSpawnChunks] Unloaded 100 chunks. Took 36 ms.
+[22:16:35] [Server thread/INFO]: [NoSpawnChunks] Freed 104 mb!
