@@ -62,3 +62,16 @@
 [03:18:11] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [03:18:11] [Server thread/INFO]: [NoSpawnChunks] Unloaded 92 chunks. Took 41 ms.
 [03:18:11] [Server thread/INFO]: [NoSpawnChunks] Freed 118 mb!
+[03:33:17] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[03:33:17] [Server thread/INFO]: [NoSpawnChunks] Unloaded 97 chunks. Took 37 ms.
+[03:33:18] [Server thread/INFO]: [NoSpawnChunks] Freed 61 mb!
+[03:38:46] [User Authenticator #17/INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
+[03:38:46] [Server thread/INFO]: snickk lost connection: You logged in from another location
+[03:38:46] [Server thread/INFO]: snickk left the game.
+[03:38:46] [Server thread/INFO]: snickk[/198.48.196.61:64620] logged in with entity id 250432 at ([J]-221.23724046593063, 78.0, 307.2127065784689)
+[03:38:46] [Server thread/WARN]: handleDisconnection() called twice
+[03:39:15] [Server thread/INFO]: snickk lost connection: Disconnected
+[03:39:15] [Server thread/INFO]: snickk left the game.
+[03:48:21] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[03:48:21] [Server thread/INFO]: [NoSpawnChunks] Unloaded 138 chunks. Took 58 ms.
+[03:48:21] [Server thread/INFO]: [NoSpawnChunks] Freed 84 mb!
