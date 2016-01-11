@@ -307,3 +307,16 @@
 [20:15:27] [Server thread/INFO]: [NoSpawnChunks] Freed 137 mb!
 [20:19:41] [Server thread/INFO]: srevid lost connection: Disconnected
 [20:19:41] [Server thread/INFO]: srevid left the game.
+[20:30:38] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[20:30:38] [Server thread/INFO]: [NoSpawnChunks] Unloaded 89 chunks. Took 37 ms.
+[20:30:39] [Server thread/INFO]: [NoSpawnChunks] Freed 42 mb!
+[20:40:24] [Server thread/INFO]: gripette lost connection: Disconnected
+[20:40:24] [Server thread/INFO]: gripette left the game.
+[20:45:43] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[20:45:43] [Server thread/INFO]: [NoSpawnChunks] Unloaded 99 chunks. Took 41 ms.
+[20:45:43] [Server thread/INFO]: [NoSpawnChunks] Freed 59 mb!
+[20:47:23] [User Authenticator #12/INFO]: UUID of player TiPoulet is 5bfeaf1f-c328-4c78-b30d-bda7fdafb049
+[20:47:23] [Server thread/INFO]: TiPoulet[/70.82.243.105:51827] logged in with entity id 130223 at ([J]-189.58133626687348, 75.0, 301.37712446910103)
+[20:55:13] [Server thread/WARN]: TiPoulet moved wrongly!
+[20:55:13] [Server thread/WARN]: TiPoulet moved wrongly!
+[20:55:13] [Server thread/WARN]: TiPoulet moved wrongly!
