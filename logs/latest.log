@@ -258,3 +258,26 @@
 [17:45:10] [Server thread/INFO]: devil_biker[/173.179.217.109:55620] logged in with entity id 29757 at ([J]-141.2480097131328, 11.0, 305.30000001192093)
 [17:59:57] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [17:59:58] [Server thread/INFO]: [NoSpawnChunks] Unloaded 193 chunks. Took 88 ms.
+[18:03:13] [User Authenticator #7/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
+[18:03:13] [Server thread/INFO]: gripette[/192.222.201.105:54858] logged in with entity id 38381 at ([J]-255.83533460534363, 47.0, 129.64559070371794)
+[18:15:02] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[18:15:02] [Server thread/INFO]: [NoSpawnChunks] Unloaded 91 chunks. Took 34 ms.
+[18:15:02] [Server thread/INFO]: [NoSpawnChunks] Freed 5 mb!
+[18:26:11] [Server thread/INFO]: srevid lost connection: Disconnected
+[18:26:11] [Server thread/INFO]: srevid left the game.
+[18:29:27] [Server thread/INFO]: gripette lost connection: Disconnected
+[18:29:27] [Server thread/INFO]: gripette left the game.
+[18:30:04] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[18:30:05] [Server thread/INFO]: [NoSpawnChunks] Unloaded 125 chunks. Took 565 ms.
+[18:30:06] [Server thread/INFO]: [NoSpawnChunks] Freed 226 mb!
+[18:39:13] [Server thread/INFO]: devil_biker lost connection: Disconnected
+[18:39:13] [Server thread/INFO]: devil_biker left the game.
+[18:44:05] [User Authenticator #8/INFO]: UUID of player devil_biker is 85c51cb3-e66f-4ef3-8e82-7da7a758ceb4
+[18:44:05] [Server thread/INFO]: devil_biker[/173.179.217.109:55803] logged in with entity id 63862 at ([J]-195.3910630491381, 75.0, 259.60451191205925)
+[18:45:06] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[18:45:06] [Server thread/INFO]: [NoSpawnChunks] Unloaded 18 chunks. Took 9 ms.
+[18:45:06] [Server thread/INFO]: [NoSpawnChunks] Freed 82 mb!
+[18:57:14] [User Authenticator #9/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[18:57:14] [Server thread/INFO]: srevid[/192.222.201.105:51178] logged in with entity id 68138 at ([J]-340.1500588085794, 47.0, 129.32825766911708)
+[18:57:38] [User Authenticator #10/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
+[18:57:38] [Server thread/INFO]: gripette[/192.222.201.105:54958] logged in with entity id 68309 at ([J]-340.25741408576255, 47.0, 130.7582240757252)
