@@ -231,3 +231,16 @@
 [17:51:27] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [17:51:27] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
 [17:51:28] [Server thread/INFO]: [NoSpawnChunks] Freed 11 mb!
+[18:06:32] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[18:06:32] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[18:06:32] [Server thread/INFO]: [NoSpawnChunks] Freed 9 mb!
+[18:21:35] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[18:21:35] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[18:21:36] [Server thread/INFO]: [NoSpawnChunks] Freed 11 mb!
+[18:28:29] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6c2e4c2b[id=<null>,name=devil_biker,properties={},legacy=false] (/173.179.217.109:49383): Took too long to log in
+[18:28:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@6c2e4c2b[id=<null>,name=devil_biker,properties={},legacy=false] (/173.179.217.109:49383) lost connection: Took too long to log in
+[18:28:35] [User Authenticator #1/INFO]: Disconnecting /173.179.217.109:49383: Failed to verify username!
+[18:28:35] [User Authenticator #1/ERROR]: Username 'devil_biker' tried to join with an invalid session
+[18:28:35] [User Authenticator #2/INFO]: UUID of player devil_biker is 85c51cb3-e66f-4ef3-8e82-7da7a758ceb4
+[18:28:36] [Server thread/INFO]: devil_biker[/173.179.217.109:49615] logged in with entity id 829 at ([J]-200.1287029879575, 71.5, 260.8990449764821)
+[18:29:36] [Server thread/WARN]: devil_biker moved wrongly!
