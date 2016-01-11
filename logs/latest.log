@@ -281,3 +281,10 @@
 [18:57:14] [Server thread/INFO]: srevid[/192.222.201.105:51178] logged in with entity id 68138 at ([J]-340.1500588085794, 47.0, 129.32825766911708)
 [18:57:38] [User Authenticator #10/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
 [18:57:38] [Server thread/INFO]: gripette[/192.222.201.105:54958] logged in with entity id 68309 at ([J]-340.25741408576255, 47.0, 130.7582240757252)
+[19:00:08] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[19:00:08] [Server thread/INFO]: [NoSpawnChunks] Unloaded 21 chunks. Took 11 ms.
+[19:00:08] [Server thread/INFO]: [NoSpawnChunks] Freed 121 mb!
+[19:15:09] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[19:15:09] [Server thread/INFO]: [NoSpawnChunks] Unloaded 55 chunks. Took 30 ms.
+[19:15:10] [Server thread/INFO]: [NoSpawnChunks] Freed 53 mb!
+[19:16:50] [Server thread/INFO]: srevid has just earned the achievement [Diamonds to you!]
