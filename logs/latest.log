@@ -1,83 +1,149 @@
-[00:01:46] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[00:01:46] [Server thread/INFO]: [NoSpawnChunks] Unloaded 180 chunks. Took 92 ms.
-[00:09:39] [Server thread/INFO]: snickk has just earned the achievement [Repopulation]
-[00:16:49] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[00:16:49] [Server thread/INFO]: [NoSpawnChunks] Unloaded 99 chunks. Took 40 ms.
-[00:16:50] [Server thread/INFO]: [NoSpawnChunks] Freed 85 mb!
-[00:31:52] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[00:31:52] [Server thread/INFO]: [NoSpawnChunks] Unloaded 58 chunks. Took 24 ms.
-[00:31:52] [Server thread/INFO]: [NoSpawnChunks] Freed 37 mb!
-[00:43:30] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world J...
-[00:43:30] [Server thread/INFO]: [NoSpawnChunks] Unloaded 81 chunks. Took 37 ms.
-[00:46:56] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[00:46:56] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[00:46:57] [Server thread/INFO]: [NoSpawnChunks] Freed 66 mb!
-[00:58:48] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world J_nether...
-[00:58:48] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[00:58:49] [Server thread/INFO]: snickk was slain by Zombie Pigman
-[00:59:42] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world J...
-[00:59:42] [Server thread/INFO]: [NoSpawnChunks] Unloaded 223 chunks. Took 125 ms.
-[01:00:21] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world J_nether...
-[01:00:21] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
-[01:02:05] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[01:02:05] [Server thread/INFO]: [NoSpawnChunks] Unloaded 111 chunks. Took 49 ms.
-[01:02:05] [Server thread/INFO]: [NoSpawnChunks] Freed 239 mb!
-[01:05:19] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world J...
-[01:05:19] [Server thread/INFO]: [NoSpawnChunks] Unloaded 99 chunks. Took 47 ms.
-[01:05:46] [Server thread/WARN]: snickk moved wrongly!
-[01:17:07] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[01:17:07] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[01:17:08] [Server thread/INFO]: [NoSpawnChunks] Freed 132 mb!
-[01:17:58] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world J_nether...
-[01:17:58] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[01:32:10] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[01:32:11] [Server thread/INFO]: [NoSpawnChunks] Unloaded 153 chunks. Took 51 ms.
-[01:32:11] [Server thread/INFO]: [NoSpawnChunks] Freed 78 mb!
-[01:47:32] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[01:47:32] [Server thread/INFO]: [NoSpawnChunks] Unloaded 68 chunks. Took 56 ms.
-[01:47:32] [Server thread/INFO]: [NoSpawnChunks] Freed 104 mb!
-[01:57:01] [User Authenticator #15/INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
-[01:57:01] [Server thread/INFO]: snickk lost connection: You logged in from another location
-[01:57:01] [Server thread/INFO]: snickk left the game.
-[01:57:01] [Server thread/INFO]: snickk[/198.48.196.61:57824] logged in with entity id 229343 at ([J]-225.8185717419809, 78.0, 328.8604159773746)
-[01:57:01] [Server thread/WARN]: handleDisconnection() called twice
-[02:02:48] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[02:02:48] [Server thread/INFO]: [NoSpawnChunks] Unloaded 18 chunks. Took 8 ms.
-[02:02:48] [Server thread/INFO]: [NoSpawnChunks] Freed 15 mb!
-[02:17:54] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[02:17:54] [Server thread/INFO]: [NoSpawnChunks] Unloaded 9 chunks. Took 4 ms.
-[02:17:55] [Server thread/INFO]: [NoSpawnChunks] Freed 74 mb!
-[02:25:29] [Server thread/INFO]: snickk lost connection: Disconnected
-[02:25:29] [Server thread/INFO]: snickk left the game.
-[02:32:57] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[02:32:58] [Server thread/INFO]: [NoSpawnChunks] Unloaded 90 chunks. Took 43 ms.
-[02:47:59] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[02:47:59] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
-[02:47:59] [Server thread/INFO]: [NoSpawnChunks] Freed 35 mb!
-[03:03:01] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[03:03:01] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[03:03:02] [Server thread/INFO]: [NoSpawnChunks] Freed 15 mb!
-[03:07:05] [User Authenticator #16/INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
-[03:07:05] [Server thread/INFO]: snickk[/198.48.196.61:64601] logged in with entity id 235394 at ([J]-222.40775370769487, 78.0, 307.1473092952508)
-[03:18:11] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[03:18:11] [Server thread/INFO]: [NoSpawnChunks] Unloaded 92 chunks. Took 41 ms.
-[03:18:11] [Server thread/INFO]: [NoSpawnChunks] Freed 118 mb!
-[03:33:17] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[03:33:17] [Server thread/INFO]: [NoSpawnChunks] Unloaded 97 chunks. Took 37 ms.
-[03:33:18] [Server thread/INFO]: [NoSpawnChunks] Freed 61 mb!
-[03:38:46] [User Authenticator #17/INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
-[03:38:46] [Server thread/INFO]: snickk lost connection: You logged in from another location
-[03:38:46] [Server thread/INFO]: snickk left the game.
-[03:38:46] [Server thread/INFO]: snickk[/198.48.196.61:64620] logged in with entity id 250432 at ([J]-221.23724046593063, 78.0, 307.2127065784689)
-[03:38:46] [Server thread/WARN]: handleDisconnection() called twice
-[03:39:15] [Server thread/INFO]: snickk lost connection: Disconnected
-[03:39:15] [Server thread/INFO]: snickk left the game.
-[03:48:21] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[03:48:21] [Server thread/INFO]: [NoSpawnChunks] Unloaded 138 chunks. Took 58 ms.
-[03:48:21] [Server thread/INFO]: [NoSpawnChunks] Freed 84 mb!
-[04:03:23] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[04:03:23] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[04:03:24] [Server thread/INFO]: [NoSpawnChunks] Freed 31 mb!
-[04:18:26] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[04:18:26] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[04:18:27] [Server thread/INFO]: [NoSpawnChunks] Freed 14 mb!
+[10:31:56] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[10:31:56] [Server thread/INFO]: Loading properties
+[10:31:56] [Server thread/INFO]: Default game type: SURVIVAL
+[10:31:57] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-fdc1440-53fac9f (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[10:31:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:31:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:31:58] [Server thread/INFO]: Debug logging is disabled
+[10:31:58] [Server thread/INFO]: Generating keypair
+[10:32:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:32:02] [Server thread/INFO]: Using epoll channel type
+[10:32:03] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[10:32:04] [Server thread/INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0 (Build 142)
+[10:32:04] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[10:32:04] [Server thread/INFO]: Preparing level "J"
+[10:32:04] [Server thread/INFO]: -------- World Settings For [J] --------
+[10:32:04] [Server thread/INFO]: Random Lighting Updates: false
+[10:32:04] [Server thread/INFO]: Structure Info Saving: true
+[10:32:04] [Server thread/INFO]: Mob Spawn Range: 4
+[10:32:04] [Server thread/INFO]: Anti X-Ray: false
+[10:32:04] [Server thread/INFO]: 	Engine Mode: 1
+[10:32:04] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[10:32:04] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[10:32:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:32:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:32:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:32:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:32:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:32:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:32:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:32:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:32:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:32:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[10:32:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:32:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[10:32:04] [Server thread/INFO]: Sending up to 10 chunks per packet
+[10:32:04] [Server thread/INFO]: Max Entity Collisions: 8
+[10:32:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[10:32:04] [Server thread/INFO]: Max TNT Explosions: 100
+[10:32:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:32:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:32:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:32:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[10:32:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:32:04] [Server thread/INFO]: View Distance: 4
+[10:32:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:32:04] [Server thread/INFO]: Chunks to Grow per Tick: 450
+[10:32:04] [Server thread/INFO]: Clear tick list: false
+[10:32:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:32:06] [Server thread/INFO]: -------- World Settings For [J_nether] --------
+[10:32:06] [Server thread/INFO]: Random Lighting Updates: false
+[10:32:06] [Server thread/INFO]: Structure Info Saving: true
+[10:32:06] [Server thread/INFO]: Mob Spawn Range: 4
+[10:32:06] [Server thread/INFO]: Anti X-Ray: false
+[10:32:06] [Server thread/INFO]: 	Engine Mode: 1
+[10:32:06] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[10:32:06] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[10:32:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:32:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:32:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:32:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:32:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:32:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:32:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:32:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:32:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:32:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[10:32:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:32:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[10:32:06] [Server thread/INFO]: Sending up to 10 chunks per packet
+[10:32:06] [Server thread/INFO]: Max Entity Collisions: 8
+[10:32:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[10:32:06] [Server thread/INFO]: Max TNT Explosions: 100
+[10:32:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:32:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:32:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:32:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[10:32:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:32:06] [Server thread/INFO]: View Distance: 4
+[10:32:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:32:06] [Server thread/INFO]: Chunks to Grow per Tick: 450
+[10:32:06] [Server thread/INFO]: Clear tick list: false
+[10:32:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:32:06] [Server thread/INFO]: -------- World Settings For [J_the_end] --------
+[10:32:06] [Server thread/INFO]: Random Lighting Updates: false
+[10:32:06] [Server thread/INFO]: Structure Info Saving: true
+[10:32:06] [Server thread/INFO]: Mob Spawn Range: 4
+[10:32:06] [Server thread/INFO]: Anti X-Ray: false
+[10:32:06] [Server thread/INFO]: 	Engine Mode: 1
+[10:32:06] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[10:32:06] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[10:32:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:32:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:32:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:32:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:32:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:32:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:32:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:32:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:32:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:32:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[10:32:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:32:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[10:32:06] [Server thread/INFO]: Sending up to 10 chunks per packet
+[10:32:06] [Server thread/INFO]: Max Entity Collisions: 8
+[10:32:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[10:32:06] [Server thread/INFO]: Max TNT Explosions: 100
+[10:32:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:32:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:32:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:32:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[10:32:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:32:06] [Server thread/INFO]: View Distance: 4
+[10:32:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:32:06] [Server thread/INFO]: Chunks to Grow per Tick: 450
+[10:32:06] [Server thread/INFO]: Clear tick list: false
+[10:32:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:32:06] [Server thread/INFO]: Preparing start region for level 0 (Seed: 7936026946858735291)
+[10:32:07] [Server thread/INFO]: Preparing spawn area: 0%
+[10:32:13] [Server thread/INFO]: Preparing spawn area: 0%
+[10:32:15] [Server thread/INFO]: Preparing spawn area: 2%
+[10:32:16] [Server thread/INFO]: Preparing spawn area: 9%
+[10:32:17] [Server thread/INFO]: Preparing spawn area: 13%
+[10:32:18] [Server thread/INFO]: Preparing spawn area: 18%
+[10:32:19] [Server thread/INFO]: Preparing spawn area: 18%
+[10:32:20] [Server thread/INFO]: Preparing spawn area: 20%
+[10:32:26] [Server thread/INFO]: Preparing spawn area: 21%
+[10:32:27] [Server thread/INFO]: Preparing spawn area: 27%
+[10:32:28] [Server thread/INFO]: Preparing spawn area: 46%
+[10:32:29] [Server thread/INFO]: Preparing spawn area: 65%
+[10:32:30] [Server thread/INFO]: Preparing spawn area: 78%
+[10:32:49] [Server thread/INFO]: Preparing spawn area: 90%
+[10:32:49] [Server thread/INFO]: Preparing start region for level 1 (Seed: 7936026946858735291)
+[10:32:52] [Server thread/INFO]: Preparing spawn area: 33%
+[10:32:53] [Server thread/INFO]: Preparing spawn area: 64%
+[10:33:08] [Server thread/INFO]: Preparing spawn area: 73%
+[10:33:11] [Server thread/INFO]: Preparing spawn area: 92%
+[10:33:11] [Server thread/INFO]: Preparing start region for level 2 (Seed: 7936026946858735291)
+[10:33:12] [Server thread/INFO]: Preparing spawn area: 32%
+[10:33:13] [Server thread/INFO]: Preparing spawn area: 63%
+[10:33:13] [Server thread/INFO]: [NoSpawnChunks] Enabling NoSpawnChunks v2.0 (Build 142)
+[10:33:13] [Server thread/INFO]: [NoSpawnChunks] NoSpawnChunks v2.0 (Build 142) has been enabled. Took 17 ms.
+[10:33:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:33:13] [Server thread/INFO]: Done (69.446s)! For help, type "help" or "?"
+[10:33:16] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[10:33:51] [Server thread/INFO]: [NoSpawnChunks] Unloaded 1,875 chunks. Took 34,199 ms.
+[10:33:51] [Server thread/INFO]: [NoSpawnChunks] Freed 90 mb!
+[10:49:00] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[10:49:00] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[10:49:01] [Server thread/INFO]: [NoSpawnChunks] Freed 184 mb!

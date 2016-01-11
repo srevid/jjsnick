@@ -20,12 +20,12 @@ messages:
   restart: Server is restarting
 settings:
   save-user-cache-on-stop-only: false
+  sample-count: 12
   player-shuffle: 0
   filter-creative-items: true
-  user-cache-size: 1000
   bungeecord: false
   late-bind: false
-  sample-count: 12
+  user-cache-size: 1000
   int-cache-limit: 1024
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-threshold: 100.0
@@ -46,18 +46,20 @@ commands:
   spam-exclusions:
   - /skill
   silent-commandblock-console: false
+  log: true
   replace-commands:
   - setblock
   - summon
   - testforblock
   - tellraw
-  log: true
 stats:
   disable-saving: false
   forced-stats: {}
 world-settings:
   default:
     verbose: true
+    random-light-updates: false
+    save-structure-info: true
     mob-spawn-range: 4
     anti-xray:
       enabled: false
@@ -103,8 +105,6 @@ world-settings:
       hopper-transfer: 8
       hopper-check: 8
     hopper-amount: 1
-    random-light-updates: false
-    save-structure-info: true
     max-bulk-chunks: 10
     max-entity-collisions: 8
     dragon-death-sound-radius: 0
