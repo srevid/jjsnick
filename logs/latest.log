@@ -298,3 +298,12 @@
 [19:45:20] [Server thread/INFO]: [NoSpawnChunks] Freed 148 mb!
 [19:57:09] [Server thread/INFO]: gripette lost connection: Disconnected
 [19:57:09] [Server thread/INFO]: gripette left the game.
+[20:00:23] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[20:00:23] [Server thread/INFO]: [NoSpawnChunks] Unloaded 164 chunks. Took 68 ms.
+[20:04:56] [User Authenticator #11/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
+[20:04:56] [Server thread/INFO]: gripette[/192.222.201.105:55064] logged in with entity id 120113 at ([J]-267.4651879189814, 65.0, 287.7784680342742)
+[20:15:26] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[20:15:26] [Server thread/INFO]: [NoSpawnChunks] Unloaded 90 chunks. Took 49 ms.
+[20:15:27] [Server thread/INFO]: [NoSpawnChunks] Freed 137 mb!
+[20:19:41] [Server thread/INFO]: srevid lost connection: Disconnected
+[20:19:41] [Server thread/INFO]: srevid left the game.
