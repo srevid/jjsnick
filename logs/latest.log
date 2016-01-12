@@ -141,3 +141,34 @@
 [19:55:51] [Server thread/INFO]: snickk[/198.48.196.61:21276] logged in with entity id 826 at ([J]-221.80153006392837, 78.0, 305.7250277562117)
 [19:59:40] [User Authenticator #2/INFO]: UUID of player devil_biker is 85c51cb3-e66f-4ef3-8e82-7da7a758ceb4
 [19:59:40] [Server thread/INFO]: devil_biker[/173.179.217.109:51510] logged in with entity id 3679 at ([J]-201.4271845158091, 28.0, 270.52749826602826)
+[20:02:04] [User Authenticator #3/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
+[20:02:04] [Server thread/INFO]: gripette[/192.222.201.105:57809] logged in with entity id 5568 at ([J]-184.8043062095918, 72.0, 272.86542138295044)
+[20:02:14] [Async Chat Thread - #0/INFO]: <snickk> saluut[m
+[20:02:17] [Async Chat Thread - #0/INFO]: <gripette> salut![m
+[20:02:41] [Async Chat Thread - #0/INFO]: <snickk> le serveur plante encore:([m
+[20:02:58] [Async Chat Thread - #0/INFO]: <snickk> hesite pas a txter si il marche pas hehe[m
+[20:03:03] [Async Chat Thread - #0/INFO]: <gripette> ko![m
+[20:03:12] [Async Chat Thread - #0/INFO]: <gripette> est-ce que oli t'as demandé pour ton ami qui veut joiner?[m
+[20:03:24] [Async Chat Thread - #0/INFO]: <snickk> nope[m
+[20:03:32] [Async Chat Thread - #0/INFO]: <gripette> ben c'est ca il veut inviter son amie hehe[m
+[20:03:35] [Async Chat Thread - #0/INFO]: <snickk> mais on est ouvert :P[m
+[20:03:55] [Async Chat Thread - #0/INFO]: <snickk> tlm est le bienvenu![m
+[20:04:02] [Async Chat Thread - #0/INFO]: <snickk> moi jme casse je vais jouer magic :[m
+[20:04:08] [Async Chat Thread - #0/INFO]: <gripette> a+[m
+[20:04:10] [Async Chat Thread - #0/INFO]: <snickk> chow[m
+[20:04:12] [Server thread/INFO]: snickk lost connection: Disconnected
+[20:04:12] [Server thread/INFO]: snickk left the game.
+[20:04:18] [Async Chat Thread - #0/INFO]: <gripette> donc oli, passe l'url a ton ami :)[m
+[20:04:38] [Async Chat Thread - #0/INFO]: <devil_biker> ok merci beaucoup[m
+[20:04:43] [Async Chat Thread - #0/INFO]: <gripette> np[m
+[20:04:56] [Server thread/INFO]: gripette lost connection: Disconnected
+[20:04:56] [Server thread/INFO]: gripette left the game.
+[20:09:23] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[20:09:23] [Server thread/INFO]: [NoSpawnChunks] Unloaded 141 chunks. Took 70 ms.
+[20:24:29] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[20:24:29] [Server thread/INFO]: [NoSpawnChunks] Unloaded 58 chunks. Took 24 ms.
+[20:24:29] [Server thread/INFO]: [NoSpawnChunks] Freed 305 mb!
+[20:25:12] [Server thread/WARN]: devil_biker moved wrongly!
+[20:25:50] [Server thread/WARN]: devil_biker moved wrongly!
+[20:26:03] [Server thread/WARN]: devil_biker moved wrongly!
+[20:26:08] [Server thread/WARN]: devil_biker moved wrongly!
