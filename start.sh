@@ -1,5 +1,4 @@
 #!/bin/bash
-cd minecraft
 java \
   -d64 \
   -server \
@@ -10,4 +9,3 @@ java \
   -XX:ParallelGCThreads=2 \
   -XX:+AggressiveOpts \
   -jar spigot-1.8.8.jar nogui
-
