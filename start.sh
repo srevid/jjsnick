@@ -2,7 +2,7 @@
 java \
   -d64 \
   -server \
-  -Xms1G -Xmx1G \
+  -Xms128M -Xmx1G \
   -XX:+UseConcMarkSweepGC \
   -XX:+UseParNewGC \
   -XX:+CMSIncrementalPacing \
