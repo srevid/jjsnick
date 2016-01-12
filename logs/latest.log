@@ -245,3 +245,9 @@
 [21:29:28] [Server thread/INFO]: 9605214[/184.145.201.228:49470] logged in with entity id 45794 at ([J]-182.699999988079, 68.0, 257.19418805780214)
 [21:29:32] [Server thread/INFO]: 9605214 lost connection: Disconnected
 [21:29:32] [Server thread/INFO]: 9605214 left the game.
+[21:40:07] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[21:40:07] [Server thread/INFO]: [NoSpawnChunks] Unloaded 158 chunks. Took 88 ms.
+[21:40:07] [Server thread/INFO]: [NoSpawnChunks] Freed 51 mb!
+[21:55:12] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[21:55:12] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[21:55:12] [Server thread/INFO]: [NoSpawnChunks] Freed 33 mb!
