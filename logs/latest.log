@@ -244,3 +244,10 @@
 [18:28:35] [User Authenticator #2/INFO]: UUID of player devil_biker is 85c51cb3-e66f-4ef3-8e82-7da7a758ceb4
 [18:28:36] [Server thread/INFO]: devil_biker[/173.179.217.109:49615] logged in with entity id 829 at ([J]-200.1287029879575, 71.5, 260.8990449764821)
 [18:29:36] [Server thread/WARN]: devil_biker moved wrongly!
+[18:37:50] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[18:37:50] [Server thread/INFO]: [NoSpawnChunks] Unloaded 18 chunks. Took 51 ms.
+[18:37:51] [Server thread/INFO]: [NoSpawnChunks] Freed 80 mb!
+[18:45:15] [Server thread/WARN]: devil_biker moved wrongly!
+[18:53:00] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[18:53:00] [Server thread/INFO]: [NoSpawnChunks] Unloaded 58 chunks. Took 41 ms.
+[18:53:02] [Server thread/INFO]: [NoSpawnChunks] Freed 29 mb!
