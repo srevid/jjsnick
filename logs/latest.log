@@ -255,3 +255,17 @@
 [08:52:17] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [08:52:17] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
 [08:52:18] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
+[09:07:27] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[09:07:27] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[09:07:27] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
+[09:22:41] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[09:22:41] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[09:22:42] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
+[09:38:01] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[09:38:01] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[09:38:01] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
+[09:52:05] [User Authenticator #12/INFO]: UUID of player TiPoulet is 5bfeaf1f-c328-4c78-b30d-bda7fdafb049
+[09:52:06] [Server thread/INFO]: TiPoulet[/70.82.243.105:54308] logged in with entity id 310586 at ([J]-192.8073030727349, 75.0, 297.1012330618209)
+[09:53:35] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[09:53:35] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[09:53:38] [Server thread/INFO]: [NoSpawnChunks] Freed 51 mb!
