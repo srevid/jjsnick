@@ -1351,3 +1351,21 @@ Loading libraries, please wait...
 [09:53:35 INFO]: [NoSpawnChunks] Unloading chunks...
 [09:53:35 INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
 [09:53:38 INFO]: [NoSpawnChunks] Freed 51 mb!
+[10:01:57 INFO]: TiPoulet lost connection: Timed out
+[10:01:57 INFO]: TiPoulet left the game.
+[10:01:59 INFO]: UUID of player TiPoulet is 5bfeaf1f-c328-4c78-b30d-bda7fdafb049
+[10:01:59 INFO]: TiPoulet[/70.82.243.105:54329] logged in with entity id 314964 at ([J]-165.38765429581477, 69.0, 300.73718826566926)
+[10:10:05 INFO]: [NoSpawnChunks] Unloading chunks...
+[10:10:05 INFO]: [NoSpawnChunks] Unloaded 58 chunks. Took 12 ms.
+[10:10:06 INFO]: [NoSpawnChunks] Freed 143 mb!
+[10:25:11 INFO]: [NoSpawnChunks] Unloading chunks...
+[10:25:11 INFO]: [NoSpawnChunks] Unloaded 59 chunks. Took 26 ms.
+[10:25:12 INFO]: [NoSpawnChunks] Freed 105 mb!
+[10:40:18 INFO]: [NoSpawnChunks] Unloading chunks...
+[10:40:18 INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[10:40:18 INFO]: [NoSpawnChunks] Freed 58 mb!
+[10:46:06 INFO]: TiPoulet lost connection: Disconnected
+[10:46:06 INFO]: TiPoulet left the game.
+[10:55:25 INFO]: [NoSpawnChunks] Unloading chunks...
+[10:55:26 INFO]: [NoSpawnChunks] Unloaded 100 chunks. Took 402 ms.
+[10:55:26 INFO]: [NoSpawnChunks] Freed 45 mb!
