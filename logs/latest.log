@@ -170,3 +170,16 @@
 [01:52:59] [Server thread/INFO]: snickk fell from a high place
 [01:59:06] [Server thread/INFO]: snickk fell from a high place
 [01:59:29] [Server thread/INFO]: snickk fell from a high place
+[02:02:46] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[02:02:46] [Server thread/INFO]: [NoSpawnChunks] Unloaded 18 chunks. Took 10 ms.
+[02:17:50] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[02:17:50] [Server thread/INFO]: [NoSpawnChunks] Unloaded 49 chunks. Took 20 ms.
+[02:17:51] [Server thread/INFO]: [NoSpawnChunks] Freed 117 mb!
+[02:32:54] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[02:32:54] [Server thread/INFO]: [NoSpawnChunks] Unloaded 55 chunks. Took 20 ms.
+[02:32:55] [Server thread/INFO]: [NoSpawnChunks] Freed 105 mb!
+[02:44:08] [Server thread/INFO]: snickk lost connection: Disconnected
+[02:44:08] [Server thread/INFO]: snickk left the game.
+[02:48:00] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[02:48:00] [Server thread/INFO]: [NoSpawnChunks] Unloaded 151 chunks. Took 86 ms.
+[02:48:00] [Server thread/INFO]: [NoSpawnChunks] Freed 72 mb!
