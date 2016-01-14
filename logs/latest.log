@@ -469,3 +469,83 @@
 [19:59:04] [Server thread/INFO]: gripette[/192.222.166.50:49506] logged in with entity id 512878 at ([J]-261.6178678386882, 69.0625, 288.37764209978263)
 [19:59:06] [Async Chat Thread - #83/INFO]: <9605214> allo
 [19:59:12] [Async Chat Thread - #83/INFO]: <srevid> allo allo !
+[20:00:15] [Async Chat Thread - #84/INFO]: <9605214> ca marche pas..... caca....
+[20:01:28] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[20:01:28] [Server thread/INFO]: [NoSpawnChunks] Unloaded 92 chunks. Took 94 ms.
+[20:01:29] [Server thread/INFO]: [NoSpawnChunks] Freed 100 mb!
+[20:02:07] [Async Chat Thread - #85/INFO]: <9605214> je pense qu'on va devoir trouver un autre concept
+[20:02:27] [Async Chat Thread - #85/INFO]: <9605214> trop long le courant passera pas
+[20:02:57] [Async Chat Thread - #85/INFO]: <9605214> faut tu mette des bloc inverter....
+[20:03:22] [Async Chat Thread - #85/INFO]: <gripette> ca prend des repeater pour prolonger le signale pour le redstone
+[20:03:28] [Async Chat Thread - #85/INFO]: <gripette> je sais pas si c'Est de ca que tu parles
+[20:03:35] [Async Chat Thread - #85/INFO]: <9605214> oui oui des bloc avec torche
+[20:03:49] [Async Chat Thread - #85/INFO]: <srevid> juste une torche cest correct
+[20:03:52] [Async Chat Thread - #85/INFO]: <gripette> une torche redstone ca active un circuit
+[20:04:01] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world J_nether...
+[20:04:01] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[20:04:13] [Async Chat Thread - #85/INFO]: <gripette> mais au bout de 15 blocs de redstone, le signal s'arrete, si tu veux prolonger, tu mets un repeater
+[20:04:36] [Async Chat Thread - #85/INFO]: <9605214> un bloc avec une torche desus ca inverse ton circuit... et le rallonge tu en met 2 et ca inverse op
+[20:04:46] [Async Chat Thread - #85/INFO]: <9605214> pour revenir a la normal
+[20:05:00] [Async Chat Thread - #85/INFO]: <gripette> je ne pourrais pas te dire pour l'inverser
+[20:05:24] [Async Chat Thread - #85/INFO]: <gripette> je sais quil y a une facon, mais il me semble que la torche doit pas etre dessus
+[20:07:11] [Async Chat Thread - #86/INFO]: <srevid> je viens de faire le test et pour rallonger ton circuit faut juste mettre une torche
+[20:07:18] [Async Chat Thread - #86/INFO]: <srevid> le bloc avec la toche sert d inverser
+[20:07:50] [Async Chat Thread - #86/INFO]: <srevid> aaaah
+[20:07:58] [Async Chat Thread - #86/INFO]: <srevid> faux, on vient de me corriger :p
+[20:08:10] [Async Chat Thread - #86/INFO]: <gripette> (il faut ben le corriger quand il dit des niaiseries)
+[20:08:24] [Async Chat Thread - #86/INFO]: <snickk> hehe
+[20:08:25] [Async Chat Thread - #86/INFO]: <9605214> j'ai fait un exemple a coter de ma maison et celle a oli
+[20:10:35] [Async Chat Thread - #87/INFO]: <9605214> vous viendrai voir quand vous voulez
+[20:12:33] [Async Chat Thread - #88/INFO]: <snickk> jai usé 2 steel swords au complet pour tuer mes vaches heh
+[20:12:41] [Async Chat Thread - #88/INFO]: <9605214> looooool
+[20:12:51] [Async Chat Thread - #88/INFO]: <snickk> du steak en masse
+[20:13:06] [Async Chat Thread - #88/INFO]: <gripette> tu les as toutes tuées?
+[20:13:14] [Async Chat Thread - #88/INFO]: <snickk> non yen reste genre 20-30
+[20:13:21] [Async Chat Thread - #88/INFO]: <9605214> :,-(
+[20:16:03] [Async Chat Thread - #89/INFO]: <devil_biker> p-a jaurai besion de ton aide 2 min
+[20:16:14] [Async Chat Thread - #89/INFO]: <9605214> k
+[20:16:43] [Async Chat Thread - #89/INFO]: <9605214> oui?
+[20:16:46] [Async Chat Thread - #89/INFO]: <devil_biker> est ce que le redstone est alumer partout
+[20:16:51] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[20:16:51] [Server thread/INFO]: [NoSpawnChunks] Unloaded 85 chunks. Took 36 ms.
+[20:16:52] [Server thread/INFO]: [NoSpawnChunks] Freed 69 mb!
+[20:17:10] [Async Chat Thread - #89/INFO]: <9605214> non
+[20:17:23] [Async Chat Thread - #89/INFO]: <9605214> pese
+[20:17:53] [Async Chat Thread - #89/INFO]: <9605214> faut qui sois au meme niveau va marche pas
+[20:20:41] [Async Chat Thread - #90/INFO]: <9605214> c bon
+[20:20:56] [Async Chat Thread - #90/INFO]: <9605214> attend pese
+[20:21:31] [Async Chat Thread - #90/INFO]: <9605214> ok
+[20:23:17] [Async Chat Thread - #91/INFO]: <devil_biker> y rest just a touver un moyent de faire floter le bateau
+[20:23:38] [Async Chat Thread - #91/INFO]: <9605214> c un bug... pt que ca marche juste dans lancien version
+[20:23:49] [Async Chat Thread - #91/INFO]: <devil_biker> ouin
+[20:32:08] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[20:32:08] [Server thread/INFO]: [NoSpawnChunks] Unloaded 74 chunks. Took 54 ms.
+[20:32:09] [Server thread/INFO]: [NoSpawnChunks] Freed 149 mb!
+[20:32:56] [Async Chat Thread - #92/INFO]: <gripette> dude mon arbre
+[20:33:08] [Async Chat Thread - #92/INFO]: <gripette> tu te fais une cabane dedans? :)
+[20:33:17] [Async Chat Thread - #92/INFO]: <snickk> yea :P
+[20:33:26] [Async Chat Thread - #92/INFO]: <gripette> yé hot enh, t monté comment
+[20:33:46] [Async Chat Thread - #92/INFO]: <snickk> jai fais un chemin que jai détruit
+[20:33:53] [Async Chat Thread - #92/INFO]: <gripette> comment tu las fait?
+[20:34:00] [Async Chat Thread - #92/INFO]: <snickk> avec du wood
+[20:34:16] [Async Chat Thread - #92/INFO]: <gripette> du wood?
+[20:34:43] [Async Chat Thread - #92/INFO]: <snickk> javais oublié quon peut monter sur les lianes
+[20:34:50] [Async Chat Thread - #92/INFO]: <gripette> les jungle tree donnent full pas de sapling, alors ca été toff den avoir 4 enfin pour faire ce géan
+[20:34:59] [Async Chat Thread - #92/INFO]: <gripette> ben t monté comment alors
+[20:35:14] [Async Chat Thread - #92/INFO]: <gripette> ha
+[20:35:16] [Async Chat Thread - #92/INFO]: <gripette> lol
+[20:35:27] [Async Chat Thread - #92/INFO]: <gripette> pas bete
+[20:35:46] [Async Chat Thread - #92/INFO]: <snickk> est-ce que ca pousse les vines?
+[20:35:48] [Async Chat Thread - #92/INFO]: <gripette> mais les lianes il me semblait quon pouvait les récupérer, masi meme avec mon silk touch ca drop rie
+[20:35:52] [Async Chat Thread - #92/INFO]: <gripette> rien
+[20:36:31] [Async Chat Thread - #92/INFO]: <gripette> lautre bord ca monte au complet
+[20:37:10] [Async Chat Thread - #92/INFO]: <gripette> fak en tk oublie pas qu'il est une espece rare, en préservation :)
+[20:37:18] [Async Chat Thread - #92/INFO]: <snickk> jy fais attention :P
+[20:41:47] [Async Chat Thread - #93/INFO]: <snickk> sont cool tes blocs
+[20:41:55] [Async Chat Thread - #93/INFO]: <gripette> aye :P
+[20:42:16] [Async Chat Thread - #93/INFO]: <gripette> je build un iron farm
+[20:42:31] [Async Chat Thread - #93/INFO]: <9605214> ???
+[20:42:41] [Async Chat Thread - #93/INFO]: <gripette> ouip!
+[20:47:31] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[20:47:31] [Server thread/INFO]: [NoSpawnChunks] Unloaded 43 chunks. Took 22 ms.
+[20:47:32] [Server thread/INFO]: [NoSpawnChunks] Freed 49 mb!
