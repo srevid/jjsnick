@@ -1748,3 +1748,17 @@ Loading libraries, please wait...
 [22:59:45 INFO]: <srevid> bonne soirée les gars !
 [22:59:47 INFO]: srevid lost connection: Disconnected
 [22:59:47 INFO]: srevid left the game.
+[23:05:14 INFO]: [NoSpawnChunks] Unloading chunks...
+[23:05:14 INFO]: [NoSpawnChunks] Unloaded 128 chunks. Took 38 ms.
+[23:05:15 INFO]: [NoSpawnChunks] Freed 103 mb!
+[23:20:22 INFO]: [NoSpawnChunks] Unloading chunks...
+[23:20:22 INFO]: [NoSpawnChunks] Unloaded 12 chunks. Took 4 ms.
+[23:20:23 INFO]: [NoSpawnChunks] Freed 99 mb!
+[23:29:35 INFO]: 9605214 lost connection: Disconnected
+[23:29:35 INFO]: 9605214 left the game.
+[23:35:34 INFO]: [NoSpawnChunks] Unloading chunks...
+[23:35:34 INFO]: [NoSpawnChunks] Unloaded 107 chunks. Took 86 ms.
+[23:35:35 INFO]: [NoSpawnChunks] Freed 24 mb!
+[23:50:47 INFO]: [NoSpawnChunks] Unloading chunks...
+[23:50:47 INFO]: [NoSpawnChunks] Unloaded 21 chunks. Took 10 ms.
+[23:50:48 INFO]: [NoSpawnChunks] Freed 130 mb!
