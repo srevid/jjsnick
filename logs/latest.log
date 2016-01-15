@@ -234,3 +234,20 @@
 [19:45:29] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [19:45:29] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 4 ms.
 [19:45:29] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
+[20:00:33] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[20:00:33] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
+[20:00:34] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
+[20:15:48] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[20:15:48] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[20:15:49] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
+[20:27:22] [User Authenticator #23/INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
+[20:27:24] [Server thread/INFO]: snickk[/198.48.196.61:51096] logged in with entity id 669240 at ([J]-142.06688057820645, 83.0, 248.78632026453153)
+[20:28:23] [User Authenticator #24/INFO]: UUID of player devil_biker is 85c51cb3-e66f-4ef3-8e82-7da7a758ceb4
+[20:28:23] [Server thread/INFO]: devil_biker[/173.179.217.109:49223] logged in with entity id 669560 at ([J]-199.2109862030306, 71.0, 264.0054430342291)
+[20:31:44] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[20:31:44] [Server thread/INFO]: [NoSpawnChunks] Unloaded 28 chunks. Took 12 ms.
+[20:36:42] [Server thread/INFO]: snickk lost connection: Disconnected
+[20:36:42] [Server thread/INFO]: snickk left the game.
+[20:47:00] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[20:47:00] [Server thread/INFO]: [NoSpawnChunks] Unloaded 114 chunks. Took 62 ms.
+[20:47:04] [Server thread/INFO]: [NoSpawnChunks] Freed 80 mb!
