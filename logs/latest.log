@@ -200,3 +200,37 @@
 [15:46:23] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [15:46:23] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
 [15:46:24] [Server thread/INFO]: [NoSpawnChunks] Freed 10 mb!
+[16:01:39] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[16:01:39] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[16:01:40] [Server thread/INFO]: [NoSpawnChunks] Freed 7 mb!
+[16:02:17] [User Authenticator #5/INFO]: UUID of player TiPoulet is 5bfeaf1f-c328-4c78-b30d-bda7fdafb049
+[16:02:17] [Server thread/INFO]: TiPoulet[/70.82.243.105:49217] logged in with entity id 66264 at ([J]-184.6060325997435, 75.0, 301.1369683555337)
+[16:17:00] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[16:17:00] [Server thread/INFO]: [NoSpawnChunks] Unloaded 84 chunks. Took 54 ms.
+[16:17:02] [Server thread/INFO]: [NoSpawnChunks] Freed 121 mb!
+[16:32:22] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[16:32:22] [Server thread/INFO]: [NoSpawnChunks] Unloaded 73 chunks. Took 49 ms.
+[16:32:23] [Server thread/INFO]: [NoSpawnChunks] Freed 127 mb!
+[16:39:05] [User Authenticator #6/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
+[16:39:05] [Server thread/INFO]: gripette[/69.70.66.38:59899] logged in with entity id 97604 at ([J]-246.7290466492339, 66.0, 241.6994116814439)
+[16:47:35] [Server thread/WARN]: TiPoulet moved wrongly!
+[16:47:44] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[16:47:44] [Server thread/INFO]: [NoSpawnChunks] Unloaded 178 chunks. Took 65 ms.
+[16:47:45] [Server thread/INFO]: [NoSpawnChunks] Freed 52 mb!
+[16:48:21] [Server thread/INFO]: TiPoulet lost connection: Disconnected
+[16:48:21] [Server thread/INFO]: TiPoulet left the game.
+[16:54:57] [User Authenticator #7/INFO]: UUID of player devil_biker is 85c51cb3-e66f-4ef3-8e82-7da7a758ceb4
+[16:54:57] [Server thread/INFO]: devil_biker[/173.179.217.109:49434] logged in with entity id 108397 at ([J]-199.10268142446708, 75.0, 263.76340861588227)
+[17:03:03] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[17:03:03] [Server thread/INFO]: [NoSpawnChunks] Unloaded 70 chunks. Took 33 ms.
+[17:03:03] [Server thread/INFO]: [NoSpawnChunks] Freed 96 mb!
+[17:16:00] [Server thread/INFO]: gripette lost connection: Disconnected
+[17:16:00] [Server thread/INFO]: gripette left the game.
+[17:18:26] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[17:18:27] [Server thread/INFO]: [NoSpawnChunks] Unloaded 78 chunks. Took 44 ms.
+[17:18:27] [Server thread/INFO]: [NoSpawnChunks] Freed 59 mb!
+[17:33:41] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[17:33:41] [Server thread/INFO]: [NoSpawnChunks] Unloaded 68 chunks. Took 28 ms.
+[17:48:53] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[17:48:53] [Server thread/INFO]: [NoSpawnChunks] Unloaded 48 chunks. Took 18 ms.
+[17:48:55] [Server thread/INFO]: [NoSpawnChunks] Freed 121 mb!
