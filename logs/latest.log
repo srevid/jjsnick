@@ -1,274 +1,206 @@
-[00:06:01] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[00:06:01] [Server thread/INFO]: [NoSpawnChunks] Unloaded 78 chunks. Took 734 ms.
-[00:06:02] [Server thread/INFO]: [NoSpawnChunks] Freed 41 mb!
-[00:21:15] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[00:21:15] [Server thread/INFO]: [NoSpawnChunks] Unloaded 23 chunks. Took 16 ms.
-[00:21:16] [Server thread/INFO]: [NoSpawnChunks] Freed 133 mb!
-[00:36:32] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[00:36:32] [Server thread/INFO]: [NoSpawnChunks] Unloaded 51 chunks. Took 27 ms.
-[00:36:33] [Server thread/INFO]: [NoSpawnChunks] Freed 83 mb!
-[00:51:39] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[00:51:39] [Server thread/INFO]: [NoSpawnChunks] Unloaded 29 chunks. Took 14 ms.
-[00:51:39] [Server thread/INFO]: [NoSpawnChunks] Freed 67 mb!
-[01:06:44] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[01:06:44] [Server thread/INFO]: [NoSpawnChunks] Unloaded 39 chunks. Took 20 ms.
-[01:21:49] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[01:21:49] [Server thread/INFO]: [NoSpawnChunks] Unloaded 23 chunks. Took 186 ms.
-[01:21:50] [Server thread/INFO]: [NoSpawnChunks] Freed 49 mb!
-[01:36:58] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[01:36:58] [Server thread/INFO]: [NoSpawnChunks] Unloaded 60 chunks. Took 20 ms.
-[01:36:58] [Server thread/INFO]: [NoSpawnChunks] Freed 30 mb!
-[01:47:07] [Server thread/INFO]: snickk lost connection: Disconnected
-[01:47:07] [Server thread/INFO]: snickk left the game.
-[01:52:04] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[01:52:04] [Server thread/INFO]: [NoSpawnChunks] Unloaded 108 chunks. Took 48 ms.
-[01:52:05] [Server thread/INFO]: [NoSpawnChunks] Freed 111 mb!
-[02:07:10] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[02:07:10] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[02:07:10] [Server thread/INFO]: [NoSpawnChunks] Freed 44 mb!
-[02:22:16] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[02:22:16] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[02:22:16] [Server thread/INFO]: [NoSpawnChunks] Freed 4 mb!
-[02:37:27] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[02:37:28] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 32 ms.
-[02:52:48] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[02:52:48] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[03:07:53] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[03:07:54] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[03:07:54] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[03:22:57] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[03:22:57] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[03:22:58] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[03:38:01] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[03:38:01] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
-[03:38:01] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[03:53:24] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[03:53:24] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 80 ms.
-[03:53:30] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[04:08:34] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[04:08:34] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[04:08:35] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[04:23:38] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[04:23:38] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[04:23:39] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[04:38:43] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[04:38:43] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[04:38:44] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[04:53:47] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[04:53:47] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[04:53:47] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[05:08:53] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[05:08:53] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[05:08:53] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[05:23:57] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[05:23:57] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
-[05:23:57] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[05:39:04] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[05:39:04] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[05:39:05] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[05:54:08] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[05:54:08] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
-[05:54:08] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[06:09:11] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[06:09:11] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[06:09:11] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[06:24:15] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[06:24:15] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[06:24:17] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[06:39:18] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[06:39:18] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[06:39:19] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[06:54:21] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[06:54:21] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
-[06:54:21] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[07:09:23] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[07:09:23] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[07:09:23] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[07:24:25] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[07:24:25] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[07:24:25] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[07:39:26] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[07:39:26] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[07:39:26] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[07:54:34] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[07:54:34] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
-[07:54:35] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[08:09:41] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[08:09:41] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 7 ms.
-[08:09:42] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[08:24:46] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[08:24:46] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[08:24:46] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[08:39:50] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[08:39:50] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[08:39:51] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[08:54:54] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[08:54:54] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[08:54:54] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[09:09:58] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[09:09:58] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
-[09:09:58] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[09:25:00] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[09:25:00] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[09:25:00] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[09:40:06] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[09:40:06] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[09:40:07] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[09:55:10] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[09:55:10] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[09:55:10] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[10:10:18] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[10:10:18] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[10:10:19] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[10:25:24] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[10:25:24] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[10:25:24] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[10:40:37] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[10:40:37] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 4 ms.
-[10:40:37] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[10:55:49] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[10:55:49] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[10:55:50] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[11:11:01] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[11:11:01] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 33 ms.
-[11:11:07] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[11:26:20] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[11:26:20] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[11:26:20] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[11:41:24] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[11:41:24] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
-[11:41:24] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[11:56:25] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[11:56:25] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[11:56:25] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[12:11:34] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[12:11:34] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 5 ms.
-[12:11:35] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[12:26:39] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[12:26:39] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[12:26:39] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[12:41:49] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[12:41:49] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[12:41:49] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[12:57:02] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[12:57:02] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[12:57:03] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[13:12:15] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[13:12:15] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
-[13:12:16] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[13:27:22] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[13:27:22] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
-[13:27:23] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[13:42:25] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[13:42:25] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[13:42:26] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[13:57:32] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[13:57:32] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[13:57:33] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[14:12:39] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[14:12:39] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
-[14:12:40] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[14:27:44] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[14:27:44] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 7 ms.
-[14:27:46] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[14:42:56] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[14:42:56] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 5 ms.
-[14:42:57] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[14:58:01] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[14:58:01] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 4 ms.
-[14:58:03] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[15:13:10] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[15:13:10] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[15:13:11] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[15:28:13] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[15:28:13] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[15:28:14] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[15:43:21] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[15:43:21] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[15:43:22] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[15:58:28] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[15:58:28] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
-[15:58:29] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[16:13:34] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[16:13:34] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
-[16:13:35] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[16:28:43] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[16:28:43] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[16:28:44] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[16:43:49] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[16:43:49] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
-[16:43:49] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[16:58:54] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[16:58:54] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
-[16:58:55] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[17:14:01] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[17:14:01] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[17:14:02] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[17:29:06] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[17:29:06] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[17:29:07] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[17:44:17] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[17:44:17] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[17:44:18] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[17:59:29] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[17:59:29] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[17:59:30] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[18:14:43] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[18:14:43] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
-[18:14:43] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[18:29:53] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[18:29:53] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 4 ms.
-[18:29:53] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[18:45:07] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[18:45:07] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 308 ms.
-[18:45:08] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[19:00:11] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[19:00:11] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[19:00:12] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[19:15:17] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[19:15:17] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
-[19:15:18] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[19:30:23] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[19:30:23] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
-[19:30:24] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[19:45:29] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[19:45:29] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 4 ms.
-[19:45:29] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[20:00:33] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[20:00:33] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
-[20:00:34] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[20:15:48] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[20:15:48] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
-[20:15:49] [Server thread/INFO]: [NoSpawnChunks] Freed 13 mb!
-[20:27:22] [User Authenticator #23/INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
-[20:27:24] [Server thread/INFO]: snickk[/198.48.196.61:51096] logged in with entity id 669240 at ([J]-142.06688057820645, 83.0, 248.78632026453153)
-[20:28:23] [User Authenticator #24/INFO]: UUID of player devil_biker is 85c51cb3-e66f-4ef3-8e82-7da7a758ceb4
-[20:28:23] [Server thread/INFO]: devil_biker[/173.179.217.109:49223] logged in with entity id 669560 at ([J]-199.2109862030306, 71.0, 264.0054430342291)
-[20:31:44] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[20:31:44] [Server thread/INFO]: [NoSpawnChunks] Unloaded 28 chunks. Took 12 ms.
-[20:36:42] [Server thread/INFO]: snickk lost connection: Disconnected
-[20:36:42] [Server thread/INFO]: snickk left the game.
-[20:47:00] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[20:47:00] [Server thread/INFO]: [NoSpawnChunks] Unloaded 114 chunks. Took 62 ms.
-[20:47:04] [Server thread/INFO]: [NoSpawnChunks] Freed 80 mb!
-[21:02:15] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[21:02:15] [Server thread/INFO]: [NoSpawnChunks] Unloaded 66 chunks. Took 35 ms.
-[21:02:16] [Server thread/INFO]: [NoSpawnChunks] Freed 86 mb!
-[21:08:47] [Server thread/INFO]: devil_biker was blown up by Creeper
-[21:17:30] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[21:17:30] [Server thread/INFO]: [NoSpawnChunks] Unloaded 48 chunks. Took 29 ms.
-[21:17:33] [Server thread/INFO]: [NoSpawnChunks] Freed 12 mb!
-[21:17:37] [Server thread/WARN]: devil_biker moved wrongly!
-[21:32:51] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[21:32:51] [Server thread/INFO]: [NoSpawnChunks] Unloaded 77 chunks. Took 204 ms.
-[21:32:52] [Server thread/INFO]: [NoSpawnChunks] Freed 55 mb!
-[21:40:26] [Server thread/INFO]: devil_biker was blown up by Creeper
-[21:48:08] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
-[21:48:08] [Server thread/INFO]: [NoSpawnChunks] Unloaded 40 chunks. Took 16 ms.
-[21:48:09] [Server thread/INFO]: [NoSpawnChunks] Freed 43 mb!
-[21:55:31] [Server thread/INFO]: devil_biker lost connection: Disconnected
-[21:55:31] [Server thread/INFO]: devil_biker left the game.
-[21:58:46] [User Authenticator #25/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
-[21:58:46] [Server thread/INFO]: gripette[/192.222.166.50:49455] logged in with entity id 720001 at ([J]-263.5885398597995, 73.0625, 287.1820591663866)
-[21:59:01] [User Authenticator #26/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
-[21:59:01] [Server thread/INFO]: srevid[/192.222.166.50:49752] logged in with entity id 720253 at ([J]-340.1050144406309, 47.0, 127.9865692303434)
+[22:59:38] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[22:59:38] [Server thread/INFO]: Loading properties
+[22:59:38] [Server thread/INFO]: Default game type: SURVIVAL
+[22:59:39] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-fdc1440-53fac9f (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[22:59:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:59:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:59:39] [Server thread/INFO]: Debug logging is disabled
+[22:59:39] [Server thread/INFO]: Generating keypair
+[22:59:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:59:41] [Server thread/INFO]: Using epoll channel type
+[22:59:41] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[22:59:41] [Server thread/INFO]: [dynmap] Loading dynmap v2.2-SNAPSHOT-1106
+[22:59:41] [Server thread/INFO]: [dynmap] version=git-Spigot-fdc1440-53fac9f (MC: 1.8.8)
+[22:59:42] [Server thread/INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[22:59:42] [Server thread/INFO]: [dynmap] Mod Support API available
+[22:59:42] [Server thread/INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0 (Build 142)
+[22:59:42] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[22:59:42] [Server thread/INFO]: Preparing level "J"
+[22:59:42] [Server thread/INFO]: -------- World Settings For [J] --------
+[22:59:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:59:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:59:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:59:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:59:42] [Server thread/INFO]: Random Lighting Updates: false
+[22:59:42] [Server thread/INFO]: Mob Spawn Range: 4
+[22:59:42] [Server thread/INFO]: Structure Info Saving: true
+[22:59:42] [Server thread/INFO]: Anti X-Ray: false
+[22:59:42] [Server thread/INFO]: 	Engine Mode: 1
+[22:59:42] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:59:42] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[22:59:42] [Server thread/INFO]: Sending up to 10 chunks per packet
+[22:59:42] [Server thread/INFO]: Max Entity Collisions: 8
+[22:59:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:59:42] [Server thread/INFO]: Max TNT Explosions: 100
+[22:59:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:59:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:59:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:59:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:59:42] [Server thread/INFO]: View Distance: 4
+[22:59:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:59:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:59:42] [Server thread/INFO]: Chunks to Grow per Tick: 450
+[22:59:42] [Server thread/INFO]: Clear tick list: false
+[22:59:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:59:42] [Server thread/INFO]: -------- World Settings For [J_nether] --------
+[22:59:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:59:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:59:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:59:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:59:42] [Server thread/INFO]: Random Lighting Updates: false
+[22:59:42] [Server thread/INFO]: Mob Spawn Range: 4
+[22:59:42] [Server thread/INFO]: Structure Info Saving: true
+[22:59:42] [Server thread/INFO]: Anti X-Ray: false
+[22:59:42] [Server thread/INFO]: 	Engine Mode: 1
+[22:59:42] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:59:42] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[22:59:42] [Server thread/INFO]: Sending up to 10 chunks per packet
+[22:59:42] [Server thread/INFO]: Max Entity Collisions: 8
+[22:59:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:59:42] [Server thread/INFO]: Max TNT Explosions: 100
+[22:59:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:59:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:59:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:59:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:59:42] [Server thread/INFO]: View Distance: 4
+[22:59:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:59:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:59:42] [Server thread/INFO]: Chunks to Grow per Tick: 450
+[22:59:42] [Server thread/INFO]: Clear tick list: false
+[22:59:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:59:42] [Server thread/INFO]: -------- World Settings For [J_the_end] --------
+[22:59:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:59:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:59:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:59:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:59:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:59:42] [Server thread/INFO]: Random Lighting Updates: false
+[22:59:42] [Server thread/INFO]: Mob Spawn Range: 4
+[22:59:42] [Server thread/INFO]: Structure Info Saving: true
+[22:59:42] [Server thread/INFO]: Anti X-Ray: false
+[22:59:42] [Server thread/INFO]: 	Engine Mode: 1
+[22:59:42] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:59:42] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[22:59:42] [Server thread/INFO]: Sending up to 10 chunks per packet
+[22:59:42] [Server thread/INFO]: Max Entity Collisions: 8
+[22:59:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:59:42] [Server thread/INFO]: Max TNT Explosions: 100
+[22:59:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:59:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:59:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:59:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:59:42] [Server thread/INFO]: View Distance: 4
+[22:59:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:59:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:59:42] [Server thread/INFO]: Chunks to Grow per Tick: 450
+[22:59:42] [Server thread/INFO]: Clear tick list: false
+[22:59:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:59:42] [Server thread/INFO]: Preparing start region for level 0 (Seed: 7936026946858735291)
+[22:59:43] [Server thread/INFO]: Preparing spawn area: 2%
+[22:59:44] [Server thread/INFO]: Preparing spawn area: 15%
+[22:59:45] [Server thread/INFO]: Preparing spawn area: 38%
+[22:59:46] [Server thread/INFO]: Preparing spawn area: 73%
+[22:59:47] [Server thread/INFO]: Preparing start region for level 1 (Seed: 7936026946858735291)
+[22:59:48] [Server thread/INFO]: Preparing spawn area: 16%
+[22:59:49] [Server thread/INFO]: Preparing spawn area: 42%
+[22:59:50] [Server thread/INFO]: Preparing spawn area: 60%
+[22:59:51] [Server thread/INFO]: Preparing spawn area: 94%
+[22:59:51] [Server thread/INFO]: Preparing start region for level 2 (Seed: 7936026946858735291)
+[22:59:52] [Server thread/INFO]: Preparing spawn area: 7%
+[22:59:54] [Server thread/INFO]: Preparing spawn area: 44%
+[22:59:54] [Server thread/INFO]: [dynmap] Enabling dynmap v2.2-SNAPSHOT-1106
+[22:59:54] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[22:59:54] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[22:59:55] [Server thread/ERROR]: [dynmap] Error reading plugins/dynmap/markers.yml
+[22:59:55] [Server thread/INFO]: [dynmap] Extracted files upgraded
+[22:59:55] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[22:59:57] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
+[22:59:57] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[22:59:57] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[22:59:57] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[22:59:57] [Server thread/INFO]: [dynmap] version 2.2-SNAPSHOT-1106 is enabled - core version 2.2-SNAPSHOT-2044
+[22:59:57] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'J'.
+[22:59:57] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'J_nether'.
+[22:59:57] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'J_the_end'.
+[22:59:57] [Server thread/INFO]: [dynmap] Enabled
+[22:59:57] [Server thread/INFO]: [NoSpawnChunks] Enabling NoSpawnChunks v2.0 (Build 142)
+[22:59:57] [Server thread/INFO]: [NoSpawnChunks] NoSpawnChunks v2.0 (Build 142) has been enabled. Took 14 ms.
+[22:59:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:59:57] [Server thread/INFO]: Done (15.114s)! For help, type "help" or "?"
+[23:00:00] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[23:00:10] [Server thread/INFO]: [NoSpawnChunks] Unloaded 1,875 chunks. Took 9,644 ms.
+[23:00:10] [Server thread/INFO]: [NoSpawnChunks] Freed 169 mb!
+[23:00:26] [User Authenticator #1/INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
+[23:00:27] [Server thread/INFO]: snickk[/198.48.196.61:51504] logged in with entity id 858 at ([J]-140.86613550706355, 76.0, 250.47278066119475)
+[23:02:01] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[23:02:30] [User Authenticator #2/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
+[23:02:30] [Server thread/INFO]: gripette[/192.222.166.50:49837] logged in with entity id 1182 at ([J]-164.73527791335718, 70.0, 274.1326564198802)
+[23:02:37] [User Authenticator #3/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[23:02:37] [Server thread/INFO]: srevid[/192.222.166.50:50109] logged in with entity id 1441 at ([J]-213.5647601838604, 64.0, 130.5756159433978)
+[23:02:47] [Async Chat Thread - #0/INFO]: <snickk> http://snickk-minecraft.noip.me:8123/
+[23:03:09] [Async Chat Thread - #0/INFO]: <snickk> on voit pas grand chose
+[23:03:50] [Async Chat Thread - #0/INFO]: <srevid> c est en train de render
+[23:03:54] [Async Chat Thread - #0/INFO]: <snickk> ouais je vois
+[23:04:13] [Server thread/INFO]: [WEB] srevid: test depuis la map
+[23:04:32] [Async Chat Thread - #0/INFO]: <srevid> hehe jo et moi on est sur le meme serveur
+[23:04:38] [Server thread/INFO]: [WEB] srevid: je suis jo
+[23:04:48] [Async Chat Thread - #0/INFO]: <srevid> donc ce qu elle ecrit sur le site se fait passer pour moi :p
+[23:04:58] [Async Chat Thread - #0/INFO]: <snickk> ah daccord
+[23:05:15] [Server thread/INFO]: [WEB] snickk: cool stuff
+[23:05:24] [Server thread/INFO]: [WEB] snickk: faudrait voir le underground
+[23:05:34] [Async Chat Thread - #0/INFO]: <gripette> ca s'active ca je pense
+[23:05:39] [Async Chat Thread - #0/INFO]: <gripette> c'est un mode ou un setting
+[23:05:52] [Async Chat Thread - #0/INFO]: <gripette> si dynmap a cette option la
+[23:15:29] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[23:15:29] [Server thread/INFO]: [NoSpawnChunks] Unloaded 100 chunks. Took 64 ms.
+[23:15:30] [Server thread/INFO]: [NoSpawnChunks] Freed 39 mb!
+[23:16:11] [Server thread/INFO]: [WEB] 24.114.95.8: marche bien sur mobile aussi
+[23:26:22] [Async Chat Thread - #1/INFO]: <srevid> j ai fait une betise...
+[23:26:59] [Async Chat Thread - #1/INFO]: <snickk> ah ouais?
+[23:27:11] [Async Chat Thread - #1/INFO]: <gripette> ouin
+[23:27:18] [Async Chat Thread - #1/INFO]: <srevid> excusez :s
+[23:27:19] [Async Chat Thread - #1/INFO]: <gripette> mr s'amuse avec un sceau de lave
+[23:27:23] [Async Chat Thread - #1/INFO]: <snickk> loll
+[23:27:51] [Async Chat Thread - #1/INFO]: <snickk> un incendie minecraft
+[23:28:00] [Async Chat Thread - #1/INFO]: <gripette> je vais rebatir ca un moment donné :P
+[23:28:18] [Async Chat Thread - #1/INFO]: <snickk> quand jai vu la maison en feu je pensais cétait la nouvelle déco
+[23:28:40] [Async Chat Thread - #1/INFO]: <snickk> je savais pas quon pouvait foutre le feu
+[23:29:03] [Async Chat Thread - #1/INFO]: <gripette> la c'est pas pire parce que ya pas d'arbre qui a pris
+[23:29:17] [Async Chat Thread - #1/INFO]: <gripette> mais si tu fous lfeu a un arbre et que c'est pas controlé, la foret peut y passer...
+[23:29:24] [Async Chat Thread - #1/INFO]: <snickk> "mr s'amuse avec un sceau de lave" - lol
+[23:29:46] [Async Chat Thread - #1/INFO]: <gripette> un moment donné étienne a mis lfeu dans un monde vla longtemps, yavait pu d'arbre pentoute autour
+[23:29:57] [Async Chat Thread - #1/INFO]: <snickk> cool
+[23:30:00] [Async Chat Thread - #1/INFO]: <gripette> on a du faire de la reforestation
+[23:30:09] [Async Chat Thread - #1/INFO]: <gripette> des gros problemes de la vie :P
+[23:30:51] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[23:30:51] [Server thread/INFO]: [NoSpawnChunks] Unloaded 90 chunks. Took 21 ms.
+[23:30:53] [Server thread/INFO]: [NoSpawnChunks] Freed 147 mb!
+[23:34:16] [Async Chat Thread - #2/INFO]: <snickk> chouette
+[23:34:35] [Async Chat Thread - #2/INFO]: <gripette> ouin mais on voit pas la structure, leau recouvre tout...
+[23:46:21] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[23:46:21] [Server thread/INFO]: [NoSpawnChunks] Unloaded 92 chunks. Took 49 ms.
+[23:49:06] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world J_nether...
+[23:49:06] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
