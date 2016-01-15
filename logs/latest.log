@@ -251,3 +251,24 @@
 [20:47:00] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [20:47:00] [Server thread/INFO]: [NoSpawnChunks] Unloaded 114 chunks. Took 62 ms.
 [20:47:04] [Server thread/INFO]: [NoSpawnChunks] Freed 80 mb!
+[21:02:15] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[21:02:15] [Server thread/INFO]: [NoSpawnChunks] Unloaded 66 chunks. Took 35 ms.
+[21:02:16] [Server thread/INFO]: [NoSpawnChunks] Freed 86 mb!
+[21:08:47] [Server thread/INFO]: devil_biker was blown up by Creeper
+[21:17:30] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[21:17:30] [Server thread/INFO]: [NoSpawnChunks] Unloaded 48 chunks. Took 29 ms.
+[21:17:33] [Server thread/INFO]: [NoSpawnChunks] Freed 12 mb!
+[21:17:37] [Server thread/WARN]: devil_biker moved wrongly!
+[21:32:51] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[21:32:51] [Server thread/INFO]: [NoSpawnChunks] Unloaded 77 chunks. Took 204 ms.
+[21:32:52] [Server thread/INFO]: [NoSpawnChunks] Freed 55 mb!
+[21:40:26] [Server thread/INFO]: devil_biker was blown up by Creeper
+[21:48:08] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[21:48:08] [Server thread/INFO]: [NoSpawnChunks] Unloaded 40 chunks. Took 16 ms.
+[21:48:09] [Server thread/INFO]: [NoSpawnChunks] Freed 43 mb!
+[21:55:31] [Server thread/INFO]: devil_biker lost connection: Disconnected
+[21:55:31] [Server thread/INFO]: devil_biker left the game.
+[21:58:46] [User Authenticator #25/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
+[21:58:46] [Server thread/INFO]: gripette[/192.222.166.50:49455] logged in with entity id 720001 at ([J]-263.5885398597995, 73.0625, 287.1820591663866)
+[21:59:01] [User Authenticator #26/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[21:59:01] [Server thread/INFO]: srevid[/192.222.166.50:49752] logged in with entity id 720253 at ([J]-340.1050144406309, 47.0, 127.9865692303434)
