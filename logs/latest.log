@@ -121,3 +121,18 @@
 [08:47:10] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [08:47:10] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
 [08:47:11] [Server thread/INFO]: [NoSpawnChunks] Freed 174 mb!
+[09:02:20] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[09:02:20] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[09:02:20] [Server thread/INFO]: [NoSpawnChunks] Freed 103 mb!
+[09:14:42] [User Authenticator #14/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[09:14:42] [Server thread/INFO]: srevid[/192.222.201.105:49548] logged in with entity id 1100146 at ([J]-268.43480428711825, 65.0, 265.5572206592637)
+[09:14:47] [User Authenticator #15/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
+[09:14:47] [Server thread/INFO]: gripette[/192.222.201.105:49756] logged in with entity id 1101180 at ([J]-267.8711999180373, 65.0, 256.88474614388383)
+[09:17:30] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[09:17:30] [Server thread/INFO]: [NoSpawnChunks] Unloaded 12 chunks. Took 7 ms.
+[09:31:01] [Server thread/WARN]: srevid moved wrongly!
+[09:32:43] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[09:32:43] [Server thread/INFO]: [NoSpawnChunks] Unloaded 67 chunks. Took 25 ms.
+[09:32:44] [Server thread/INFO]: [NoSpawnChunks] Freed 61 mb!
+[09:47:59] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[09:47:59] [Server thread/INFO]: [NoSpawnChunks] Unloaded 71 chunks. Took 28 ms.
