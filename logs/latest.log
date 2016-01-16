@@ -251,3 +251,26 @@
 [13:54:03] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [13:54:03] [Server thread/INFO]: [NoSpawnChunks] Unloaded 59 chunks. Took 17 ms.
 [13:54:04] [Server thread/INFO]: [NoSpawnChunks] Freed 202 mb!
+[14:01:54] [Async Chat Thread - #34/INFO]: <snickk> je me prépare et jarrive!
+[14:02:02] [Async Chat Thread - #34/INFO]: <gripette> excellent :)
+[14:02:05] [Async Chat Thread - #34/INFO]: <snickk> a tantot
+[14:02:07] [Server thread/INFO]: snickk lost connection: Disconnected
+[14:02:07] [Server thread/INFO]: snickk left the game.
+[14:03:36] [Server thread/INFO]: gripette issued server command: /give gripette quartz_block 64
+[14:03:36] [Server thread/INFO]: [gripette: Given [Block of Quartz] * 64 to gripette]
+[14:09:18] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[14:09:18] [Server thread/INFO]: [NoSpawnChunks] Unloaded 88 chunks. Took 29 ms.
+[14:09:19] [Server thread/INFO]: [NoSpawnChunks] Freed 180 mb!
+[14:24:31] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[14:24:31] [Server thread/INFO]: [NoSpawnChunks] Unloaded 65 chunks. Took 22 ms.
+[14:24:32] [Server thread/INFO]: [NoSpawnChunks] Freed 203 mb!
+[14:39:43] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[14:39:43] [Server thread/INFO]: [NoSpawnChunks] Unloaded 62 chunks. Took 16 ms.
+[14:39:44] [Server thread/INFO]: [NoSpawnChunks] Freed 198 mb!
+[14:41:20] [Server thread/INFO]: gripette issued server command: /give gripette quartz_block 64
+[14:41:20] [Server thread/INFO]: [gripette: Given [Block of Quartz] * 64 to gripette]
+[14:55:19] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[14:55:19] [Server thread/INFO]: [NoSpawnChunks] Unloaded 83 chunks. Took 22 ms.
+[14:55:20] [Server thread/INFO]: [NoSpawnChunks] Freed 279 mb!
+[14:59:53] [Server thread/INFO]: gripette lost connection: Disconnected
+[14:59:53] [Server thread/INFO]: gripette left the game.
