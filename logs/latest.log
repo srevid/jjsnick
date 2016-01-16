@@ -179,3 +179,46 @@
 [11:55:52] [Server thread/INFO]: [gripette: Given [Block of Quartz] * 64 to gripette]
 [11:58:57] [Server thread/INFO]: gripette issued server command: /give gripette quartz_block 64
 [11:58:57] [Server thread/INFO]: [gripette: Given [Block of Quartz] * 64 to gripette]
+[12:06:02] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[12:06:02] [Server thread/INFO]: [NoSpawnChunks] Unloaded 37 chunks. Took 16 ms.
+[12:14:05] [User Authenticator #16/INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[12:14:05] [Server thread/INFO]: srevid[/192.222.201.105:50698] logged in with entity id 1393942 at ([J]-223.831817715911, 68.0, 259.8570743092164)
+[12:20:24] [Server thread/INFO]: gripette issued server command: /give gripette quartz_block 64
+[12:20:24] [Server thread/INFO]: [gripette: Given [Block of Quartz] * 64 to gripette]
+[12:21:20] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[12:21:20] [Server thread/INFO]: [NoSpawnChunks] Unloaded 42 chunks. Took 14 ms.
+[12:21:22] [Server thread/INFO]: [NoSpawnChunks] Freed 221 mb!
+[12:30:29] [Server thread/INFO]: gripette issued server command: /xp 18
+[12:30:29] [Server thread/INFO]: [gripette: Given 18 experience to gripette]
+[12:30:34] [Server thread/INFO]: gripette issued server command: /xp 180
+[12:30:34] [Server thread/INFO]: [gripette: Given 180 experience to gripette]
+[12:30:37] [Server thread/INFO]: gripette issued server command: /xp 180
+[12:30:37] [Server thread/INFO]: [gripette: Given 180 experience to gripette]
+[12:30:38] [Server thread/INFO]: gripette issued server command: /xp 180
+[12:30:38] [Server thread/INFO]: [gripette: Given 180 experience to gripette]
+[12:30:40] [Server thread/INFO]: gripette issued server command: /xp 180
+[12:30:40] [Server thread/INFO]: [gripette: Given 180 experience to gripette]
+[12:30:41] [Server thread/INFO]: gripette issued server command: /xp 180
+[12:30:41] [Server thread/INFO]: [gripette: Given 180 experience to gripette]
+[12:30:45] [Server thread/INFO]: gripette issued server command: /xp 100
+[12:30:46] [Server thread/INFO]: [gripette: Given 100 experience to gripette]
+[12:36:42] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[12:36:42] [Server thread/INFO]: [NoSpawnChunks] Unloaded 47 chunks. Took 19 ms.
+[12:36:43] [Server thread/INFO]: [NoSpawnChunks] Freed 195 mb!
+[12:41:58] [User Authenticator #17/INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
+[12:41:58] [Server thread/INFO]: snickk[/198.48.196.61:52561] logged in with entity id 1439952 at ([J]-222.69021813425383, 78.0, 306.28808508460116)
+[12:42:03] [Async Chat Thread - #29/INFO]: <snickk> morning
+[12:42:16] [Async Chat Thread - #29/INFO]: <srevid> hello
+[12:48:15] [Async Chat Thread - #30/INFO]: <srevid> check
+[12:48:15] [Async Chat Thread - #30/INFO]: <snickk> gare central eh
+[12:48:31] [Async Chat Thread - #30/INFO]: <srevid> un switch mais avec un bouton
+[12:48:54] [Async Chat Thread - #30/INFO]: <srevid> suis un train de faire des echangeurs
+[12:48:59] [Async Chat Thread - #30/INFO]: <snickk> cool
+[12:51:59] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[12:51:59] [Server thread/INFO]: [NoSpawnChunks] Unloaded 97 chunks. Took 49 ms.
+[12:52:01] [Server thread/INFO]: [NoSpawnChunks] Freed 175 mb!
+[12:55:44] [Server thread/INFO]: [WEB] snickk: javais pas vu qui avait une map 3d et xray
+[12:55:55] [Async Chat Thread - #31/INFO]: <gripette> comment on fait pour la voir
+[12:56:08] [Server thread/INFO]: [WEB] snickk: ya une flèche a droite qui ouvre une sidebar
+[12:59:44] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world J_nether...
+[12:59:44] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
