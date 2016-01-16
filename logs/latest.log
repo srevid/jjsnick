@@ -234,3 +234,18 @@
 [17:48:53] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [17:48:53] [Server thread/INFO]: [NoSpawnChunks] Unloaded 48 chunks. Took 18 ms.
 [17:48:55] [Server thread/INFO]: [NoSpawnChunks] Freed 121 mb!
+[18:03:23] [Server thread/WARN]: devil_biker moved wrongly!
+[18:04:05] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[18:04:05] [Server thread/INFO]: [NoSpawnChunks] Unloaded 129 chunks. Took 46 ms.
+[18:04:06] [Server thread/INFO]: [NoSpawnChunks] Freed 117 mb!
+[18:19:17] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[18:19:17] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[18:19:18] [Server thread/INFO]: [NoSpawnChunks] Freed 94 mb!
+[18:34:27] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[18:34:27] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[18:34:28] [Server thread/INFO]: [NoSpawnChunks] Freed 49 mb!
+[18:38:56] [Server thread/INFO]: devil_biker lost connection: Disconnected
+[18:38:56] [Server thread/INFO]: devil_biker left the game.
+[18:49:42] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[18:49:42] [Server thread/INFO]: [NoSpawnChunks] Unloaded 81 chunks. Took 28 ms.
+[18:49:42] [Server thread/INFO]: [NoSpawnChunks] Freed 103 mb!
