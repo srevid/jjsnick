@@ -389,3 +389,21 @@
 [22:50:57] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [22:50:57] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
 [22:50:58] [Server thread/INFO]: [NoSpawnChunks] Freed 113 mb!
+[23:06:21] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[23:06:21] [Server thread/INFO]: [NoSpawnChunks] Unloaded 1 chunks. Took 2 ms.
+[23:06:22] [Server thread/INFO]: [NoSpawnChunks] Freed 278 mb!
+[23:21:38] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[23:21:38] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[23:21:39] [Server thread/INFO]: [NoSpawnChunks] Freed 301 mb!
+[23:36:57] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[23:36:57] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[23:36:58] [Server thread/INFO]: [NoSpawnChunks] Freed 54 mb!
+[23:48:41] [Server thread/INFO]: gripette lost connection: Disconnected
+[23:48:41] [Server thread/INFO]: gripette left the game.
+[23:49:04] [User Authenticator #24/INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
+[23:49:04] [Server thread/INFO]: gripette[/192.222.201.105:55705] logged in with entity id 2492586 at ([J]-1235.566237455347, 40.0, 1317.385399101555)
+[23:49:06] [Server thread/INFO]: snickk issued server command: /tp gripette -1263 63 1334
+[23:49:06] [Server thread/INFO]: [snickk: Teleported gripette to -1262.5, 63.0, 1334.5]
+[23:52:11] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[23:52:11] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[23:52:12] [Server thread/INFO]: [NoSpawnChunks] Freed 75 mb!
