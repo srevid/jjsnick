@@ -3345,3 +3345,19 @@ Loading libraries, please wait...
 [12:54:35 INFO]: [NoSpawnChunks] Unloading chunks...
 [12:54:35 INFO]: [NoSpawnChunks] Unloaded 76 chunks. Took 17 ms.
 [12:54:35 INFO]: [NoSpawnChunks] Freed 190 mb!
+[13:09:49 INFO]: [NoSpawnChunks] Unloading chunks...
+[13:09:49 INFO]: [NoSpawnChunks] Unloaded 59 chunks. Took 28 ms.
+[13:09:50 INFO]: [NoSpawnChunks] Freed 184 mb!
+[13:25:01 INFO]: [NoSpawnChunks] Unloading chunks...
+[13:25:01 INFO]: [NoSpawnChunks] Unloaded 35 chunks. Took 11 ms.
+[13:25:02 INFO]: [NoSpawnChunks] Freed 200 mb!
+[13:40:15 INFO]: [NoSpawnChunks] Unloading chunks...
+[13:40:15 INFO]: [NoSpawnChunks] Unloaded 76 chunks. Took 23 ms.
+[13:40:15 INFO]: [NoSpawnChunks] Freed 279 mb!
+[13:42:15 INFO]: UUID of player devil_biker is 85c51cb3-e66f-4ef3-8e82-7da7a758ceb4
+[13:42:15 INFO]: devil_biker[/173.179.217.109:52199] logged in with entity id 3807638 at ([J]-196.3363293698157, 75.0, 262.2816063005645)
+[13:52:15 INFO]: UUID of player Nini_07 is 22906e7d-06cc-432b-9f63-840eefc57a98
+[13:52:16 INFO]: Nini_07[/173.179.217.109:49219] logged in with entity id 3822646 at ([J]-191.0312330105883, 71.0, 258.7885396360516)
+[13:55:32 INFO]: [NoSpawnChunks] Unloading chunks...
+[13:55:32 INFO]: [NoSpawnChunks] Unloaded 30 chunks. Took 8 ms.
+[13:55:33 INFO]: [NoSpawnChunks] Freed 187 mb!
