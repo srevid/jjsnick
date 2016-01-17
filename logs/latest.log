@@ -23,3 +23,21 @@
 [01:54:53] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [01:54:53] [Server thread/INFO]: [NoSpawnChunks] Unloaded 47 chunks. Took 12 ms.
 [01:54:54] [Server thread/INFO]: [NoSpawnChunks] Freed 217 mb!
+[02:10:16] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[02:10:16] [Server thread/INFO]: [NoSpawnChunks] Unloaded 69 chunks. Took 17 ms.
+[02:10:17] [Server thread/INFO]: [NoSpawnChunks] Freed 303 mb!
+[02:17:54] [Server thread/INFO]: srevid lost connection: Disconnected
+[02:17:54] [Server thread/INFO]: srevid left the game.
+[02:18:38] [Server thread/INFO]: snickk lost connection: Disconnected
+[02:18:38] [Server thread/INFO]: snickk left the game.
+[02:21:57] [Server thread/INFO]: gripette lost connection: Disconnected
+[02:21:57] [Server thread/INFO]: gripette left the game.
+[02:25:38] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[02:25:38] [Server thread/INFO]: [NoSpawnChunks] Unloaded 230 chunks. Took 96 ms.
+[02:25:39] [Server thread/INFO]: [NoSpawnChunks] Freed 310 mb!
+[02:41:03] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[02:41:03] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[02:41:03] [Server thread/INFO]: [NoSpawnChunks] Freed 44 mb!
+[02:56:20] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[02:56:20] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[02:56:21] [Server thread/INFO]: [NoSpawnChunks] Freed 66 mb!
