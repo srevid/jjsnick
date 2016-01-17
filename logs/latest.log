@@ -9,3 +9,17 @@
 [00:53:24] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [00:53:24] [Server thread/INFO]: [NoSpawnChunks] Unloaded 1 chunks. Took 2 ms.
 [00:53:25] [Server thread/INFO]: [NoSpawnChunks] Freed 102 mb!
+[01:08:40] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[01:08:40] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[01:08:41] [Server thread/INFO]: [NoSpawnChunks] Freed 38 mb!
+[01:23:57] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[01:23:57] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[01:23:58] [Server thread/INFO]: [NoSpawnChunks] Freed 134 mb!
+[01:39:18] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[01:39:18] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[01:39:20] [Server thread/INFO]: [NoSpawnChunks] Freed 282 mb!
+[01:43:38] [Server thread/WARN]: srevid moved too quickly! 0.3561839438646075,0.007241842709881041,-11.055496578329667 (0.3561839438646075, 0.007241842709881041, -11.055496578329667)
+[01:50:13] [Server thread/WARN]: gripette moved wrongly!
+[01:54:53] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[01:54:53] [Server thread/INFO]: [NoSpawnChunks] Unloaded 47 chunks. Took 12 ms.
+[01:54:54] [Server thread/INFO]: [NoSpawnChunks] Freed 217 mb!
