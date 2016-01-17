@@ -217,3 +217,52 @@
 [14:56:36] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [14:56:36] [Server thread/INFO]: [NoSpawnChunks] Unloaded 100 chunks. Took 21 ms.
 [14:56:37] [Server thread/INFO]: [NoSpawnChunks] Freed 158 mb!
+[15:02:52] [Async Chat Thread - #42/INFO]: <snickk> quelqu'un veut du steak? j'en ai 24*64
+[15:03:16] [Async Chat Thread - #42/INFO]: <Nini_07> je dirais pas non, pas nécessairement autant par contre
+[15:04:07] [Async Chat Thread - #42/INFO]: <Nini_07> merci!!!
+[15:04:17] [Async Chat Thread - #42/INFO]: <snickk> je me suis permis dutiliser ton jardin pour mettre plus de blé hehe
+[15:04:27] [Async Chat Thread - #42/INFO]: <Nini_07> ahhh cetait toi?!
+[15:04:29] [Async Chat Thread - #42/INFO]: <snickk> fais en ce que tu veux
+[15:04:41] [Async Chat Thread - #42/INFO]: <Nini_07> comment on fait pour faire pousser de la canne a sucre et du melon deau?
+[15:04:44] [Async Chat Thread - #42/INFO]: <snickk> ouais je ramasse votre blé quand vous etes pas la :P
+[15:05:04] [Async Chat Thread - #42/INFO]: <snickk> canne a sucre faut juste ce soit a coté de leau (pas en diagonale)
+[15:05:11] [Async Chat Thread - #42/INFO]: <snickk> et melon deau je ne sais pas
+[15:05:41] [Async Chat Thread - #42/INFO]: <Nini_07> hein, pas en diagonale? je suis pas sure de comprendre
+[15:06:10] [Async Chat Thread - #42/INFO]: <snickk> ten a?
+[15:06:14] [Async Chat Thread - #42/INFO]: <Nini_07> 2
+[15:06:39] [Async Chat Thread - #42/INFO]: <snickk> les 4 spots autour de leau
+[15:06:53] [Async Chat Thread - #42/INFO]: <Nini_07> merci!
+[15:06:56] [Async Chat Thread - #42/INFO]: <snickk> ici marche pas
+[15:07:34] [Async Chat Thread - #42/INFO]: <snickk> aussi tas pas besoin dautant deau. mon blé pousse jusqua 4 blocs de distance de leau
+[15:07:37] [Async Chat Thread - #42/INFO]: <snickk> ;)
+[15:11:55] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[15:11:55] [Server thread/INFO]: [NoSpawnChunks] Unloaded 24 chunks. Took 7 ms.
+[15:11:56] [Server thread/INFO]: [NoSpawnChunks] Freed 164 mb!
+[15:27:17] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[15:27:17] [Server thread/INFO]: [NoSpawnChunks] Unloaded 80 chunks. Took 21 ms.
+[15:27:17] [Server thread/INFO]: [NoSpawnChunks] Freed 152 mb!
+[15:33:35] [User Authenticator #33/INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
+[15:33:35] [Server thread/INFO]: snickk lost connection: You logged in from another location
+[15:33:35] [Server thread/INFO]: snickk left the game.
+[15:33:35] [Server thread/INFO]: snickk[/198.48.196.61:58745] logged in with entity id 3958587 at ([J]47.53517669007601, 11.0, 226.30000001192096)
+[15:33:35] [Server thread/WARN]: handleDisconnection() called twice
+[15:34:16] [User Authenticator #34/INFO]: UUID of player Spy00 is 9d5dfa3b-f839-4761-8a34-80d123ac6e92
+[15:34:16] [Server thread/INFO]: Spy00[/70.82.243.105:45742] logged in with entity id 3959500 at ([J]-193.08923844050648, 75.0, 295.6824578986654)
+[15:34:52] [Async Chat Thread - #43/INFO]: <Spy00> salut !
+[15:34:56] [Async Chat Thread - #43/INFO]: <snickk> hello!
+[15:34:59] [Async Chat Thread - #43/INFO]: <devil_biker> salut
+[15:36:50] [Async Chat Thread - #44/INFO]: <Spy00> un zombie avec une épée ...
+[15:37:08] [Async Chat Thread - #44/INFO]: <snickk> ouais ils ont des items desfois, peut meme etre magique
+[15:37:23] [Async Chat Thread - #44/INFO]: <Spy00> ils les drop de temps en temps?
+[15:37:27] [Async Chat Thread - #44/INFO]: <snickk> aussi ils ramassent les items sur le sol. fak tu peux leur donner nimporte quoi hehe
+[15:37:35] [Async Chat Thread - #44/INFO]: <snickk> ouais mais cest rare
+[15:42:34] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[15:42:34] [Server thread/INFO]: [NoSpawnChunks] Unloaded 38 chunks. Took 9 ms.
+[15:42:35] [Server thread/INFO]: [NoSpawnChunks] Freed 256 mb!
+[15:49:10] [Server thread/INFO]: Spy00 lost connection: Timed out
+[15:49:10] [Server thread/INFO]: Spy00 left the game.
+[15:49:32] [User Authenticator #35/INFO]: UUID of player Spy00 is 9d5dfa3b-f839-4761-8a34-80d123ac6e92
+[15:49:32] [Server thread/INFO]: Spy00[/70.82.243.105:45745] logged in with entity id 3979049 at ([J]-93.8831499835701, 10.0, 347.48486517848863)
+[15:57:54] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[15:57:54] [Server thread/INFO]: [NoSpawnChunks] Unloaded 16 chunks. Took 5 ms.
+[15:57:55] [Server thread/INFO]: [NoSpawnChunks] Freed 266 mb!
