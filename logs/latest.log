@@ -313,3 +313,18 @@
 [17:59:03] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
 [17:59:03] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 21 ms.
 [17:59:04] [Server thread/INFO]: [NoSpawnChunks] Freed 260 mb!
+[18:14:16] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[18:14:16] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[18:14:16] [Server thread/INFO]: [NoSpawnChunks] Freed 111 mb!
+[18:29:31] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[18:29:31] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[18:29:32] [Server thread/INFO]: [NoSpawnChunks] Freed 210 mb!
+[18:44:44] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[18:44:44] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[18:44:45] [Server thread/INFO]: [NoSpawnChunks] Freed 240 mb!
+[18:57:52] [User Authenticator #19/INFO]: UUID of player devil_biker is 85c51cb3-e66f-4ef3-8e82-7da7a758ceb4
+[18:57:52] [Server thread/INFO]: devil_biker[/173.178.244.150:52761] logged in with entity id 2034389 at ([J]-198.35590306656403, 71.0, 264.50168742832545)
+[18:58:10] [Server thread/WARN]: devil_biker moved wrongly!
+[18:59:57] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[18:59:57] [Server thread/INFO]: [NoSpawnChunks] Unloaded 28 chunks. Took 17 ms.
+[18:59:58] [Server thread/INFO]: [NoSpawnChunks] Freed 129 mb!
