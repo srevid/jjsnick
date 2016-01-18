@@ -3629,3 +3629,972 @@ Loading libraries, please wait...
 [19:46:36 INFO]: [NoSpawnChunks] Unloading chunks...
 [19:46:36 INFO]: [NoSpawnChunks] Unloaded 20 chunks. Took 6 ms.
 [19:46:36 INFO]: [NoSpawnChunks] Freed 283 mb!
+[20:01:49 INFO]: [NoSpawnChunks] Unloading chunks...
+[20:01:49 INFO]: [NoSpawnChunks] Unloaded 58 chunks. Took 20 ms.
+[20:01:50 INFO]: [NoSpawnChunks] Freed 209 mb!
+[20:17:06 INFO]: [NoSpawnChunks] Unloading chunks...
+[20:17:06 INFO]: [NoSpawnChunks] Unloaded 76 chunks. Took 24 ms.
+[20:17:07 INFO]: [NoSpawnChunks] Freed 331 mb!
+[20:22:03 INFO]: <snickk> ca avance votre truc?
+[20:23:51 INFO]: <srevid> att
+[20:23:52 INFO]: gripette lost connection: Disconnected
+[20:23:52 INFO]: gripette left the game.
+[20:23:53 INFO]: srevid lost connection: Disconnected
+[20:23:53 INFO]: srevid left the game.
+[20:27:19 INFO]: snickk issued server command: /give snickk block_quartz 50
+[20:27:19 INFO]: [snickk: There is no such item with name minecraft:block_quartz]
+[20:28:27 INFO]: snickk lost connection: Disconnected
+[20:28:27 INFO]: snickk left the game.
+[20:30:12 INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
+[20:30:12 INFO]: snickk[/198.48.196.61:60467] logged in with entity id 4495248 at ([J]-221.9964158429136, 83.0, 307.100967708014)
+[20:32:16 INFO]: [NoSpawnChunks] Unloading chunks...
+[20:32:16 INFO]: [NoSpawnChunks] Unloaded 98 chunks. Took 34 ms.
+[20:32:16 INFO]: [NoSpawnChunks] Freed 175 mb!
+Loading libraries, please wait...
+[20:35:03 INFO]: Starting minecraft server version 1.8.8
+[20:35:03 INFO]: Loading properties
+[20:35:03 INFO]: Default game type: SURVIVAL
+[20:35:03 INFO]: This server is running CraftBukkit version git-Spigot-fdc1440-53fac9f (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[20:35:03 INFO]: Server Ping Player Sample Count: 12
+[20:35:03 INFO]: Using 4 threads for Netty based IO
+[20:35:03 INFO]: Debug logging is disabled
+[20:35:03 INFO]: Generating keypair
+[20:35:04 INFO]: Starting Minecraft server on *:25565
+[20:35:04 INFO]: Using epoll channel type
+[20:35:05 INFO]: Set PluginClassLoader as parallel capable
+[20:35:05 INFO]: [dynmap] Loading dynmap v2.2-SNAPSHOT-1106
+[20:35:05 INFO]: [dynmap] version=git-Spigot-fdc1440-53fac9f (MC: 1.8.8)
+[20:35:05 INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[20:35:05 INFO]: [dynmap] Mod Support API available
+[20:35:05 INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0 (Build 142)
+[20:35:05 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:35:05 INFO]: Preparing level "J"
+[20:35:05 INFO]: -------- World Settings For [J] --------
+[20:35:05 INFO]: Cactus Growth Modifier: 100%
+[20:35:05 INFO]: Cane Growth Modifier: 100%
+[20:35:05 INFO]: Melon Growth Modifier: 100%
+[20:35:05 INFO]: Mushroom Growth Modifier: 100%
+[20:35:05 INFO]: Pumpkin Growth Modifier: 100%
+[20:35:05 INFO]: Sapling Growth Modifier: 100%
+[20:35:05 INFO]: Wheat Growth Modifier: 100%
+[20:35:05 INFO]: NetherWart Growth Modifier: 100%
+[20:35:05 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:35:05 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:35:05 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:35:05 INFO]: Random Lighting Updates: false
+[20:35:05 INFO]: Anti X-Ray: false
+[20:35:05 INFO]: 	Engine Mode: 1
+[20:35:05 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:35:05 INFO]: 	Replace Blocks: [1, 5]
+[20:35:05 INFO]: Nerfing mobs spawned from spawners: false
+[20:35:05 INFO]: Mob Spawn Range: 4
+[20:35:05 INFO]: Structure Info Saving: true
+[20:35:05 INFO]: Sending up to 10 chunks per packet
+[20:35:05 INFO]: Max Entity Collisions: 8
+[20:35:05 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:35:05 INFO]: Max TNT Explosions: 100
+[20:35:05 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:35:05 INFO]: Item Despawn Rate: 6000
+[20:35:05 INFO]: Item Merge Radius: 2.5
+[20:35:05 INFO]: Arrow Despawn Rate: 1200
+[20:35:05 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:35:05 INFO]: View Distance: 4
+[20:35:05 INFO]: Zombie Aggressive Towards Villager: true
+[20:35:05 INFO]: Chunks to Grow per Tick: 450
+[20:35:05 INFO]: Clear tick list: false
+[20:35:05 INFO]: Experience Merge Radius: 3.0
+[20:35:05 INFO]: -------- World Settings For [J_nether] --------
+[20:35:05 INFO]: Cactus Growth Modifier: 100%
+[20:35:05 INFO]: Cane Growth Modifier: 100%
+[20:35:05 INFO]: Melon Growth Modifier: 100%
+[20:35:05 INFO]: Mushroom Growth Modifier: 100%
+[20:35:05 INFO]: Pumpkin Growth Modifier: 100%
+[20:35:05 INFO]: Sapling Growth Modifier: 100%
+[20:35:05 INFO]: Wheat Growth Modifier: 100%
+[20:35:05 INFO]: NetherWart Growth Modifier: 100%
+[20:35:05 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:35:05 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:35:05 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:35:05 INFO]: Random Lighting Updates: false
+[20:35:05 INFO]: Anti X-Ray: false
+[20:35:05 INFO]: 	Engine Mode: 1
+[20:35:05 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:35:05 INFO]: 	Replace Blocks: [1, 5]
+[20:35:05 INFO]: Nerfing mobs spawned from spawners: false
+[20:35:05 INFO]: Mob Spawn Range: 4
+[20:35:05 INFO]: Structure Info Saving: true
+[20:35:05 INFO]: Sending up to 10 chunks per packet
+[20:35:05 INFO]: Max Entity Collisions: 8
+[20:35:05 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:35:05 INFO]: Max TNT Explosions: 100
+[20:35:05 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:35:05 INFO]: Item Despawn Rate: 6000
+[20:35:05 INFO]: Item Merge Radius: 2.5
+[20:35:05 INFO]: Arrow Despawn Rate: 1200
+[20:35:05 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:35:05 INFO]: View Distance: 4
+[20:35:05 INFO]: Zombie Aggressive Towards Villager: true
+[20:35:05 INFO]: Chunks to Grow per Tick: 450
+[20:35:05 INFO]: Clear tick list: false
+[20:35:05 INFO]: Experience Merge Radius: 3.0
+[20:35:05 INFO]: -------- World Settings For [J_the_end] --------
+[20:35:05 INFO]: Cactus Growth Modifier: 100%
+[20:35:05 INFO]: Cane Growth Modifier: 100%
+[20:35:05 INFO]: Melon Growth Modifier: 100%
+[20:35:05 INFO]: Mushroom Growth Modifier: 100%
+[20:35:05 INFO]: Pumpkin Growth Modifier: 100%
+[20:35:05 INFO]: Sapling Growth Modifier: 100%
+[20:35:05 INFO]: Wheat Growth Modifier: 100%
+[20:35:05 INFO]: NetherWart Growth Modifier: 100%
+[20:35:05 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:35:05 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:35:05 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:35:05 INFO]: Random Lighting Updates: false
+[20:35:05 INFO]: Anti X-Ray: false
+[20:35:05 INFO]: 	Engine Mode: 1
+[20:35:05 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:35:05 INFO]: 	Replace Blocks: [1, 5]
+[20:35:05 INFO]: Nerfing mobs spawned from spawners: false
+[20:35:05 INFO]: Mob Spawn Range: 4
+[20:35:05 INFO]: Structure Info Saving: true
+[20:35:05 INFO]: Sending up to 10 chunks per packet
+[20:35:05 INFO]: Max Entity Collisions: 8
+[20:35:05 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:35:05 INFO]: Max TNT Explosions: 100
+[20:35:05 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:35:05 INFO]: Item Despawn Rate: 6000
+[20:35:05 INFO]: Item Merge Radius: 2.5
+[20:35:05 INFO]: Arrow Despawn Rate: 1200
+[20:35:05 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:35:05 INFO]: View Distance: 4
+[20:35:05 INFO]: Zombie Aggressive Towards Villager: true
+[20:35:05 INFO]: Chunks to Grow per Tick: 450
+[20:35:05 INFO]: Clear tick list: false
+[20:35:05 INFO]: Experience Merge Radius: 3.0
+[20:35:05 INFO]: Preparing start region for level 0 (Seed: 7936026946858735291)
+[20:35:06 INFO]: Preparing spawn area: 17%
+[20:35:07 INFO]: Preparing spawn area: 58%
+[20:35:08 INFO]: Preparing start region for level 1 (Seed: 7936026946858735291)
+[20:35:11 INFO]: Preparing spawn area: 55%
+[20:35:11 INFO]: Preparing start region for level 2 (Seed: 7936026946858735291)
+[20:35:12 INFO]: Preparing spawn area: 9%
+[20:35:13 INFO]: Preparing spawn area: 29%
+[20:35:13 INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
+[20:35:14 INFO]: Preparing spawn area: 51%
+[20:35:15 INFO]: [dynmap] Enabling dynmap v2.2-SNAPSHOT-1106
+[20:35:15 INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[20:35:15 INFO]: [dynmap] Web interface permissions only available for online users
+[20:35:15 INFO]: [dynmap] Mod Support processing completed
+[20:35:17 INFO]: [dynmap] Loaded 23 shaders.
+[20:35:17 INFO]: [dynmap] Loaded 82 perspectives.
+[20:35:17 INFO]: [dynmap] Loaded 14 lightings.
+[20:35:18 INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[20:35:18 INFO]: [dynmap] version 2.2-SNAPSHOT-1106 is enabled - core version 2.2-SNAPSHOT-2044
+[20:35:18 INFO]: [dynmap] Loaded 3 maps of world 'J'.
+[20:35:18 INFO]: [dynmap] Loaded 136 pending tile renders for world 'J'
+[20:35:18 INFO]: [dynmap] Loaded 2 maps of world 'J_nether'.
+[20:35:18 INFO]: [dynmap] Loaded 56 pending tile renders for world 'J_nether'
+[20:35:18 INFO]: [dynmap] Loaded 2 maps of world 'J_the_end'.
+[20:35:18 INFO]: [dynmap] Enabled
+[20:35:18 INFO]: [NoSpawnChunks] Enabling NoSpawnChunks v2.0 (Build 142)
+[20:35:18 INFO]: [NoSpawnChunks] NoSpawnChunks v2.0 (Build 142) has been enabled. Took 12 ms.
+[20:35:18 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:35:18 INFO]: Done (13.233s)! For help, type "help" or "?"
+[20:35:19 INFO]: snickk[/198.48.196.61:60523] logged in with entity id 889 at ([J]-220.86169165233912, 83.0, 305.0285993222529)
+[20:35:19 INFO]: [dynmap] Loading default resource pack
+[20:35:21 INFO]: [NoSpawnChunks] Unloading chunks...
+[20:35:23 INFO]: [NoSpawnChunks] Unloaded 1,794 chunks. Took 1,961 ms.
+[20:35:23 INFO]: [NoSpawnChunks] Freed 5 mb!
+[20:36:05 INFO]: snickk lost connection: Disconnected
+[20:36:05 INFO]: snickk left the game.
+Loading libraries, please wait...
+[20:42:01 INFO]: Starting minecraft server version 1.8.8
+[20:42:01 INFO]: Loading properties
+[20:42:01 INFO]: Default game type: SURVIVAL
+[20:42:01 INFO]: This server is running CraftBukkit version git-Spigot-fdc1440-53fac9f (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[20:42:02 INFO]: Server Ping Player Sample Count: 12
+[20:42:02 INFO]: Using 4 threads for Netty based IO
+[20:42:02 INFO]: Debug logging is disabled
+[20:42:02 INFO]: Generating keypair
+[20:42:02 INFO]: Starting Minecraft server on *:25565
+[20:42:02 INFO]: Using epoll channel type
+[20:42:02 WARN]: **** FAILED TO BIND TO PORT!
+[20:42:02 WARN]: The exception was: java.io.IOException: Error during bind(...): Address already in use
+[20:42:02 WARN]: Perhaps a server is already running on that port?
+[20:42:02 INFO]: Stopping server
+[20:42:02 INFO]: Saving players
+Loading libraries, please wait...
+[20:46:08 INFO]: Starting minecraft server version 1.8.8
+[20:46:08 INFO]: Loading properties
+[20:46:08 INFO]: Default game type: SURVIVAL
+[20:46:08 INFO]: This server is running CraftBukkit version git-Spigot-fdc1440-53fac9f (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[20:46:09 INFO]: Server Ping Player Sample Count: 12
+[20:46:09 INFO]: Using 4 threads for Netty based IO
+[20:46:09 INFO]: Debug logging is disabled
+[20:46:09 INFO]: Generating keypair
+[20:46:09 INFO]: Starting Minecraft server on *:25565
+[20:46:09 INFO]: Using epoll channel type
+[20:46:10 INFO]: Set PluginClassLoader as parallel capable
+[20:46:10 INFO]: [dynmap] Loading dynmap v2.2-SNAPSHOT-1106
+[20:46:10 INFO]: [dynmap] version=git-Spigot-fdc1440-53fac9f (MC: 1.8.8)
+[20:46:10 INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[20:46:10 INFO]: [dynmap] Mod Support API available
+[20:46:10 INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0 (Build 142)
+[20:46:10 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:46:10 INFO]: Preparing level "J"
+[20:46:10 INFO]: -------- World Settings For [J] --------
+[20:46:10 INFO]: Cactus Growth Modifier: 100%
+[20:46:10 INFO]: Cane Growth Modifier: 100%
+[20:46:10 INFO]: Melon Growth Modifier: 100%
+[20:46:10 INFO]: Mushroom Growth Modifier: 100%
+[20:46:10 INFO]: Pumpkin Growth Modifier: 100%
+[20:46:10 INFO]: Sapling Growth Modifier: 100%
+[20:46:10 INFO]: Wheat Growth Modifier: 100%
+[20:46:10 INFO]: NetherWart Growth Modifier: 100%
+[20:46:10 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:46:10 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:46:10 INFO]: Anti X-Ray: false
+[20:46:10 INFO]: 	Engine Mode: 1
+[20:46:10 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:46:10 INFO]: 	Replace Blocks: [1, 5]
+[20:46:10 INFO]: Nerfing mobs spawned from spawners: false
+[20:46:10 INFO]: Mob Spawn Range: 4
+[20:46:10 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:46:10 INFO]: Random Lighting Updates: false
+[20:46:10 INFO]: Structure Info Saving: true
+[20:46:10 INFO]: Sending up to 10 chunks per packet
+[20:46:10 INFO]: Max Entity Collisions: 8
+[20:46:10 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:46:10 INFO]: Max TNT Explosions: 100
+[20:46:10 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:46:10 INFO]: Item Despawn Rate: 6000
+[20:46:10 INFO]: Item Merge Radius: 2.5
+[20:46:10 INFO]: Arrow Despawn Rate: 1200
+[20:46:10 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:46:10 INFO]: View Distance: 4
+[20:46:10 INFO]: Zombie Aggressive Towards Villager: true
+[20:46:10 INFO]: Chunks to Grow per Tick: 450
+[20:46:10 INFO]: Clear tick list: false
+[20:46:10 INFO]: Experience Merge Radius: 3.0
+[20:46:10 INFO]: -------- World Settings For [J_nether] --------
+[20:46:10 INFO]: Cactus Growth Modifier: 100%
+[20:46:10 INFO]: Cane Growth Modifier: 100%
+[20:46:10 INFO]: Melon Growth Modifier: 100%
+[20:46:10 INFO]: Mushroom Growth Modifier: 100%
+[20:46:10 INFO]: Pumpkin Growth Modifier: 100%
+[20:46:10 INFO]: Sapling Growth Modifier: 100%
+[20:46:10 INFO]: Wheat Growth Modifier: 100%
+[20:46:10 INFO]: NetherWart Growth Modifier: 100%
+[20:46:10 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:46:10 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:46:10 INFO]: Anti X-Ray: false
+[20:46:10 INFO]: 	Engine Mode: 1
+[20:46:10 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:46:10 INFO]: 	Replace Blocks: [1, 5]
+[20:46:10 INFO]: Nerfing mobs spawned from spawners: false
+[20:46:10 INFO]: Mob Spawn Range: 4
+[20:46:10 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:46:10 INFO]: Random Lighting Updates: false
+[20:46:10 INFO]: Structure Info Saving: true
+[20:46:10 INFO]: Sending up to 10 chunks per packet
+[20:46:10 INFO]: Max Entity Collisions: 8
+[20:46:10 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:46:10 INFO]: Max TNT Explosions: 100
+[20:46:10 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:46:10 INFO]: Item Despawn Rate: 6000
+[20:46:10 INFO]: Item Merge Radius: 2.5
+[20:46:10 INFO]: Arrow Despawn Rate: 1200
+[20:46:10 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:46:10 INFO]: View Distance: 4
+[20:46:10 INFO]: Zombie Aggressive Towards Villager: true
+[20:46:10 INFO]: Chunks to Grow per Tick: 450
+[20:46:10 INFO]: Clear tick list: false
+[20:46:10 INFO]: Experience Merge Radius: 3.0
+[20:46:10 INFO]: -------- World Settings For [J_the_end] --------
+[20:46:10 INFO]: Cactus Growth Modifier: 100%
+[20:46:10 INFO]: Cane Growth Modifier: 100%
+[20:46:10 INFO]: Melon Growth Modifier: 100%
+[20:46:10 INFO]: Mushroom Growth Modifier: 100%
+[20:46:10 INFO]: Pumpkin Growth Modifier: 100%
+[20:46:10 INFO]: Sapling Growth Modifier: 100%
+[20:46:10 INFO]: Wheat Growth Modifier: 100%
+[20:46:10 INFO]: NetherWart Growth Modifier: 100%
+[20:46:10 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:46:10 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:46:10 INFO]: Anti X-Ray: false
+[20:46:10 INFO]: 	Engine Mode: 1
+[20:46:10 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:46:10 INFO]: 	Replace Blocks: [1, 5]
+[20:46:10 INFO]: Nerfing mobs spawned from spawners: false
+[20:46:10 INFO]: Mob Spawn Range: 4
+[20:46:10 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:46:10 INFO]: Random Lighting Updates: false
+[20:46:10 INFO]: Structure Info Saving: true
+[20:46:10 INFO]: Sending up to 10 chunks per packet
+[20:46:10 INFO]: Max Entity Collisions: 8
+[20:46:10 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:46:10 INFO]: Max TNT Explosions: 100
+[20:46:10 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:46:10 INFO]: Item Despawn Rate: 6000
+[20:46:10 INFO]: Item Merge Radius: 2.5
+[20:46:10 INFO]: Arrow Despawn Rate: 1200
+[20:46:10 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:46:10 INFO]: View Distance: 4
+[20:46:10 INFO]: Zombie Aggressive Towards Villager: true
+[20:46:10 INFO]: Chunks to Grow per Tick: 450
+[20:46:10 INFO]: Clear tick list: false
+[20:46:10 INFO]: Experience Merge Radius: 3.0
+[20:46:10 INFO]: Preparing start region for level 0 (Seed: 7936026946858735291)
+[20:46:11 INFO]: Preparing spawn area: 16%
+[20:46:12 INFO]: Preparing spawn area: 43%
+[20:46:13 INFO]: Preparing spawn area: 77%
+[20:46:13 INFO]: Preparing start region for level 1 (Seed: 7936026946858735291)
+[20:46:15 INFO]: Preparing spawn area: 75%
+[20:46:15 INFO]: Preparing start region for level 2 (Seed: 7936026946858735291)
+[20:46:15 INFO]: [dynmap] Enabling dynmap v2.2-SNAPSHOT-1106
+[20:46:15 INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[20:46:15 INFO]: [dynmap] Web interface permissions only available for online users
+[20:46:15 INFO]: [dynmap] Mod Support processing completed
+[20:46:16 INFO]: [dynmap] Loaded 23 shaders.
+[20:46:16 INFO]: [dynmap] Loaded 82 perspectives.
+[20:46:16 INFO]: [dynmap] Loaded 14 lightings.
+[20:46:16 INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[20:46:16 INFO]: [dynmap] version 2.2-SNAPSHOT-1106 is enabled - core version 2.2-SNAPSHOT-2044
+[20:46:16 INFO]: [dynmap] Loaded 3 maps of world 'J'.
+[20:46:17 INFO]: [dynmap] Loaded 49 pending tile renders for world 'J'
+[20:46:17 INFO]: [dynmap] Loaded 2 maps of world 'J_nether'.
+[20:46:17 INFO]: [dynmap] Loaded 2 maps of world 'J_the_end'.
+[20:46:17 INFO]: [dynmap] Enabled
+[20:46:17 INFO]: [NoSpawnChunks] Enabling NoSpawnChunks v2.0 (Build 142)
+[20:46:17 INFO]: [NoSpawnChunks] NoSpawnChunks v2.0 (Build 142) has been enabled. Took 8 ms.
+[20:46:17 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:46:17 INFO]: Done (6.684s)! For help, type "help" or "?"
+[20:46:17 INFO]: [dynmap] Loading default resource pack
+[20:46:20 INFO]: [NoSpawnChunks] Unloading chunks...
+[20:46:24 INFO]: [NoSpawnChunks] Unloaded 1,875 chunks. Took 4,098 ms.
+[20:46:24 INFO]: [NoSpawnChunks] Freed 188 mb!
+[20:46:31 INFO]: Stopping server
+Loading libraries, please wait...
+[20:46:47 INFO]: Starting minecraft server version 1.8.8
+[20:46:47 INFO]: Loading properties
+[20:46:47 INFO]: Default game type: SURVIVAL
+[20:46:47 INFO]: This server is running CraftBukkit version git-Spigot-fdc1440-53fac9f (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[20:46:47 INFO]: Server Ping Player Sample Count: 12
+[20:46:47 INFO]: Using 4 threads for Netty based IO
+[20:46:47 INFO]: Debug logging is disabled
+[20:46:47 INFO]: Generating keypair
+[20:46:48 INFO]: Starting Minecraft server on *:25565
+[20:46:48 INFO]: Using epoll channel type
+[20:46:48 INFO]: Set PluginClassLoader as parallel capable
+[20:46:48 INFO]: [dynmap] Loading dynmap v2.2-SNAPSHOT-1106
+[20:46:48 INFO]: [dynmap] version=git-Spigot-fdc1440-53fac9f (MC: 1.8.8)
+[20:46:48 INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[20:46:48 INFO]: [dynmap] Mod Support API available
+[20:46:48 INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0 (Build 142)
+[20:46:48 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:46:48 INFO]: Preparing level "J"
+[20:46:48 INFO]: -------- World Settings For [J] --------
+[20:46:48 INFO]: Nerfing mobs spawned from spawners: false
+[20:46:48 INFO]: Cactus Growth Modifier: 100%
+[20:46:48 INFO]: Cane Growth Modifier: 100%
+[20:46:48 INFO]: Melon Growth Modifier: 100%
+[20:46:48 INFO]: Mushroom Growth Modifier: 100%
+[20:46:48 INFO]: Pumpkin Growth Modifier: 100%
+[20:46:48 INFO]: Sapling Growth Modifier: 100%
+[20:46:48 INFO]: Wheat Growth Modifier: 100%
+[20:46:48 INFO]: NetherWart Growth Modifier: 100%
+[20:46:48 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:46:48 INFO]: Mob Spawn Range: 4
+[20:46:48 INFO]: Anti X-Ray: false
+[20:46:48 INFO]: 	Engine Mode: 1
+[20:46:48 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:46:48 INFO]: 	Replace Blocks: [1, 5]
+[20:46:48 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:46:48 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:46:48 INFO]: Random Lighting Updates: false
+[20:46:48 INFO]: Structure Info Saving: true
+[20:46:48 INFO]: Sending up to 10 chunks per packet
+[20:46:48 INFO]: Max Entity Collisions: 8
+[20:46:48 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:46:48 INFO]: Max TNT Explosions: 100
+[20:46:48 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:46:48 INFO]: Item Despawn Rate: 6000
+[20:46:48 INFO]: Item Merge Radius: 2.5
+[20:46:48 INFO]: Arrow Despawn Rate: 1200
+[20:46:48 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:46:48 INFO]: View Distance: 4
+[20:46:48 INFO]: Zombie Aggressive Towards Villager: true
+[20:46:48 INFO]: Chunks to Grow per Tick: 450
+[20:46:48 INFO]: Clear tick list: false
+[20:46:48 INFO]: Experience Merge Radius: 3.0
+[20:46:48 INFO]: -------- World Settings For [J_nether] --------
+[20:46:48 INFO]: Nerfing mobs spawned from spawners: false
+[20:46:48 INFO]: Cactus Growth Modifier: 100%
+[20:46:48 INFO]: Cane Growth Modifier: 100%
+[20:46:48 INFO]: Melon Growth Modifier: 100%
+[20:46:48 INFO]: Mushroom Growth Modifier: 100%
+[20:46:48 INFO]: Pumpkin Growth Modifier: 100%
+[20:46:48 INFO]: Sapling Growth Modifier: 100%
+[20:46:48 INFO]: Wheat Growth Modifier: 100%
+[20:46:48 INFO]: NetherWart Growth Modifier: 100%
+[20:46:48 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:46:48 INFO]: Mob Spawn Range: 4
+[20:46:48 INFO]: Anti X-Ray: false
+[20:46:48 INFO]: 	Engine Mode: 1
+[20:46:48 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:46:48 INFO]: 	Replace Blocks: [1, 5]
+[20:46:48 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:46:48 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:46:48 INFO]: Random Lighting Updates: false
+[20:46:48 INFO]: Structure Info Saving: true
+[20:46:48 INFO]: Sending up to 10 chunks per packet
+[20:46:48 INFO]: Max Entity Collisions: 8
+[20:46:48 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:46:48 INFO]: Max TNT Explosions: 100
+[20:46:48 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:46:48 INFO]: Item Despawn Rate: 6000
+[20:46:48 INFO]: Item Merge Radius: 2.5
+[20:46:48 INFO]: Arrow Despawn Rate: 1200
+[20:46:48 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:46:48 INFO]: View Distance: 4
+[20:46:48 INFO]: Zombie Aggressive Towards Villager: true
+[20:46:48 INFO]: Chunks to Grow per Tick: 450
+[20:46:48 INFO]: Clear tick list: false
+[20:46:48 INFO]: Experience Merge Radius: 3.0
+[20:46:48 INFO]: -------- World Settings For [J_the_end] --------
+[20:46:48 INFO]: Nerfing mobs spawned from spawners: false
+[20:46:48 INFO]: Cactus Growth Modifier: 100%
+[20:46:48 INFO]: Cane Growth Modifier: 100%
+[20:46:48 INFO]: Melon Growth Modifier: 100%
+[20:46:48 INFO]: Mushroom Growth Modifier: 100%
+[20:46:48 INFO]: Pumpkin Growth Modifier: 100%
+[20:46:48 INFO]: Sapling Growth Modifier: 100%
+[20:46:48 INFO]: Wheat Growth Modifier: 100%
+[20:46:48 INFO]: NetherWart Growth Modifier: 100%
+[20:46:48 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:46:48 INFO]: Mob Spawn Range: 4
+[20:46:48 INFO]: Anti X-Ray: false
+[20:46:48 INFO]: 	Engine Mode: 1
+[20:46:48 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:46:48 INFO]: 	Replace Blocks: [1, 5]
+[20:46:48 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:46:48 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:46:48 INFO]: Random Lighting Updates: false
+[20:46:48 INFO]: Structure Info Saving: true
+[20:46:48 INFO]: Sending up to 10 chunks per packet
+[20:46:48 INFO]: Max Entity Collisions: 8
+[20:46:48 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:46:48 INFO]: Max TNT Explosions: 100
+[20:46:48 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:46:48 INFO]: Item Despawn Rate: 6000
+[20:46:48 INFO]: Item Merge Radius: 2.5
+[20:46:48 INFO]: Arrow Despawn Rate: 1200
+[20:46:48 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:46:48 INFO]: View Distance: 4
+[20:46:48 INFO]: Zombie Aggressive Towards Villager: true
+[20:46:48 INFO]: Chunks to Grow per Tick: 450
+[20:46:48 INFO]: Clear tick list: false
+[20:46:48 INFO]: Experience Merge Radius: 3.0
+[20:46:48 INFO]: Preparing start region for level 0 (Seed: 7936026946858735291)
+[20:46:49 INFO]: Preparing spawn area: 11%
+[20:46:50 INFO]: Preparing spawn area: 37%
+[20:46:51 INFO]: Preparing spawn area: 63%
+[20:46:52 INFO]: Preparing start region for level 1 (Seed: 7936026946858735291)
+[20:46:53 INFO]: Preparing spawn area: 52%
+[20:46:53 INFO]: Preparing start region for level 2 (Seed: 7936026946858735291)
+[20:46:54 INFO]: [dynmap] Enabling dynmap v2.2-SNAPSHOT-1106
+[20:46:54 INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[20:46:54 INFO]: [dynmap] Web interface permissions only available for online users
+[20:46:54 INFO]: [dynmap] Mod Support processing completed
+[20:46:56 INFO]: [dynmap] Loaded 23 shaders.
+[20:46:56 INFO]: [dynmap] Loaded 82 perspectives.
+[20:46:56 INFO]: [dynmap] Loaded 14 lightings.
+[20:46:56 INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[20:46:56 INFO]: [dynmap] version 2.2-SNAPSHOT-1106 is enabled - core version 2.2-SNAPSHOT-2044
+[20:46:56 INFO]: [dynmap] Loaded 3 maps of world 'J'.
+[20:46:56 INFO]: [dynmap] Loaded 31 pending tile renders for world 'J'
+[20:46:56 INFO]: [dynmap] Loaded 2 maps of world 'J_nether'.
+[20:46:56 INFO]: [dynmap] Loaded 2 maps of world 'J_the_end'.
+[20:46:56 INFO]: [dynmap] Enabled
+[20:46:57 INFO]: [NoSpawnChunks] Enabling NoSpawnChunks v2.0 (Build 142)
+[20:46:57 INFO]: [NoSpawnChunks] NoSpawnChunks v2.0 (Build 142) has been enabled. Took 16 ms.
+[20:46:57 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:46:57 INFO]: Done (8.477s)! For help, type "help" or "?"
+[20:46:57 INFO]: [dynmap] Loading default resource pack
+[20:47:00 INFO]: [NoSpawnChunks] Unloading chunks...
+[20:47:02 INFO]: [NoSpawnChunks] Unloaded 1,875 chunks. Took 1,884 ms.
+[20:47:02 INFO]: [NoSpawnChunks] Freed 166 mb!
+[20:47:26 INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
+[20:47:26 INFO]: snickk[/198.48.196.61:60724] logged in with entity id 1054 at ([J]-221.61828841980744, 83.0, 306.5714032323176)
+Loading libraries, please wait...
+[20:47:54 INFO]: Starting minecraft server version 1.8.8
+[20:47:54 INFO]: Loading properties
+[20:47:54 INFO]: Default game type: SURVIVAL
+[20:47:54 INFO]: This server is running CraftBukkit version git-Spigot-fdc1440-53fac9f (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[20:47:54 INFO]: Server Ping Player Sample Count: 12
+[20:47:54 INFO]: Using 4 threads for Netty based IO
+[20:47:54 INFO]: Debug logging is disabled
+[20:47:54 INFO]: Generating keypair
+[20:47:55 INFO]: Starting Minecraft server on *:25565
+[20:47:55 INFO]: Using epoll channel type
+[20:47:55 INFO]: Set PluginClassLoader as parallel capable
+[20:47:55 INFO]: [dynmap] Loading dynmap v2.2-SNAPSHOT-1106
+[20:47:55 INFO]: [dynmap] version=git-Spigot-fdc1440-53fac9f (MC: 1.8.8)
+[20:47:55 INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[20:47:55 INFO]: [dynmap] Mod Support API available
+[20:47:55 INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0 (Build 142)
+[20:47:55 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:47:55 INFO]: Preparing level "J"
+[20:47:55 INFO]: -------- World Settings For [J] --------
+[20:47:55 INFO]: Mob Spawn Range: 4
+[20:47:55 INFO]: Anti X-Ray: false
+[20:47:55 INFO]: 	Engine Mode: 1
+[20:47:55 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:47:55 INFO]: 	Replace Blocks: [1, 5]
+[20:47:55 INFO]: Nerfing mobs spawned from spawners: false
+[20:47:55 INFO]: Cactus Growth Modifier: 100%
+[20:47:55 INFO]: Cane Growth Modifier: 100%
+[20:47:55 INFO]: Melon Growth Modifier: 100%
+[20:47:55 INFO]: Mushroom Growth Modifier: 100%
+[20:47:55 INFO]: Pumpkin Growth Modifier: 100%
+[20:47:55 INFO]: Sapling Growth Modifier: 100%
+[20:47:55 INFO]: Wheat Growth Modifier: 100%
+[20:47:55 INFO]: NetherWart Growth Modifier: 100%
+[20:47:55 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:47:55 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:47:55 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:47:55 INFO]: Random Lighting Updates: false
+[20:47:55 INFO]: Structure Info Saving: true
+[20:47:55 INFO]: Sending up to 10 chunks per packet
+[20:47:55 INFO]: Max Entity Collisions: 8
+[20:47:55 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:47:55 INFO]: Max TNT Explosions: 100
+[20:47:55 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:47:55 INFO]: Item Merge Radius: 2.5
+[20:47:55 INFO]: Item Despawn Rate: 6000
+[20:47:55 INFO]: Arrow Despawn Rate: 1200
+[20:47:55 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:47:55 INFO]: View Distance: 4
+[20:47:55 INFO]: Zombie Aggressive Towards Villager: true
+[20:47:55 INFO]: Chunks to Grow per Tick: 450
+[20:47:55 INFO]: Clear tick list: false
+[20:47:55 INFO]: Experience Merge Radius: 3.0
+[20:47:55 INFO]: -------- World Settings For [J_nether] --------
+[20:47:55 INFO]: Mob Spawn Range: 4
+[20:47:55 INFO]: Anti X-Ray: false
+[20:47:55 INFO]: 	Engine Mode: 1
+[20:47:55 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:47:55 INFO]: 	Replace Blocks: [1, 5]
+[20:47:55 INFO]: Nerfing mobs spawned from spawners: false
+[20:47:55 INFO]: Cactus Growth Modifier: 100%
+[20:47:55 INFO]: Cane Growth Modifier: 100%
+[20:47:55 INFO]: Melon Growth Modifier: 100%
+[20:47:55 INFO]: Mushroom Growth Modifier: 100%
+[20:47:55 INFO]: Pumpkin Growth Modifier: 100%
+[20:47:55 INFO]: Sapling Growth Modifier: 100%
+[20:47:55 INFO]: Wheat Growth Modifier: 100%
+[20:47:55 INFO]: NetherWart Growth Modifier: 100%
+[20:47:55 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:47:55 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:47:55 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:47:55 INFO]: Random Lighting Updates: false
+[20:47:55 INFO]: Structure Info Saving: true
+[20:47:55 INFO]: Sending up to 10 chunks per packet
+[20:47:55 INFO]: Max Entity Collisions: 8
+[20:47:55 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:47:55 INFO]: Max TNT Explosions: 100
+[20:47:55 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:47:55 INFO]: Item Merge Radius: 2.5
+[20:47:55 INFO]: Item Despawn Rate: 6000
+[20:47:55 INFO]: Arrow Despawn Rate: 1200
+[20:47:55 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:47:55 INFO]: View Distance: 4
+[20:47:55 INFO]: Zombie Aggressive Towards Villager: true
+[20:47:55 INFO]: Chunks to Grow per Tick: 450
+[20:47:55 INFO]: Clear tick list: false
+[20:47:55 INFO]: Experience Merge Radius: 3.0
+[20:47:55 INFO]: -------- World Settings For [J_the_end] --------
+[20:47:55 INFO]: Mob Spawn Range: 4
+[20:47:55 INFO]: Anti X-Ray: false
+[20:47:55 INFO]: 	Engine Mode: 1
+[20:47:55 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:47:55 INFO]: 	Replace Blocks: [1, 5]
+[20:47:55 INFO]: Nerfing mobs spawned from spawners: false
+[20:47:55 INFO]: Cactus Growth Modifier: 100%
+[20:47:55 INFO]: Cane Growth Modifier: 100%
+[20:47:55 INFO]: Melon Growth Modifier: 100%
+[20:47:55 INFO]: Mushroom Growth Modifier: 100%
+[20:47:55 INFO]: Pumpkin Growth Modifier: 100%
+[20:47:55 INFO]: Sapling Growth Modifier: 100%
+[20:47:55 INFO]: Wheat Growth Modifier: 100%
+[20:47:55 INFO]: NetherWart Growth Modifier: 100%
+[20:47:55 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:47:55 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:47:55 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:47:55 INFO]: Random Lighting Updates: false
+[20:47:55 INFO]: Structure Info Saving: true
+[20:47:55 INFO]: Sending up to 10 chunks per packet
+[20:47:55 INFO]: Max Entity Collisions: 8
+[20:47:55 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:47:55 INFO]: Max TNT Explosions: 100
+[20:47:55 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:47:55 INFO]: Item Merge Radius: 2.5
+[20:47:55 INFO]: Item Despawn Rate: 6000
+[20:47:55 INFO]: Arrow Despawn Rate: 1200
+[20:47:55 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:47:55 INFO]: View Distance: 4
+[20:47:55 INFO]: Zombie Aggressive Towards Villager: true
+[20:47:55 INFO]: Chunks to Grow per Tick: 450
+[20:47:55 INFO]: Clear tick list: false
+[20:47:55 INFO]: Experience Merge Radius: 3.0
+[20:47:55 INFO]: Preparing start region for level 0 (Seed: 7936026946858735291)
+[20:47:56 INFO]: Preparing spawn area: 16%
+[20:47:57 INFO]: Preparing spawn area: 51%
+[20:47:58 INFO]: Preparing start region for level 1 (Seed: 7936026946858735291)
+[20:47:59 INFO]: Preparing spawn area: 86%
+[20:47:59 INFO]: Preparing start region for level 2 (Seed: 7936026946858735291)
+[20:48:00 INFO]: [dynmap] Enabling dynmap v2.2-SNAPSHOT-1106
+[20:48:00 INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[20:48:00 INFO]: [dynmap] Web interface permissions only available for online users
+[20:48:00 INFO]: [dynmap] Mod Support processing completed
+[20:48:01 INFO]: [dynmap] Loaded 23 shaders.
+[20:48:01 INFO]: [dynmap] Loaded 82 perspectives.
+[20:48:01 INFO]: [dynmap] Loaded 14 lightings.
+[20:48:01 INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[20:48:01 INFO]: [dynmap] version 2.2-SNAPSHOT-1106 is enabled - core version 2.2-SNAPSHOT-2044
+[20:48:01 INFO]: [dynmap] Loaded 3 maps of world 'J'.
+[20:48:01 INFO]: [dynmap] Loaded 17 pending tile renders for world 'J'
+[20:48:01 INFO]: [dynmap] Loaded 2 maps of world 'J_nether'.
+[20:48:01 INFO]: [dynmap] Loaded 2 maps of world 'J_the_end'.
+[20:48:01 INFO]: [dynmap] Enabled
+[20:48:02 INFO]: [NoSpawnChunks] Enabling NoSpawnChunks v2.0 (Build 142)
+[20:48:02 INFO]: [NoSpawnChunks] NoSpawnChunks v2.0 (Build 142) has been enabled. Took 11 ms.
+[20:48:02 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:48:02 INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
+[20:48:02 INFO]: Done (6.401s)! For help, type "help" or "?"
+[20:48:02 INFO]: snickk[/198.48.196.61:60741] logged in with entity id 745 at ([J]-221.61828841980744, 83.0, 306.5714032323176)
+[20:48:03 INFO]: [dynmap] Loading default resource pack
+[20:48:05 INFO]: [NoSpawnChunks] Unloading chunks...
+[20:48:07 INFO]: [NoSpawnChunks] Unloaded 1,794 chunks. Took 1,871 ms.
+[20:48:08 INFO]: [NoSpawnChunks] Freed 150 mb!
+[20:51:02 INFO]: Stopping server
+Loading libraries, please wait...
+[20:51:14 INFO]: Starting minecraft server version 1.8.8
+[20:51:14 INFO]: Loading properties
+[20:51:14 INFO]: Default game type: SURVIVAL
+[20:51:14 INFO]: This server is running CraftBukkit version git-Spigot-fdc1440-53fac9f (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[20:51:15 INFO]: Server Ping Player Sample Count: 12
+[20:51:15 INFO]: Using 4 threads for Netty based IO
+[20:51:15 INFO]: Debug logging is disabled
+[20:51:15 INFO]: Generating keypair
+[20:51:15 INFO]: Starting Minecraft server on *:25565
+[20:51:15 INFO]: Using epoll channel type
+[20:51:15 INFO]: Set PluginClassLoader as parallel capable
+[20:51:15 INFO]: [dynmap] Loading dynmap v2.2-SNAPSHOT-1106
+[20:51:15 INFO]: [dynmap] version=git-Spigot-fdc1440-53fac9f (MC: 1.8.8)
+[20:51:15 INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[20:51:15 INFO]: [dynmap] Mod Support API available
+[20:51:16 INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0 (Build 142)
+[20:51:16 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:51:16 INFO]: Preparing level "J"
+[20:51:16 INFO]: -------- World Settings For [J] --------
+[20:51:16 INFO]: Cactus Growth Modifier: 100%
+[20:51:16 INFO]: Cane Growth Modifier: 100%
+[20:51:16 INFO]: Melon Growth Modifier: 100%
+[20:51:16 INFO]: Mushroom Growth Modifier: 100%
+[20:51:16 INFO]: Pumpkin Growth Modifier: 100%
+[20:51:16 INFO]: Sapling Growth Modifier: 100%
+[20:51:16 INFO]: Wheat Growth Modifier: 100%
+[20:51:16 INFO]: NetherWart Growth Modifier: 100%
+[20:51:16 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:51:16 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:51:16 INFO]: Anti X-Ray: false
+[20:51:16 INFO]: 	Engine Mode: 1
+[20:51:16 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:51:16 INFO]: 	Replace Blocks: [1, 5]
+[20:51:16 INFO]: Nerfing mobs spawned from spawners: false
+[20:51:16 INFO]: Mob Spawn Range: 4
+[20:51:16 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:51:16 INFO]: Random Lighting Updates: false
+[20:51:16 INFO]: Structure Info Saving: true
+[20:51:16 INFO]: Sending up to 10 chunks per packet
+[20:51:16 INFO]: Max Entity Collisions: 8
+[20:51:16 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:51:16 INFO]: Max TNT Explosions: 100
+[20:51:16 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:51:16 INFO]: Item Despawn Rate: 6000
+[20:51:16 INFO]: Item Merge Radius: 2.5
+[20:51:16 INFO]: Arrow Despawn Rate: 1200
+[20:51:16 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:51:16 INFO]: View Distance: 4
+[20:51:16 INFO]: Zombie Aggressive Towards Villager: true
+[20:51:16 INFO]: Chunks to Grow per Tick: 450
+[20:51:16 INFO]: Clear tick list: false
+[20:51:16 INFO]: Experience Merge Radius: 3.0
+[20:51:16 INFO]: -------- World Settings For [J_nether] --------
+[20:51:16 INFO]: Cactus Growth Modifier: 100%
+[20:51:16 INFO]: Cane Growth Modifier: 100%
+[20:51:16 INFO]: Melon Growth Modifier: 100%
+[20:51:16 INFO]: Mushroom Growth Modifier: 100%
+[20:51:16 INFO]: Pumpkin Growth Modifier: 100%
+[20:51:16 INFO]: Sapling Growth Modifier: 100%
+[20:51:16 INFO]: Wheat Growth Modifier: 100%
+[20:51:16 INFO]: NetherWart Growth Modifier: 100%
+[20:51:16 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:51:16 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:51:16 INFO]: Anti X-Ray: false
+[20:51:16 INFO]: 	Engine Mode: 1
+[20:51:16 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:51:16 INFO]: 	Replace Blocks: [1, 5]
+[20:51:16 INFO]: Nerfing mobs spawned from spawners: false
+[20:51:16 INFO]: Mob Spawn Range: 4
+[20:51:16 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:51:16 INFO]: Random Lighting Updates: false
+[20:51:16 INFO]: Structure Info Saving: true
+[20:51:16 INFO]: Sending up to 10 chunks per packet
+[20:51:16 INFO]: Max Entity Collisions: 8
+[20:51:16 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:51:16 INFO]: Max TNT Explosions: 100
+[20:51:16 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:51:16 INFO]: Item Despawn Rate: 6000
+[20:51:16 INFO]: Item Merge Radius: 2.5
+[20:51:16 INFO]: Arrow Despawn Rate: 1200
+[20:51:16 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:51:16 INFO]: View Distance: 4
+[20:51:16 INFO]: Zombie Aggressive Towards Villager: true
+[20:51:16 INFO]: Chunks to Grow per Tick: 450
+[20:51:16 INFO]: Clear tick list: false
+[20:51:16 INFO]: Experience Merge Radius: 3.0
+[20:51:16 INFO]: -------- World Settings For [J_the_end] --------
+[20:51:16 INFO]: Cactus Growth Modifier: 100%
+[20:51:16 INFO]: Cane Growth Modifier: 100%
+[20:51:16 INFO]: Melon Growth Modifier: 100%
+[20:51:16 INFO]: Mushroom Growth Modifier: 100%
+[20:51:16 INFO]: Pumpkin Growth Modifier: 100%
+[20:51:16 INFO]: Sapling Growth Modifier: 100%
+[20:51:16 INFO]: Wheat Growth Modifier: 100%
+[20:51:16 INFO]: NetherWart Growth Modifier: 100%
+[20:51:16 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:51:16 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:51:16 INFO]: Anti X-Ray: false
+[20:51:16 INFO]: 	Engine Mode: 1
+[20:51:16 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:51:16 INFO]: 	Replace Blocks: [1, 5]
+[20:51:16 INFO]: Nerfing mobs spawned from spawners: false
+[20:51:16 INFO]: Mob Spawn Range: 4
+[20:51:16 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:51:16 INFO]: Random Lighting Updates: false
+[20:51:16 INFO]: Structure Info Saving: true
+[20:51:16 INFO]: Sending up to 10 chunks per packet
+[20:51:16 INFO]: Max Entity Collisions: 8
+[20:51:16 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:51:16 INFO]: Max TNT Explosions: 100
+[20:51:16 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:51:16 INFO]: Item Despawn Rate: 6000
+[20:51:16 INFO]: Item Merge Radius: 2.5
+[20:51:16 INFO]: Arrow Despawn Rate: 1200
+[20:51:16 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:51:16 INFO]: View Distance: 4
+[20:51:16 INFO]: Zombie Aggressive Towards Villager: true
+[20:51:16 INFO]: Chunks to Grow per Tick: 450
+[20:51:16 INFO]: Clear tick list: false
+[20:51:16 INFO]: Experience Merge Radius: 3.0
+[20:51:16 INFO]: Preparing start region for level 0 (Seed: 7936026946858735291)
+[20:51:17 INFO]: Preparing spawn area: 14%
+[20:51:18 INFO]: Preparing spawn area: 46%
+[20:51:19 INFO]: Preparing spawn area: 72%
+[20:51:19 INFO]: Preparing start region for level 1 (Seed: 7936026946858735291)
+[20:51:20 INFO]: Preparing spawn area: 80%
+[20:51:20 INFO]: Preparing start region for level 2 (Seed: 7936026946858735291)
+[20:51:21 INFO]: [dynmap] Enabling dynmap v2.2-SNAPSHOT-1106
+[20:51:21 INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[20:51:21 INFO]: [dynmap] Web interface permissions only available for online users
+[20:51:21 INFO]: [dynmap] Mod Support processing completed
+[20:51:22 INFO]: [dynmap] Loaded 23 shaders.
+[20:51:22 INFO]: [dynmap] Loaded 82 perspectives.
+[20:51:22 INFO]: [dynmap] Loaded 14 lightings.
+[20:51:22 INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[20:51:22 INFO]: [dynmap] version 2.2-SNAPSHOT-1106 is enabled - core version 2.2-SNAPSHOT-2044
+[20:51:22 INFO]: [dynmap] Loaded 3 maps of world 'J'.
+[20:51:22 INFO]: [dynmap] Loaded 50 pending tile renders for world 'J'
+[20:51:22 INFO]: [dynmap] Loaded 2 maps of world 'J_nether'.
+[20:51:22 INFO]: [dynmap] Loaded 2 maps of world 'J_the_end'.
+[20:51:22 INFO]: [dynmap] Enabled
+[20:51:22 INFO]: [NoSpawnChunks] Enabling NoSpawnChunks v2.0 (Build 142)
+[20:51:22 INFO]: [NoSpawnChunks] NoSpawnChunks v2.0 (Build 142) has been enabled. Took 14 ms.
+[20:51:22 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:51:22 INFO]: Done (6.748s)! For help, type "help" or "?"
+[20:51:23 INFO]: [dynmap] Loading default resource pack
+[20:51:27 INFO]: [NoSpawnChunks] Unloading chunks...
+[20:51:28 INFO]: [NoSpawnChunks] Unloaded 1,250 chunks. Took 1,787 ms.
+[20:51:31 INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
+[20:51:31 INFO]: snickk[/198.48.196.61:60762] logged in with entity id 715 at ([J]-224.24683764342961, 78.0, 307.3807645327178)
+[20:53:16 INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[20:53:16 INFO]: srevid[/192.222.201.105:53546] logged in with entity id 2086 at ([J]-284.30923497128595, 62.0, 230.37674590840575)
+[20:53:27 INFO]: <srevid> re
+[20:54:57 INFO]: Stopping server
+Loading libraries, please wait...
+[20:55:10 INFO]: Starting minecraft server version 1.8.8
+[20:55:10 INFO]: Loading properties
+[20:55:10 INFO]: Default game type: SURVIVAL
+[20:55:10 INFO]: This server is running CraftBukkit version git-Spigot-fdc1440-53fac9f (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[20:55:11 INFO]: Server Ping Player Sample Count: 12
+[20:55:11 INFO]: Using 4 threads for Netty based IO
+[20:55:11 INFO]: Debug logging is disabled
+[20:55:11 INFO]: Generating keypair
+[20:55:11 INFO]: Starting Minecraft server on *:25565
+[20:55:11 INFO]: Using epoll channel type
+[20:55:11 INFO]: Set PluginClassLoader as parallel capable
+[20:55:11 INFO]: [dynmap] Loading dynmap v2.2-SNAPSHOT-1106
+[20:55:11 INFO]: [dynmap] version=git-Spigot-fdc1440-53fac9f (MC: 1.8.8)
+[20:55:12 INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[20:55:12 INFO]: [dynmap] Mod Support API available
+[20:55:12 INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0 (Build 142)
+[20:55:12 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:55:12 INFO]: Preparing level "J"
+[20:55:12 INFO]: -------- World Settings For [J] --------
+[20:55:12 INFO]: Nerfing mobs spawned from spawners: false
+[20:55:12 INFO]: Cactus Growth Modifier: 100%
+[20:55:12 INFO]: Cane Growth Modifier: 100%
+[20:55:12 INFO]: Melon Growth Modifier: 100%
+[20:55:12 INFO]: Mushroom Growth Modifier: 100%
+[20:55:12 INFO]: Pumpkin Growth Modifier: 100%
+[20:55:12 INFO]: Sapling Growth Modifier: 100%
+[20:55:12 INFO]: Wheat Growth Modifier: 100%
+[20:55:12 INFO]: NetherWart Growth Modifier: 100%
+[20:55:12 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:55:12 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:55:12 INFO]: Mob Spawn Range: 4
+[20:55:12 INFO]: Anti X-Ray: false
+[20:55:12 INFO]: 	Engine Mode: 1
+[20:55:12 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:55:12 INFO]: 	Replace Blocks: [1, 5]
+[20:55:12 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:55:12 INFO]: Random Lighting Updates: false
+[20:55:12 INFO]: Structure Info Saving: true
+[20:55:12 INFO]: Sending up to 10 chunks per packet
+[20:55:12 INFO]: Max Entity Collisions: 8
+[20:55:12 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:55:12 INFO]: Max TNT Explosions: 100
+[20:55:12 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:55:12 INFO]: Item Despawn Rate: 6000
+[20:55:12 INFO]: Item Merge Radius: 2.5
+[20:55:12 INFO]: Chunks to Grow per Tick: 450
+[20:55:12 INFO]: Clear tick list: false
+[20:55:12 INFO]: Experience Merge Radius: 3.0
+[20:55:12 INFO]: Arrow Despawn Rate: 1200
+[20:55:12 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:55:12 INFO]: View Distance: 8
+[20:55:12 INFO]: Zombie Aggressive Towards Villager: true
+[20:55:12 INFO]: -------- World Settings For [J_nether] --------
+[20:55:12 INFO]: Nerfing mobs spawned from spawners: false
+[20:55:12 INFO]: Cactus Growth Modifier: 100%
+[20:55:12 INFO]: Cane Growth Modifier: 100%
+[20:55:12 INFO]: Melon Growth Modifier: 100%
+[20:55:12 INFO]: Mushroom Growth Modifier: 100%
+[20:55:12 INFO]: Pumpkin Growth Modifier: 100%
+[20:55:12 INFO]: Sapling Growth Modifier: 100%
+[20:55:12 INFO]: Wheat Growth Modifier: 100%
+[20:55:12 INFO]: NetherWart Growth Modifier: 100%
+[20:55:12 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:55:12 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:55:12 INFO]: Mob Spawn Range: 4
+[20:55:12 INFO]: Anti X-Ray: false
+[20:55:12 INFO]: 	Engine Mode: 1
+[20:55:12 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:55:12 INFO]: 	Replace Blocks: [1, 5]
+[20:55:12 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:55:12 INFO]: Random Lighting Updates: false
+[20:55:12 INFO]: Structure Info Saving: true
+[20:55:12 INFO]: Sending up to 10 chunks per packet
+[20:55:12 INFO]: Max Entity Collisions: 8
+[20:55:12 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:55:12 INFO]: Max TNT Explosions: 100
+[20:55:12 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:55:12 INFO]: Item Despawn Rate: 6000
+[20:55:12 INFO]: Item Merge Radius: 2.5
+[20:55:12 INFO]: Chunks to Grow per Tick: 450
+[20:55:12 INFO]: Clear tick list: false
+[20:55:12 INFO]: Experience Merge Radius: 3.0
+[20:55:12 INFO]: Arrow Despawn Rate: 1200
+[20:55:12 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:55:12 INFO]: View Distance: 8
+[20:55:12 INFO]: Zombie Aggressive Towards Villager: true
+[20:55:12 INFO]: -------- World Settings For [J_the_end] --------
+[20:55:12 INFO]: Nerfing mobs spawned from spawners: false
+[20:55:12 INFO]: Cactus Growth Modifier: 100%
+[20:55:12 INFO]: Cane Growth Modifier: 100%
+[20:55:12 INFO]: Melon Growth Modifier: 100%
+[20:55:12 INFO]: Mushroom Growth Modifier: 100%
+[20:55:12 INFO]: Pumpkin Growth Modifier: 100%
+[20:55:12 INFO]: Sapling Growth Modifier: 100%
+[20:55:12 INFO]: Wheat Growth Modifier: 100%
+[20:55:12 INFO]: NetherWart Growth Modifier: 100%
+[20:55:12 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:55:12 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:55:12 INFO]: Mob Spawn Range: 4
+[20:55:12 INFO]: Anti X-Ray: false
+[20:55:12 INFO]: 	Engine Mode: 1
+[20:55:12 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:55:12 INFO]: 	Replace Blocks: [1, 5]
+[20:55:12 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:55:12 INFO]: Random Lighting Updates: false
+[20:55:12 INFO]: Structure Info Saving: true
+[20:55:12 INFO]: Sending up to 10 chunks per packet
+[20:55:12 INFO]: Max Entity Collisions: 8
+[20:55:12 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:55:12 INFO]: Max TNT Explosions: 100
+[20:55:12 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:55:12 INFO]: Item Despawn Rate: 6000
+[20:55:12 INFO]: Item Merge Radius: 2.5
+[20:55:12 INFO]: Chunks to Grow per Tick: 450
+[20:55:12 INFO]: Clear tick list: false
+[20:55:12 INFO]: Experience Merge Radius: 3.0
+[20:55:12 INFO]: Arrow Despawn Rate: 1200
+[20:55:12 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:55:12 INFO]: View Distance: 8
+[20:55:12 INFO]: Zombie Aggressive Towards Villager: true
+[20:55:12 INFO]: Preparing start region for level 0 (Seed: 7936026946858735291)
+[20:55:13 INFO]: Preparing spawn area: 13%
+[20:55:14 INFO]: Preparing spawn area: 36%
+[20:55:15 INFO]: Preparing spawn area: 56%
+[20:55:16 INFO]: Preparing spawn area: 82%
+[20:55:16 INFO]: UUID of player snickk is 141a01db-1d8e-4389-a298-d815a28ac8fc
+[20:55:17 INFO]: Preparing start region for level 1 (Seed: 7936026946858735291)
+[20:55:18 INFO]: Preparing spawn area: 75%
+[20:55:18 INFO]: Preparing start region for level 2 (Seed: 7936026946858735291)
+[20:55:18 INFO]: [dynmap] Enabling dynmap v2.2-SNAPSHOT-1106
+[20:55:18 INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[20:55:18 INFO]: [dynmap] Web interface permissions only available for online users
+[20:55:19 INFO]: [dynmap] Mod Support processing completed
+[20:55:20 INFO]: [dynmap] Loaded 23 shaders.
+[20:55:20 INFO]: [dynmap] Loaded 82 perspectives.
+[20:55:20 INFO]: [dynmap] Loaded 14 lightings.
+[20:55:20 INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[20:55:20 INFO]: [dynmap] version 2.2-SNAPSHOT-1106 is enabled - core version 2.2-SNAPSHOT-2044
+[20:55:20 INFO]: [dynmap] Loaded 3 maps of world 'J'.
+[20:55:20 INFO]: [dynmap] Loaded 33 pending tile renders for world 'J'
+[20:55:20 INFO]: [dynmap] Loaded 2 maps of world 'J_nether'.
+[20:55:20 INFO]: [dynmap] Loaded 2 maps of world 'J_the_end'.
+[20:55:20 INFO]: [dynmap] Enabled
+[20:55:20 INFO]: [NoSpawnChunks] Enabling NoSpawnChunks v2.0 (Build 142)
+[20:55:20 INFO]: [NoSpawnChunks] NoSpawnChunks v2.0 (Build 142) has been enabled. Took 11 ms.
+[20:55:20 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:55:20 INFO]: Done (8.386s)! For help, type "help" or "?"
+[20:55:20 INFO]: snickk[/198.48.196.61:60808] logged in with entity id 691 at ([J]-226.817744025485, 87.0, 304.4246043268123)
+[20:55:21 INFO]: [dynmap] Loading default resource pack
+[20:55:23 INFO]: UUID of player gripette is 780bc463-95d4-4da0-99b7-eae34cf5f555
+[20:55:23 INFO]: gripette[/192.222.201.105:54177] logged in with entity id 692 at ([J]-288.6023618640066, 62.0, 230.62951958717082)
+[20:55:25 INFO]: [NoSpawnChunks] Unloading chunks...
+[20:55:28 INFO]: [NoSpawnChunks] Unloaded 1,465 chunks. Took 3,333 ms.
+[20:55:29 INFO]: [NoSpawnChunks] Freed 160 mb!
+[20:55:31 INFO]: UUID of player srevid is 665f4672-28c0-41c8-a808-b8713b58bf72
+[20:55:31 INFO]: srevid[/192.222.201.105:53562] logged in with entity id 851 at ([J]-271.4169084418098, 62.0, 229.49000619217546)
+[20:55:38 INFO]: <snickk> dsl je vous avais pas vu :P
+[20:55:38 INFO]: <srevid> reboot ?
+[20:55:46 INFO]: <gripette> on vient juste de reloguer
+[20:55:54 INFO]: <snickk> ouais je test des settings
+[20:55:56 INFO]: <srevid> as tu changer la distance de vu ?
+[20:56:00 INFO]: <snickk> yp
+[20:56:02 INFO]: <snickk> yup
+[20:56:07 INFO]: <srevid> cool !
