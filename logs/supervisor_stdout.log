@@ -4598,3 +4598,46 @@ Loading libraries, please wait...
 [20:56:00 INFO]: <snickk> yp
 [20:56:02 INFO]: <snickk> yup
 [20:56:07 INFO]: <srevid> cool !
+[21:00:12 INFO]: <snickk> ouep. cest pas mal mieux acoster au nouveau port :P
+[21:00:17 INFO]: <gripette> :)
+[21:00:23 INFO]: <gripette> en plus ca l'air moins fou!
+[21:00:32 INFO]: <gripette> je vais le faire au complet (un moment donné)
+[21:00:34 INFO]: <snickk> avant cétait un coin abandonné plein de trous
+[21:00:42 INFO]: <gripette> la chu tannée de pelter du sable)
+[21:00:54 INFO]: <snickk> reste juste a pelleter la maison a emma hehe
+[21:01:08 INFO]: <gripette> ouin jvais arranger ca avec elle un moment donné
+[21:01:20 INFO]: <snickk> ya des monstres qui entrent pas la
+[21:01:25 INFO]: <snickk> et attaque tes portes
+[21:01:32 INFO]: <gripette> mes portes de ou?
+[21:01:41 INFO]: <snickk> celles de ton 2ieme étage
+[21:01:48 INFO]: <gripette> de mon "chateau"?
+[21:01:55 INFO]: <snickk> ouais
+[21:01:59 INFO]: <gripette> hm
+[21:02:16 INFO]: <gripette> je cherche un squelette au loin
+[21:02:32 INFO]: <gripette> on peut les voir aussi au loin?
+[21:02:47 INFO]: <snickk> pas sur
+[21:02:55 INFO]: <snickk> assez loin mais pas au dela des torches quon a mis
+[21:03:14 INFO]: <gripette> non mais des fois y restent en vie le jour sous les arbres
+[21:03:38 INFO]: <snickk> ouais mais on voit les blocs plus loin que les mobs
+[21:03:49 INFO]: <gripette> fak comment on tire a 50 blocs?
+[21:04:49 INFO]: <snickk> sais pas hehe. p-e quon les voit quand meme plus loin qu'avant
+[21:08:14 INFO]: <snickk> ca lair que les pigments traversent pas les portails, cest les portails qui les spawn
+[21:08:31 INFO]: <snickk> (pigment farm)
+[21:08:43 INFO]: <gripette> portail spawnent des pigmens...
+[21:09:24 INFO]: com.mojang.authlib.GameProfile@38da9bae[id=<null>,name=TiPoulet,properties={},legacy=false] (/70.82.243.105:51070) lost connection: Disconnected
+[21:09:30 INFO]: com.mojang.authlib.GameProfile@711db594[id=<null>,name=TiPoulet,properties={},legacy=false] (/70.82.243.105:51072) lost connection: Disconnected
+[21:09:37 INFO]: com.mojang.authlib.GameProfile@15560519[id=<null>,name=TiPoulet,properties={},legacy=false] (/70.82.243.105:51076) lost connection: Disconnected
+[21:09:42 INFO]: com.mojang.authlib.GameProfile@311187e[id=<null>,name=TiPoulet,properties={},legacy=false] (/70.82.243.105:51078) lost connection: Disconnected
+[21:10:25 INFO]: UUID of player TiPoulet is 5bfeaf1f-c328-4c78-b30d-bda7fdafb049
+[21:10:25 INFO]: TiPoulet[/70.82.243.105:51127] logged in with entity id 22261 at ([J]-192.59634387828322, 75.0, 299.21879816670383)
+[21:10:32 INFO]: [NoSpawnChunks] Unloading chunks...
+[21:10:32 INFO]: [NoSpawnChunks] Unloaded 1 chunks. Took 1 ms.
+[21:10:32 INFO]: [NoSpawnChunks] Freed 158 mb!
+[21:10:53 INFO]: UUID of player Spy00 is 9d5dfa3b-f839-4761-8a34-80d123ac6e92
+[21:10:53 INFO]: Spy00[/70.82.243.105:47842] logged in with entity id 22626 at ([J]-183.27583142750413, 75.0, 298.20506240326904)
+[21:11:25 INFO]: Spy00 lost connection: Disconnected
+[21:11:25 INFO]: Spy00 left the game.
+[21:11:34 INFO]: UUID of player Spy00 is 9d5dfa3b-f839-4761-8a34-80d123ac6e92
+[21:11:34 INFO]: Spy00[/70.82.243.105:47858] logged in with entity id 23180 at ([J]-183.27583142750413, 75.0, 298.20506240326904)
+[21:12:10 WARN]: Spy00 moved wrongly!
+[21:20:21 INFO]: TiPoulet has just earned the achievement [Delicious Fish]
