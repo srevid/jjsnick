@@ -1,6 +1,0 @@
-[program:minecraft]
-user=root
-directory=/root/minecraft
-command=java -d64 -server -Xms128M -Xmx3G -+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=2 -XX:+AggressiveOpts -jar spigot-1.8.8.jar nogui
-stdout_logfile=/root/minecraft/logs/supervisor_stdout.log
-stderr_logfile=/root/minecraft/logs/supervisor_stderr.log
